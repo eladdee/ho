@@ -104,11 +104,7 @@
       </div>
       <div id="PageSpinner" class="">
          <div class="Logo">
-            <svg class="Circle" width="220" height="220">
-               <circle cx="110" cy="110" r="110"></circle>
-               <circle cx="110" cy="110" r="110"></circle>
-               <circle cx="110" cy="110" r="110"></circle>
-            </svg>
+         <svg class="Circle" width="220" height="220"><circle cx="110" cy="110" r="110"></circle><circle cx="110" cy="110" r="110"></circle><circle cx="110" cy="110" r="110"></circle></svg>
             <span class="SvgIcon MainIcon">
                <svg width="150" class="LogoFill" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 388.35 79.17" style="enable-background:new 0 0 388.35 79.17" xml:space="preserve">
                   <style>.Rs3vg{clip-path:url(#SVGID_8_);fill:#f6eb1f}</style>
