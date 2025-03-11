@@ -113,7 +113,6 @@
             </span>
          </div>
          <div class="LoadingScreen"><span></span><span></span><span></span><span></span></div>
-
          <div class="">
             <div class="AppVersion" onclick="openMri()">1.0.798</div>
          </div>
