@@ -555,10 +555,7 @@
                            </div>
                         </div>
                      </div>
-                     <div class="SportsFilter SportsFilter--StreamOnly">
-                        <div class="SportsFilter__Title">Filtreler</div>
-                        <div class="SportsFilter__Filters"><span class="OMSwitch"><label class="OMSwitch__Label"><span class="OMSwitch__LabelText">Sadece canli yayinlar</span><input class="OMSwitch__Input" type="checkbox"></label></span></div>
-                     </div>
+                     <div class="SportsFilter SportsFilter--StreamOnly"><div class="SportsFilter__Title">Filtreler</div><div class="SportsFilter__Filters"><span class="OMSwitch"><label class="OMSwitch__Label"><span class="OMSwitch__LabelText">Sadece canli yayinlar</span><input class="OMSwitch__Input" type="checkbox"></label></span></div></div>
                      <div class="MatchList MatchList--Sport-1 MatchList--Outcomes-3 MatchList--LiveEvents">
                         <div class="MatchList__Header">
                            <span class="MatchList__Title">Müsabakalar</span>
@@ -592,59 +589,8 @@
                                  </span>
                               </button>
                            </div>
-                           <div class="MatchListGroup__Content">
-                              <div class="EventItem">
-                                 <div class="EventItem__MatchDetails">
-                                    <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/canli-etkinlikler/1/futb/i%CC%87ngi/i%CC%87ngiltere-premier-ligi/chelsea-wolverhampton-wanderers/258447092634476544">
-                                       <span class="Details__Group">
-                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Chelsea</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Wolverhampton Wanderers</span></span></span>
-                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div>
-                                       </span>
-                                       <span class="EventItem__Descriptors">
-                                          <span class="EventItem__IndicatorsGroup">
-                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
-                                                <svg class="S" viewBox="0 0 126 126">
-                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
-                                                </svg>
-                                             </span>
-                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">242</span></span>
-                                          </span>
-                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">34'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span>
-                                       </span>
-                                    </a>
-                                 </div>
-                                 <div class="EventItem__OddsGroup">
-                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="258447745684249684">
-                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.16</span></div>
-                                       </button>
-                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="258447745684249428">
-                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">7.00</span></div>
-                                       </button>
-                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="258447745684249172">
-                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">15.00</span></div>
-                                       </button>
-                                    </div>
-                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="258448626938976596">
-                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.90</span></div>
-                                       </button>
-                                       <span class="OddsParameter">3.25</span>
-                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="258448626938976340">
-                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
-                                       </button>
-                                    </div>
-                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="258447745703122260">
-                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.75</span></div>
-                                       </button>
-                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="258447745703122004">
-                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.00</span></div>
-                                       </button>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
+                           <div class="MatchListGroup__Content"><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/asya/asya-afc-%C5%9Fampiyonlar-ligi/johor-darul-takzim-fc-buriram-united-fc/264152138358206464"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Johor Darul Takzim FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Buriram United FC</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">0</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!"><svg class="S" viewBox="0 0 126 126"><path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path></svg>
+</span><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">148</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">28'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264292479933028180"><div class="OM-ValueChanger"><span class="OddsButton__Odds">2.05</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264292479933028436"><div class="OM-ValueChanger"><span class="OddsButton__Odds">2.75</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264292479933027924"><div class="OM-ValueChanger"><span class="OddsButton__Odds">3.80</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264317093387112788"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.85</span></div></button><span class="OddsParameter">1.75</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264317093387113300"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.83</span></div></button></div></div></div></div>
                         </div>
                         <div class="MatchListGroup MatchList__Group">
                            <div class="MatchListGroup__Header">
