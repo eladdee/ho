@@ -1,0 +1,2 @@
+(function(){'use strict';const userPolymer=window.Polymer;window.Polymer=function(info){return window.Polymer._polymerFn(info)};if(userPolymer){Object.assign(Polymer,userPolymer)}window.Polymer._polymerFn=function(info){throw new Error("Load polymer.html to use the Polymer() function.")};window.Polymer.version="2.8.0";window.JSCompiler_renameProperty=function(prop,obj){return prop}})();
+//# sourceURL=https://bannermatrix.nwacdn.com/assets/widgets/0.22.6/index.html.js

@@ -10,40 +10,34 @@
       <meta name="googlebot" content="noindex,indexifembedded">
       <base href="/">
       <title>Spor Bahisleri</title>
-      <link rel="preload" href="/sports2-static/chunk.sourcemain.1f35032d88cb0d3fd246.css" as="style">
+      <link rel="preload" href="/sports2-static/chunk.sourcemain.b2667b9e8bc2aee8005b.css" as="style">
       <link rel="preload" href="/sports2-static/chunk.vendorsmain.075fd87c89cfe0d5692c.css" as="style">
-      <link rel="stylesheet" href="/sports2-static/chunk.sourcemain.1f35032d88cb0d3fd246.css">
+      <link rel="stylesheet" href="/sports2-static/chunk.sourcemain.b2667b9e8bc2aee8005b.css">
       <link rel="stylesheet" href="/sports2-static/chunk.vendorsmain.075fd87c89cfe0d5692c.css">
       <style>.ABTestHide .ABTestVariant{opacity:0!important}</style>
+      <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NDHCDWF"></script><script>!function(e,t,n,a,c,s,d,i,m){t.className+=" "+n,s.start=1*new Date,s.end=d=function(){t.className=t.className.replace(RegExp(" ?"+n),"")},(e[a]=e[a]||[]).hide=s,setTimeout((function(){d(),s.end=null}),4e3),s.timeout=4e3}(window,document.documentElement,"ABTestHide","dataLayer",0,{"GTM-NDHCDWF":!0})</script><script>window.OMFE2_BUILD_VERSION={"@om-fe":{"@om-fe/core":"1.60.13","@om-fe/api":"1.60.13","@om-fe/models":"1.60.13","@om-fe/utils":"1.60.13","@om-fe/wampy-api":"1.60.13","@om-fe/event-horizon":"1.60.13","@om-fe/store":"1.60.13","@om-fe/widgets":"1.60.13","@om-frontend-widgets/odds-web-cmp":"0.1.19","@om-frontend-widgets/react":"0.0.65","@om-retail/offerlib":"3.2.1","@om-retail/web-cmp":"3.4.1-alpha.11"},operator:"holiganbet",operatorVersion:"1.0.400"},window.OMFE2CONFIG={app:{operatorName:"Holiganbet",prodEnv:"env5s2"},i18nConfig:{defaultLanguage:"tr",languageList:["tr","en"]},betslip:{defaultStake:10,inputStakeIncrementValue:20,allowSingleBets:!0,hasMaxBetButton:!0,predefinedStakes:["10","20","50","100","250","500","1000"],goToLoginOnPlaceBetIfNotLoggedIn:!0,deepLink:!0,hasMaxStakeWithLogin:!0,limitStakeInput:7,shareBetButton:{showShareBetButton:!0}},settings:{defaultOddsFormat:"DECIMAL"},userAuthMethod:"CESession",parentPages:{mobile:{hasLoginPage:!0,hasRegisterPage:!0},desktop:{hasLoginPage:!0,hasRegisterPage:!0}},layout:{hideTimeOnHalfTime:"true",enableItfLogo:!0},matchListConfig:{liveUpcoming:{live:{marketsHeaderOptions:"show_tournament"},upcoming:{marketsHeaderOptions:"show_tournament"}},popularEvents:{marketsHeaderOptions:"show_tournament",eventsNumber:{page:30}},nextEvents:{marketsHeaderOptions:"show_tournament",endInterval:3,defaultSteps:[1,3,6,12,24,48]},groupedMatch:{live:{marketsHeaderOptions:"show_tournament"},upcoming:{marketsHeaderOptions:"show_tournament"}},liveSports:{marketsHeaderOptions:"show_tournament",eventsNumber:15,showOutrights:!0},commonConfig:{groupsExpanded:10},matchListSelector:{enabled:!0,numberOfList:20}},betradar:{clientId:"6f0978642e34038888fb1d451b8e173a"},showDeprecatedMessageWarning:!0,icons:"https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons",eventPageMarketColumns:{xl:2},hasOddsThreeDecimals:!0,iFrameConfig:{disableScrolling:!0},cashoutServer:"V2",virtualSportsGrouped:!0,tournamentOutrightConfig:{blockOutrightEvent:["411","7"]},delayPlacebetButton:2,streamFilter:!0,matchResultEventPage:!0,stream:{minimumBalance:.01,userRole:"2FA_SMS_Enabled"},markets:{fastMarketsIcon:!0},hasMatchOfTheDayPage:!0,webApi:{realm:"http://www.holiganbet.com",wsEndPoint:"wss://sportsapi.${domain}/v2",longPollEndpoint:"https://sportsapi.${domain}/longpoll"},sportsApiConfig:{ucsOperatorId:2218},googleTagManager:{id:"GTM-NDHCDWF"},customContent:{type:"emcms",url:"https://www.${domain}/apijson/${lang}/omfeData?location=${location}&device=${device}&page=${page}&env=prod"},omWidgets:{endpoint:"https://score.glastcoper.com/events",distUrl:"https://static.glastcoper.com/omc/p",baseHost:"https://static.glastcoper.com"},trackJs:{enabled:!1},perfTracking:{appTracking:!1,trackEndpoint:"https://event-horizon.glastcoper.com/track",index:"omfe2"},bannerMatrix:{widgetPath:"https://bannermatrix.nwacdn.com/assets/widgets/0.22.6",showOnNavbar:!0,showOnRightbar:!0,showOnFooter:!0,showOnBetslip:!0,showOnSecondNavbar:!0,showOnThirdNavbar:!0,showOnEvent:!0,showOnTournament:!0},resultPageEndpoint:"https://sports-api.glastcoper.com/historical-results/api/v1/results-page",apiConfig:{host:"https://sports-api.glastcoper.com",NWAhost:"https://holiganbet.nwacdn.com"}},window.__PRELOADED_STATE__={config:{lang:"tr",hostname:"holiganbet1085.com"},session:{loading:!1},deviceInfo:{engine:{name:"Blink"},browser:{name:"Chrome",version:"134.0.0.0"},os:{name:"Windows",version:"NT 10.0",versionName:"10"},platform:{type:"desktop"}},breakpoints:{small:!1,medium:!1,large:!0,xl:!0},favoriteMarkets:{ready:!1,list:[]},routing:{},cashout:{},settings:{oddsFormat:"DECIMAL",oddsValidationType:"ACCEPT_ANY",liveOddsValidationType:"ACCEPT_ANY",ready:!1},search:{ready:!1,query:"",queryResults:{},queryStatus:3,fallbackTab:null,filteredMainMarkets:{},filteredBettingOffers:{},filteredOutcomes:{},marketsWithOutcomesAndBettingOffers:{}},notification:{},authMethod:{},gamingAccount:{accounts:[]},LiveUpcomingTabsSlice:{ready:!1,numberOfLiveEvents:null}},window.__WIDGETS_PRELOAD_STATE__={dataSets:{topics:{},rpcs:{}}}</script><script>function getDomain(e){const n=e.split(".");let r=n.slice(-2).join(".");return-1!==["co.uk"].indexOf(r)&&(r=n.slice(-3).join(".")),r}function verifyURL(e){if(e)try{const n=new URL(e);if(!n.protocol||!n.host)return null;if(window.OMFE2CONFIG.basePathAllow&&window.OMFE2CONFIG.basePathAllow.length){const r=getDomain(n.host),s=new URL(window.location.href);return window.OMFE2CONFIG.basePathAllow.includes(r)||getDomain(s.hostname)===r?e:null}}catch(e){return null}return e}const windowGlobalKey="OMFE2GLOBAL",basePathKey="basePath",currentSessionKey="currentSession",currentCmsSessionKey="currentCmsSession",parentHostKey="parentHost",searchParams=new window.URLSearchParams(window.location.search),currentSession=searchParams.get("currentSession"),currentCmsSession=searchParams.get("currentCmsSession"),basePath=verifyURL(searchParams.get("basePath")),parentHost=verifyURL(searchParams.get("parentHost"));searchParams.delete("currentSession"),searchParams.delete("currentCmsSession"),searchParams.delete("basePath"),searchParams.delete("parentHost");const remainingSearchParams=searchParams.toString(),remainingSearchParamsString=remainingSearchParams?"?"+remainingSearchParams:"";window.OMFE2GLOBAL={},currentSession&&(window.OMFE2GLOBAL.currentSession=currentSession),currentCmsSession&&(window.OMFE2GLOBAL.currentCmsSession=currentCmsSession),basePath&&(window.OMFE2GLOBAL.basePath=basePath),parentHost&&(window.OMFE2GLOBAL.parentHost=parentHost),window.history.replaceState({},"",window.location.pathname+remainingSearchParamsString)</script><script async="" src="/sports2-static/chunk.main.c5268a63ae3d8fc5159c.js"></script><script async="" src="/sports2-static/main.ed0f76216bfa87749c68.js"></script><script async="" src="/sports2-static/chunk.source~main.e2e3aff444067ee03abc.js"></script><script async="" src="/sports2-static/chunk.vendors~main.959b4a82c2a66010cc71.js"></script>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400,700&amp;display=swap&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese">
       <link rel="icon" href="data:;base64,=">
+      <script charset="utf-8" src="/sports2-static/chunk.109.a831200fd980bceb472c.js"></script><script charset="utf-8" src="/sports2-static/chunk.source~i18n-tr-json.4dffc0a78ed7b824a39f.js"></script><script charset="utf-8" src="/sports2-static/chunk.source~i18n-widgets-tr-json.0540aa4ba1631ce17d1f.js"></script><script type="text/javascript" src="https://bannermatrix.nwacdn.com/assets/widgets/0.22.6/bower_components/webcomponentsjs/webcomponents-lite.js" async=""></script>
       <link rel="import" href="https://bannermatrix.nwacdn.com/assets/widgets/0.22.6/index.html">
       <meta name="description" content="Spor Bahisleri" data-react-helmet="true">
       <meta name="keywords" content="Spor Bahisleri" data-react-helmet="true">
-      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
-      <script>
-        $(function() {
-  $("img.lazy").lazyload({
-    effect: "fadeIn",
-    threshold: 200
-  });
-});
-
-      </script>
+     
    </head>
-   <body class="Desktop Lang-tr PartialSsr Windows Chrome Page-Home">
+   <body class="Lang-tr PartialSsr Desktop Windows Chrome Page-Home">
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDHCDWF"height=0 width=0 style=display:none;visibility:hidden></iframe></noscript>
       <div id="MainContainer">
          <div class="App App--isBrowser">
             <aside class="Sidebar Sidebar--Left">
                <div class="CustomContent CustomContent--top_left_1">
                   <div>
-                     <p><a href="/tr/casino/cat/jojobet'e-ozel" data-original-href="/casino/cat/jojobet'e-ozel"><img class="lazy" src="/stateless-jojobet/2019/07/79c792a0-slot.gif" alt="" width="320" height="80"></a><br>
-                        <a href="/tr/casino/cat/jojobet'e-ozel" data-original-href="/casino/cat/jojobet'e-ozel"><img class="lazy" src="/stateless-jojobet/2019/07/ca8c5118-blackjack.gif" alt="" width="320" height="80"></a><br>
-                        <a href="/tr/sponsorluklar" data-original-href="/sponsorluklar"><img class="lazy" src="/stateless-jojobet/2019/07/8fada16a-sponsorluklar.gif" alt="" width="320" height="80"></a><br>
-                        <a href="https://t.me/jojobettelegramdestekbot" target="_blank" data-original-href="https://t.me/jojobettelegramdestekbot"><img class="lazy" src="/stateless-jojobet/2019/07/c7803416-solblok-tlgram.gif" alt="" width="320" height="80"></a><br>
-                        
-                        <a href="https://www.holiganbet1085.com/tr/sports/i/spor/esports/96/tümü/0/disiplin/canlı" data-original-href="/sports/i/spor/esports/96/tümü/0/disiplin/canlı"><img src="https://othercdn.com/holiganbet/solstun/espor-gif.gif" alt="" width="320" height="80"></a>
+                     <p><a href="/casino/games/pragmatic-casino:holigan-bonanza-63980/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino" data-original-href="/casino/games/pragmatic-casino:holigan-bonanza-63980/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino"><img src="/stateless-holiganbet-one/2024/05/b02f9b79-holiganbetsol-yenis-copy.gif" alt="" width="320" height="80"></a><br>
+                        <a href="https://holigancall4.com/" target="_blank" data-original-href="https://holigancall4.com/"><img src="https://othercdn.com/holiganbet/solstun/1.gif" alt="" width="320" height="80"></a><br>
+                        <a href="https://t.me/holigantg" target="_blank" data-original-href="https://t.me/holigantg"><img src="/stateless-holiganbet-one/2025/01/2d4c38c3-telegram.gif" alt="" width="320" height="80"></a><br>
+                        <a href="/sponsorluklar" data-original-href="/sponsorluklar"><img src="/stateless-holiganbet-one/2022/08/3c7ba35f-spornsor-sol-holi.gif" alt="" width="320" height="80"></a><br>
+                        <a href="/casino/cat/sanal-bahisler" data-original-href="/casino/cat/sanal-bahisler"><img src="https://othercdn.com/holiganbet/solstun/kazandiran-gif.gif" alt="" width="320" height="40"></a><br>
+                        <a href="https://heylink.me/holiguncel/" target="_blank" data-original-href="https://heylink.me/holiguncel/"><img src="/stateless-holiganbet-one/2022/01/cb14bf1b-solsosyal1-1.png" alt="" width="320" height="40"></a><br>
+                        <a href="/sports/i/spor/esports/96/tümü/0/disiplin/canlı" data-original-href="/sports/i/spor/esports/96/tümü/0/disiplin/canlı"><img src="https://othercdn.com/holiganbet/solstun/espor-gif.gif" alt="" width="320" height="80"></a>
                      </p>
                   </div>
                </div>
@@ -71,7 +65,7 @@
                   <div class="Widget__Content">
                      <ul class="Menu SiteLinksMenu">
                         <li class="MenuItem MenuItem--LiveSports">
-                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/tr/sports/i/canli-spor">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/canli-spor">
                               <span class="MenuItem__IconWrapper">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--play-circle OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -83,7 +77,7 @@
                            </a>
                         </li>
                         <li class="MenuItem MenuItem--NextEvents">
-                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/tr/sports/i/gelecek-etkinlikler">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/gelecek-etkinlikler">
                               <span class="MenuItem__IconWrapper">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--clock OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -95,7 +89,7 @@
                            </a>
                         </li>
                         <li class="MenuItem MenuItem--PopularEvents">
-                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/tr/sports/i/populer-etkinlikler">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/populer-etkinlikler">
                               <span class="MenuItem__IconWrapper">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--hot OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -106,8 +100,20 @@
                               <span class="MenuItem__Name"><span class="MenuItem__Text">Popüler Etkinlikler</span></span>
                            </a>
                         </li>
+                        <li class="MenuItem MenuItem--MatchOfTheDay">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/match-of-the-day">
+                              <span class="MenuItem__IconWrapper">
+                                 <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--match-of-the-day OM-Icon--Medium1">
+                                    <svg class="S" viewBox="0 0 126 126">
+                                       <path d="M98 25.5v-10H88v10H78v-10H68v10H58v-10H48v10H38v-10H28v10H13v85h100v-85H98zm5 75H23v-65h5v5h10v-5h10v5h10v-5h10v5h10v-5h10v5h10v-5h5v65zM81.1 53.7L57.5 77.3 45 64.8l-5.6 5.5 18.1 18.2 29.2-29.2-5.6-5.6z"></path>
+                                    </svg>
+                                 </span>
+                              </span>
+                              <span class="MenuItem__Name"><span class="MenuItem__Text">Günün Maçı</span></span>
+                           </a>
+                        </li>
                         <li class="MenuItem MenuItem--EventResult">
-                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/tr/sports/i/etkinlik-sonuçu">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/etkinlik-sonuçu">
                               <span class="MenuItem__IconWrapper">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--rank OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -119,7 +125,7 @@
                            </a>
                         </li>
                         <li class="MenuItem MenuItem--LiveCalendar">
-                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/tr/sports/i/canlı-takvimi">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/canlı-takvimi">
                               <span class="MenuItem__IconWrapper">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--calendar OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -146,16 +152,16 @@
                   </div>
                   <div class="OM-Menu__Content OM-Menu__Content--HasIcon">
                      <div class="OM-MenuItem OM-LiveSportsMenuItem" title="Futbol">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/canli-spor/futbol/1/t%C3%BCm%C3%BC/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-Icon OM-Icon--1 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/1.svg&quot;);"></span><span class="OM-MenuItem__ItemText">Futbol</span><span class="OM-MenuItem__ItemLabel">22</span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/canli-spor/futbol/1/t%C3%BCm%C3%BC/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-Icon OM-Icon--1 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/1.svg&quot;);"></span><span class="OM-MenuItem__ItemText">Futbol</span><span class="OM-MenuItem__ItemLabel">12</span></a></div>
                      </div>
                      <div class="OM-MenuItem OM-LiveSportsMenuItem" title="Basketbol">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/canli-spor/basketbol/8/t%C3%BCm%C3%BC/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-Icon OM-Icon--8 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/8.svg&quot;);"></span><span class="OM-MenuItem__ItemText">Basketbol</span><span class="OM-MenuItem__ItemLabel">33</span></a></div>
-                     </div>
-                     <div class="OM-MenuItem OM-LiveSportsMenuItem" title="Tenis">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/canli-spor/tenis/3/t%C3%BCm%C3%BC/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-Icon OM-Icon--3 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/3.svg&quot;);"></span><span class="OM-MenuItem__ItemText">Tenis</span><span class="OM-MenuItem__ItemLabel">11</span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/canli-spor/basketbol/8/t%C3%BCm%C3%BC/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-Icon OM-Icon--8 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/8.svg&quot;);"></span><span class="OM-MenuItem__ItemText">Basketbol</span><span class="OM-MenuItem__ItemLabel">5</span></a></div>
                      </div>
                      <div class="OM-MenuItem OM-LiveSportsMenuItem" title="Masa Tenis">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/canli-spor/masa-tenis/63/t%C3%BCm%C3%BC/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-Icon OM-Icon--63 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/63.svg&quot;);"></span><span class="OM-MenuItem__ItemText">Masa Tenis</span><span class="OM-MenuItem__ItemLabel">19</span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/canli-spor/masa-tenis/63/t%C3%BCm%C3%BC/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-Icon OM-Icon--63 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/63.svg&quot;);"></span><span class="OM-MenuItem__ItemText">Masa Tenis</span><span class="OM-MenuItem__ItemLabel">21</span></a></div>
+                     </div>
+                     <div class="OM-MenuItem OM-LiveSportsMenuItem" title="Voleybol">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/canli-spor/voleybol/20/t%C3%BCm%C3%BC/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-Icon OM-Icon--20 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/20.svg&quot;);"></span><span class="OM-MenuItem__ItemText">Voleybol</span><span class="OM-MenuItem__ItemLabel">5</span></a></div>
                      </div>
                   </div>
                </div>
@@ -172,70 +178,73 @@
                   </div>
                   <div class="OM-Menu__Content OM-Menu__Content--HasIcon">
                      <div class="OM-MenuItem" title="UEFA Şampiyonlar Ligi">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/uluslararas%C4%B1/67/uefa-%C5%9Fampiyonlar-ligi-2024-2025/238928726115913728" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/67.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">UEFA Şampiyonlar Ligi</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/uluslararas%C4%B1/67/uefa-%C5%9Fampiyonlar-ligi-2024-2025/238928726115913728" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/67.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">UEFA Şampiyonlar Ligi</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="UEFA Avrupa Ligi">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/uluslararas%C4%B1/67/uefa-avrupa-ligi-2024-2025/239341156955492352" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/67.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">UEFA Avrupa Ligi</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/uluslararas%C4%B1/67/uefa-avrupa-ligi-2024-2025/239341156955492352" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/67.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">UEFA Avrupa Ligi</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="UEFA Avrupa Konferans Ligi">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/uluslararas%C4%B1/67/uefa-avrupa-konferans-ligi-2024-2025/240770634889990144" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/67.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">UEFA Avrupa Konferans Ligi</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/uluslararas%C4%B1/67/uefa-avrupa-konferans-ligi-2024-2025/240770634889990144" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/67.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">UEFA Avrupa Konferans Ligi</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="Türkiye Süper Lig">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/t%C3%BCrkiye/221/t%C3%BCrkiye-s%C3%BCper-lig-2024-2025/241760088755703808" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--221 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/221.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Türkiye Süper Lig</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/t%C3%BCrkiye/221/t%C3%BCrkiye-s%C3%BCper-lig-2024-2025/241760088755703808" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--221 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/221.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Türkiye Süper Lig</span></span></a></div>
                      </div>
-                     <div class="OM-MenuItem" title="Türkiye TFF 1. Lig">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/t%C3%BCrkiye/221/t%C3%BCrkiye-tff-1-lig-2024-2025/243923406120677376" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--221 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/221.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Türkiye TFF 1. Lig</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="İngiltere Premier Ligi">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/i%CC%87ngiltere/77/i%CC%87ngiltere-premier-ligi-2024-2025/237845454844760064" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--77 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/77.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İngiltere Premier Ligi</span><span class="OM-MenuItem__ItemLabel">canlı</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="İngiltere Championship">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/i%CC%87ngiltere/77/i%CC%87ngiltere-championship-2024-2025/238294668708057088" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--77 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/77.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İngiltere Championship</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="İspanya La liga">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/i%CC%87spanya/65/i%CC%87spanya-la-liga-2024-2025/238295245543346176" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--65 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/65.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İspanya La liga</span><span class="OM-MenuItem__ItemLabel">canlı</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="İspanya 2. Ligi">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/i%CC%87spanya/65/i%CC%87spanya-2-ligi-2024-2025/242033783250259968" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--65 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/65.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İspanya 2. Ligi</span><span class="OM-MenuItem__ItemLabel">canlı</span></span></a></div>
+                     <div class="OM-MenuItem" title="İngiltere Premier Lig">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/i%CC%87ngiltere/77/i%CC%87ngiltere-premier-lig-2024-2025/237845454844760064" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--77 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/77.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İngiltere Premier Lig</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="Almanya Bundesliga">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/almanya/54/almanya-bundesliga-2024-2025/238419313650208768" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--54 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/54.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Almanya Bundesliga</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/almanya/54/almanya-bundesliga-2024-2025/238419313650208768" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--54 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/54.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Almanya Bundesliga</span></span></a></div>
                      </div>
-                     <div class="OM-MenuItem" title="Almanya Bundesliga 2">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/almanya/54/almanya-bundesliga-2-2024-2025/240390574726090752" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--54 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/54.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Almanya Bundesliga 2</span></span></a></div>
+                     <div class="OM-MenuItem" title="İspanya La liga">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/i%CC%87spanya/65/i%CC%87spanya-la-liga-2024-2025/238295245543346176" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--65 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/65.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İspanya La liga</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="İtalya Serie A">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/i%CC%87talya/111/i%CC%87talya-serie-a-2024-2025/238969963852238848" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--111 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/111.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İtalya Serie A</span><span class="OM-MenuItem__ItemLabel">canlı</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="İtalya Serie B">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/i%CC%87talya/111/i%CC%87talya-serie-b-2024-2025/243491593043701760" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--111 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/111.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İtalya Serie B</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/i%CC%87talya/111/i%CC%87talya-serie-a-2024-2025/238969963852238848" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--111 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/111.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İtalya Serie A</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="Fransa Lig 1">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/fransa/73/fransa-lig-1-2024-2025/240390274981203968" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--73 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/73.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Fransa Lig 1</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="Fransa Lig 2">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/fransa/73/fransa-lig-2-2024-2025/242031496947732480" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--73 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/73.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Fransa Lig 2</span><span class="OM-MenuItem__ItemLabel">canlı</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/fransa/73/fransa-lig-1-2024-2025/240390274981203968" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--73 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/73.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Fransa Lig 1</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="Portekiz Premier Ligi">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/portekiz/182/portekiz-premier-ligi-2024-2025/241758713124655104" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--182 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/182.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Portekiz Premier Ligi</span><span class="OM-MenuItem__ItemLabel">canlı</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="Portekiz 2. Ligi">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/portekiz/182/portekiz-2-ligi-2024-2025/243831494232633344" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--182 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/182.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Portekiz 2. Ligi</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/portekiz/182/portekiz-premier-ligi-2024-2025/241758713124655104" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--182 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/182.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Portekiz Premier Ligi</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="Hollanda Eredivisie">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/hollanda/164/hollanda-eredivisie-2024-2025/241751859294277632" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--164 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/164.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Hollanda Eredivisie</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="Hollanda Eerste Divisie">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/hollanda/164/hollanda-eerste-divisie-2024-2025/242297538772111360" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--164 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/164.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Hollanda Eerste Divisie</span><span class="OM-MenuItem__ItemLabel">canlı</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/hollanda/164/hollanda-eredivisie-2024-2025/241751859294277632" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--164 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/164.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Hollanda Eredivisie</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="Belçika Jupiler Pro Lig">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/futbol/1/bel%C3%A7ika/21/bel%C3%A7ika-jupiler-pro-lig-2024-2025/240384314290114560" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--21 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/21.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Belçika Jupiler Pro Lig</span></span></a></div>
-                     </div>
-                     <div class="OM-MenuItem" title="Euroleague">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/basketbol/8/uluslararas%C4%B1/67/euroleague-2024-2025/240317391450836992" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/67.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Euroleague</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/bel%C3%A7ika/21/bel%C3%A7ika-jupiler-pro-lig-2024-2025/240384314290114560" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--21 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/21.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Belçika Jupiler Pro Lig</span></span></a></div>
                      </div>
                      <div class="OM-MenuItem" title="NBA">
-                        <div class="OM-MenuItem__ActionGroup"><a href="/tr/sports/i/turnuva-konumu/basketbol/8/abd/229/nba-2024-2025/240307865016242176" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--229 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/229.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">NBA</span><span class="OM-MenuItem__ItemLabel">canlı</span></span></a></div>
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/basketbol/8/abd/229/nba-2024-2025/240307865016242176" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--229 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/229.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">NBA</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="Euroleague">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/basketbol/8/uluslararas%C4%B1/67/euroleague-2024-2025/240317391450836992" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/67.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Euroleague</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="Türkiye Basketbol Süper Ligi">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/basketbol/8/t%C3%BCrkiye/221/t%C3%BCrkiye-basketbol-s%C3%BCper-ligi-2024-2025/246811430608302080" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--221 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/221.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Türkiye Basketbol Süper Ligi</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="Türkiye TFF 1. Lig">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/t%C3%BCrkiye/221/t%C3%BCrkiye-tff-1-lig-2024-2025/243923406120677376" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--221 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/221.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Türkiye TFF 1. Lig</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="İngiltere Championship">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/i%CC%87ngiltere/77/i%CC%87ngiltere-championship-2024-2025/238294668708057088" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--77 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/77.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İngiltere Championship</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="Almanya Bundesliga 2">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/almanya/54/almanya-bundesliga-2-2024-2025/240390574726090752" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--54 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/54.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Almanya Bundesliga 2</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="İspanya 2. Ligi">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/i%CC%87spanya/65/i%CC%87spanya-2-ligi-2024-2025/242033783250259968" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--65 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/65.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İspanya 2. Ligi</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="İtalya Serie B">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/i%CC%87talya/111/i%CC%87talya-serie-b/243491593043701760" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--111 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/111.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">İtalya Serie B</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="Fransa Lig 2">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/fransa/73/fransa-lig-2-2024-2025/242031496947732480" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--73 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/73.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Fransa Lig 2</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="Portekiz 2. Ligi">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/portekiz/182/portekiz-2-ligi-2024-2025/243831494232633344" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--182 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/182.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Portekiz 2. Ligi</span></span></a></div>
+                     </div>
+                     <div class="OM-MenuItem" title="Hollanda Eerste Divisie">
+                        <div class="OM-MenuItem__ActionGroup"><a href="/sports/i/turnuva-konumu/futbol/1/hollanda/164/hollanda-eerste-divisie-2024-2025/242297538772111360" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-MenuItem__Action" target="_top"><span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--164 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/164.png&quot;);"></span></span><span class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Hollanda Eerste Divisie</span></span></a></div>
                      </div>
                   </div>
                </div>
@@ -253,100 +262,136 @@
                   <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-1 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
                         <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-1">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--1 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/1.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Futbol</span><span class="OM-MenuItem__ItemCounter">959</span></div>
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--1 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/1.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Futbol</span></div>
+                              <span class="OM-MenuItem__ItemCounter">1330</span>
+                           </div>
+                        </span>
+                     </div>
+                  </div>
+                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-101 OM-EventNavigationMenuItem">
+                     <div class="OM-MenuItem__ActionGroup">
+                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-101">
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--101 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/101.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Yüksek oran</span></div>
+                              <span class="OM-MenuItem__ItemCounter">4</span>
+                           </div>
                         </span>
                      </div>
                   </div>
                   <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-8 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
                         <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-8">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--8 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/8.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Basketbol</span><span class="OM-MenuItem__ItemCounter">216</span></div>
-                        </span>
-                     </div>
-                  </div>
-                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-3 OM-EventNavigationMenuItem">
-                     <div class="OM-MenuItem__ActionGroup">
-                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-3">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--3 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/3.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Tenis</span><span class="OM-MenuItem__ItemCounter">219</span></div>
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--8 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/8.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Basketbol</span></div>
+                              <span class="OM-MenuItem__ItemCounter">303</span>
+                           </div>
                         </span>
                      </div>
                   </div>
                   <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-63 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
                         <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-63">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--63 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/63.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Masa Tenis</span><span class="OM-MenuItem__ItemCounter">387</span></div>
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--63 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/63.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Masa Tenis</span></div>
+                              <span class="OM-MenuItem__ItemCounter">349</span>
+                           </div>
                         </span>
                      </div>
                   </div>
                   <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-20 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
                         <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-20">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--20 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/20.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Voleybol</span><span class="OM-MenuItem__ItemCounter">73</span></div>
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--20 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/20.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Voleybol</span></div>
+                              <span class="OM-MenuItem__ItemCounter">76</span>
+                           </div>
+                        </span>
+                     </div>
+                  </div>
+                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-3 OM-EventNavigationMenuItem">
+                     <div class="OM-MenuItem__ActionGroup">
+                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-3">
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--3 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/3.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Tenis</span></div>
+                              <span class="OM-MenuItem__ItemCounter">408</span>
+                           </div>
                         </span>
                      </div>
                   </div>
                   <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-121 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
                         <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-121">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--121 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/121.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">FIFA</span><span class="OM-MenuItem__ItemCounter">164</span></div>
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--121 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/121.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">FIFA</span></div>
+                              <span class="OM-MenuItem__ItemCounter">200</span>
+                           </div>
                         </span>
                      </div>
                   </div>
                   <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-106 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
                         <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-106">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--106 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/106.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">NBA2k</span><span class="OM-MenuItem__ItemCounter">9</span></div>
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--106 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/106.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">NBA2k</span></div>
+                              <span class="OM-MenuItem__ItemCounter">19</span>
+                           </div>
                         </span>
                      </div>
                   </div>
                   <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-130 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
                         <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-130">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--130 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/130.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">e-Fighting</span><span class="OM-MenuItem__ItemCounter">6</span></div>
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--130 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/130.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">e-Fighting</span></div>
+                              <span class="OM-MenuItem__ItemCounter">6</span>
+                           </div>
                         </span>
                      </div>
                   </div>
-                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-38 OM-EventNavigationMenuItem">
+                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-9 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
-                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-38">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--38 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/38.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Avustralya Futbolu</span><span class="OM-MenuItem__ItemCounter">14</span></div>
+                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-9">
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--9 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/9.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Beyzbol</span></div>
+                              <span class="OM-MenuItem__ItemCounter">35</span>
+                           </div>
                         </span>
                      </div>
                   </div>
-                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-53 OM-EventNavigationMenuItem">
+                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-26 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
-                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-53">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--53 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/53.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Alp Kayağı</span><span class="OM-MenuItem__ItemCounter">7</span></div>
+                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-26">
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--26 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/26.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Kriket</span></div>
+                              <span class="OM-MenuItem__ItemCounter">4</span>
+                           </div>
                         </span>
                      </div>
                   </div>
-                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-5 OM-EventNavigationMenuItem">
+                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-6 OM-EventNavigationMenuItem">
                      <div class="OM-MenuItem__ActionGroup">
-                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-5">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--5 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/5.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Amerikan Futbolu</span><span class="OM-MenuItem__ItemCounter">7</span></div>
+                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-6">
+                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--6 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/6.svg&quot;);"></span></span>
+                           <div class="OM-MenuItem__ItemContent">
+                              <div class="OM-MenuItem__ItemContentWrapper"><span class="OM-MenuItem__ItemText">Buz Hokeyi</span></div>
+                              <span class="OM-MenuItem__ItemCounter">231</span>
+                           </div>
                         </span>
                      </div>
                   </div>
-                  <div class="OM-MenuItem OM-MenuItem--sports OM-MenuItem--level0 OM-MenuItem--SportId-14 OM-EventNavigationMenuItem">
-                     <div class="OM-MenuItem__ActionGroup">
-                        <span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-MenuItem__Action OM-MenuItem__Anchor OM-MenuItem__Anchor--sports OM-MenuItem__Anchor--level0 OM-MenuItem__Anchor--SportId-14">
-                           <span class="OM-MenuItem__ItemIndicator"><span class="OM-Icon OM-Icon--14 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1 OM-MenuItem__Icon" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/14.svg&quot;);"></span></span>
-                           <div class="OM-MenuItem__ItemContent"><span class="OM-MenuItem__ItemText">Badminton</span><span class="OM-MenuItem__ItemCounter">68</span></div>
-                        </span>
-                     </div>
-                  </div>
-                  <div title="39 Daha çok spor +" class="OM-MenuShowMore OM-MenuShowMore--Expand">
+                  <div title="37 Daha çok spor +" class="OM-MenuShowMore OM-MenuShowMore--Expand">
                      <span class="OM-MenuShowMore__Action">
                         <span class="OM-MenuShowMore__Indicator">
                            <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--arr-down OM-Icon--Medium1">
@@ -355,7 +400,7 @@
                               </svg>
                            </span>
                         </span>
-                        <span class="OM-MenuShowMore__Content">39 Daha çok spor +</span>
+                        <span class="OM-MenuShowMore__Content">37 Daha çok spor +</span>
                      </span>
                   </div>
                </div>
@@ -374,7 +419,7 @@
                   <div class="Widget__Content">
                      <ul class="Menu HelpAndSupportMenu">
                         <li class="MenuItem">
-                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/tr/sports/i/bahis-kurallari">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/bahis-kurallari">
                               <span class="MenuItem__IconWrapper">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--file OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -386,7 +431,7 @@
                            </a>
                         </li>
                         <li class="MenuItem">
-                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/tr/sports/i/bahisbozdur-sartlar">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/bahisbozdur-sartlar">
                               <span class="MenuItem__IconWrapper">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--money OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -398,7 +443,7 @@
                            </a>
                         </li>
                         <li class="MenuItem">
-                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/tr/sports/i/bahis-kombinesi-kuralları">
+                           <a target="_top" aria-current="false" class="Anchor MenuItem__Anchor" href="/sports/i/bahis-kombinesi-kuralları">
                               <span class="MenuItem__IconWrapper">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--bet-builder OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -423,57 +468,55 @@
                               <div class="OM-Slider__Item"></div>
                               <div class="OM-Slider__Item"></div>
                               <div class="OM-Slider__Item"></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/futbol/1/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--1 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/1.svg&quot;);"></span></span><span class="OM-NavItem__Name">Futbol</span><span class="OM-NavItem__Counter">22</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/basketbol/8/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--8 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/8.svg&quot;);"></span></span><span class="OM-NavItem__Name">Basketbol</span><span class="OM-NavItem__Counter">33</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/tenis/3/t%C3%BCm%C3%BC/0/kategori" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--3 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/3.svg&quot;);"></span></span><span class="OM-NavItem__Name">Tenis</span><span class="OM-NavItem__Counter">11</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/masa-tenis/63/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--63 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/63.svg&quot;);"></span></span><span class="OM-NavItem__Name">Masa Tenis</span><span class="OM-NavItem__Counter">19</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/voleybol/20/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--20 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/20.svg&quot;);"></span></span><span class="OM-NavItem__Name">Voleybol</span><span class="OM-NavItem__Counter">12</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/fifa/121/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--121 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/121.svg&quot;);"></span></span><span class="OM-NavItem__Name">FIFA</span><span class="OM-NavItem__Counter">21</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/nba2k/106/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--106 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/106.svg&quot;);"></span></span><span class="OM-NavItem__Name">NBA2k</span><span class="OM-NavItem__Counter">6</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/plaj-voleybolu/64/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--64 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/64.svg&quot;);"></span></span><span class="OM-NavItem__Name">Plaj Voleybolu</span><span class="OM-NavItem__Counter">1</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/dota-2/99/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--99 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/99.svg&quot;);"></span></span><span class="OM-NavItem__Name">DOTA 2</span><span class="OM-NavItem__Counter">1</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/salon-futbolu/49/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--49 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/49.svg&quot;);"></span></span><span class="OM-NavItem__Name">Salon Futbolu</span><span class="OM-NavItem__Counter">2</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/hentbol/7/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--7 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/7.svg&quot;);"></span></span><span class="OM-NavItem__Name">Hentbol</span><span class="OM-NavItem__Counter">2</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/buz-hokeyi/6/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--6 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/6.svg&quot;);"></span></span><span class="OM-NavItem__Name">Buz Hokeyi</span><span class="OM-NavItem__Counter">7</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/snooker/36/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--36 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/36.svg&quot;);"></span></span><span class="OM-NavItem__Name">Snooker</span><span class="OM-NavItem__Counter">1</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/valorant/134/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--134 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/134.svg&quot;);"></span></span><span class="OM-NavItem__Name">Valorant</span><span class="OM-NavItem__Counter">1</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/e-tenis/128/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--128 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/128.svg&quot;);"></span></span><span class="OM-NavItem__Name">E-Tenis</span><span class="OM-NavItem__Counter">5</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/counter-strike/186/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--186 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/186.svg&quot;);"></span></span><span class="OM-NavItem__Name">Counter-Strike</span><span class="OM-NavItem__Counter">1</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/e-cricket/184/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--184 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/184.svg&quot;);"></span></span><span class="OM-NavItem__Name">e-Cricket</span><span class="OM-NavItem__Counter">1</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/e-fighting/130/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--130 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/130.svg&quot;);"></span></span><span class="OM-NavItem__Name">e-Fighting</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/avustralya-futbolu/38/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--38 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/38.svg&quot;);"></span></span><span class="OM-NavItem__Name">Avustralya Futbolu</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/alp-kaya%C4%9F%C4%B1/53/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--53 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/53.svg&quot;);"></span></span><span class="OM-NavItem__Name">Alp Kayağı</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/amerikan-futbolu/5/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--5 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/5.svg&quot;);"></span></span><span class="OM-NavItem__Name">Amerikan Futbolu</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/badminton/14/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--14 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/14.svg&quot;);"></span></span><span class="OM-NavItem__Name">Badminton</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/bandy/40/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--40 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/40.svg&quot;);"></span></span><span class="OM-NavItem__Name">Bandy</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/beyzbol/9/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--9 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/9.svg&quot;);"></span></span><span class="OM-NavItem__Name">Beyzbol</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/biathlon/59/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--59 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/59.svg&quot;);"></span></span><span class="OM-NavItem__Name">Biathlon</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/bowling/102/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--102 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/102.svg&quot;);"></span></span><span class="OM-NavItem__Name">Bowling</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/bowling/67/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--67 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/67.svg&quot;);"></span></span><span class="OM-NavItem__Name">Bowling</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/call-of-duty/122/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--122 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/122.svg&quot;);"></span></span><span class="OM-NavItem__Name">Call of Duty</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/satran%C3%A7/52/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--52 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/52.svg&quot;);"></span></span><span class="OM-NavItem__Name">Satranç</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/kriket/26/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--26 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/26.svg&quot;);"></span></span><span class="OM-NavItem__Name">Kriket</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/cross-country-kayak/54/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--54 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/54.svg&quot;);"></span></span><span class="OM-NavItem__Name">Cross-Country Kayak</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/bisiklet/37/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--37 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/37.svg&quot;);"></span></span><span class="OM-NavItem__Name">Bisiklet</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/dart/45/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--45 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/45.svg&quot;);"></span></span><span class="OM-NavItem__Name">Dart</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/irlanda-futbolu/47/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--47 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/47.svg&quot;);"></span></span><span class="OM-NavItem__Name">Irlanda Futbolu</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/golf/2/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--2 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/2.svg&quot;);"></span></span><span class="OM-NavItem__Name">Golf</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/hurling/46/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--46 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/46.svg&quot;);"></span></span><span class="OM-NavItem__Name">Hurling</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/lol/100/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--100 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/100.svg&quot;);"></span></span><span class="OM-NavItem__Name">LOL</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/lekros/62/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--62 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/62.svg&quot;);"></span></span><span class="OM-NavItem__Name">Lekros</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/motor-sporlar%C4%B1/23/t%C3%BCm%C3%BC/0/kategori" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--23 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/23.svg&quot;);"></span></span><span class="OM-NavItem__Name">Motor Sporları</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/ragbi/28/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--28 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/28.svg&quot;);"></span></span><span class="OM-NavItem__Name">Ragbi</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/rugby-birle%C5%9Fik/39/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--39 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/39.svg&quot;);"></span></span><span class="OM-NavItem__Name">Rugby Birleşik</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/kayakla-atlama/57/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--57 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/57.svg&quot;);"></span></span><span class="OM-NavItem__Name">Kayakla Atlama</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/%C3%B6zel-bahisler/34/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--34 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/34.svg&quot;);"></span></span><span class="OM-NavItem__Name">Özel Bahisler</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/starcraft-2/110/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--110 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/110.svg&quot;);"></span></span><span class="OM-NavItem__Name">Starcraft 2</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/s%C3%B6rf/50/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--50 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/50.svg&quot;);"></span></span><span class="OM-NavItem__Name">Sörf</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/sanal-futbol/86/t%C3%BCm%C3%BC/0/virtual-sports/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--86 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/86.svg&quot;);"></span></span><span class="OM-NavItem__Name">Sanal futbol</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/sanal-masa-tenisi/165/t%C3%BCm%C3%BC/0/virtual-sports/0" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--165 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/165.svg&quot;);"></span></span><span class="OM-NavItem__Name">Sanal Masa Tenisi</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/sutopu/22/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--22 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/22.svg&quot;);"></span></span><span class="OM-NavItem__Name">Sutopu</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/boxing/176/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--176 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/176.svg&quot;);"></span></span><span class="OM-NavItem__Name">Boxing</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/formula-1/189/t%C3%BCm%C3%BC/0/kategori" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--189 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/189.svg&quot;);"></span></span><span class="OM-NavItem__Name">Formula 1</span><span class="OM-NavItem__Counter">0</span></a></div>
-                              <div class="OM-Slider__Item"><a href="/tr/sports/i/spor/mma/177/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--177 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/discipline/177.svg&quot;);"></span></span><span class="OM-NavItem__Name">MMA</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/futbol/1/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--1 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/1.svg&quot;);"></span></span><span class="OM-NavItem__Name">Futbol</span><span class="OM-NavItem__Counter">12</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/basketbol/8/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--8 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/8.svg&quot;);"></span></span><span class="OM-NavItem__Name">Basketbol</span><span class="OM-NavItem__Counter">5</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/masa-tenis/63/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--63 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/63.svg&quot;);"></span></span><span class="OM-NavItem__Name">Masa Tenis</span><span class="OM-NavItem__Counter">21</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/voleybol/20/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--20 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/20.svg&quot;);"></span></span><span class="OM-NavItem__Name">Voleybol</span><span class="OM-NavItem__Counter">5</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/tenis/3/t%C3%BCm%C3%BC/0/kategori" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--3 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/3.svg&quot;);"></span></span><span class="OM-NavItem__Name">Tenis</span><span class="OM-NavItem__Counter">43</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/fifa/121/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--121 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/121.svg&quot;);"></span></span><span class="OM-NavItem__Name">FIFA</span><span class="OM-NavItem__Counter">28</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/nba2k/106/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--106 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/106.svg&quot;);"></span></span><span class="OM-NavItem__Name">NBA2k</span><span class="OM-NavItem__Counter">11</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/e-fighting/130/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--130 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/130.svg&quot;);"></span></span><span class="OM-NavItem__Name">e-Fighting</span><span class="OM-NavItem__Counter">2</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/kriket/26/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--26 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/26.svg&quot;);"></span></span><span class="OM-NavItem__Name">Kriket</span><span class="OM-NavItem__Counter">1</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/buz-hokeyi/6/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--6 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/6.svg&quot;);"></span></span><span class="OM-NavItem__Name">Buz Hokeyi</span><span class="OM-NavItem__Counter">1</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/hentbol/7/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--7 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/7.svg&quot;);"></span></span><span class="OM-NavItem__Name">Hentbol</span><span class="OM-NavItem__Counter">1</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/badminton/14/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--14 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/14.svg&quot;);"></span></span><span class="OM-NavItem__Name">Badminton</span><span class="OM-NavItem__Counter">2</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/bisiklet/37/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--37 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/37.svg&quot;);"></span></span><span class="OM-NavItem__Name">Bisiklet</span><span class="OM-NavItem__Counter">1</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/counter-strike/186/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--186 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/186.svg&quot;);"></span></span><span class="OM-NavItem__Name">Counter-Strike</span><span class="OM-NavItem__Counter">7</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/dart/45/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--45 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/45.svg&quot;);"></span></span><span class="OM-NavItem__Name">Dart</span><span class="OM-NavItem__Counter">1</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/dota-2/99/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--99 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/99.svg&quot;);"></span></span><span class="OM-NavItem__Name">DOTA 2</span><span class="OM-NavItem__Counter">2</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/e-buz-hokeyi/129/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--129 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/129.svg&quot;);"></span></span><span class="OM-NavItem__Name">E-Buz Hokeyi</span><span class="OM-NavItem__Counter">5</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/e-tenis/128/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--128 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/128.svg&quot;);"></span></span><span class="OM-NavItem__Name">E-Tenis</span><span class="OM-NavItem__Counter">4</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/plaj-voleybolu/64/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--64 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/64.svg&quot;);"></span></span><span class="OM-NavItem__Name">Plaj Voleybolu</span><span class="OM-NavItem__Counter">1</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/e-cricket/184/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem OM-NavItem--HasLiveEvents" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--184 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/184.svg&quot;);"></span></span><span class="OM-NavItem__Name">e-Cricket</span><span class="OM-NavItem__Counter">1</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/y%C3%BCksek-oran/101/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--101 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/101.svg&quot;);"></span></span><span class="OM-NavItem__Name">Yüksek oran</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/beyzbol/9/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--9 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/9.svg&quot;);"></span></span><span class="OM-NavItem__Name">Beyzbol</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/amerikan-futbolu/5/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--5 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/5.svg&quot;);"></span></span><span class="OM-NavItem__Name">Amerikan Futbolu</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/arena-of-valor/172/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--172 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/172.svg&quot;);"></span></span><span class="OM-NavItem__Name">Arena Of Valor</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/avustralya-futbolu/38/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--38 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/38.svg&quot;);"></span></span><span class="OM-NavItem__Name">Avustralya Futbolu</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/bandy/40/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--40 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/40.svg&quot;);"></span></span><span class="OM-NavItem__Name">Bandy</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/biathlon/59/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--59 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/59.svg&quot;);"></span></span><span class="OM-NavItem__Name">Biathlon</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/boxing/176/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--176 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/176.svg&quot;);"></span></span><span class="OM-NavItem__Name">Boxing</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/cross-country-kayak/54/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--54 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/54.svg&quot;);"></span></span><span class="OM-NavItem__Name">Cross-Country Kayak</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/duvara-kar%C5%9F%C4%B1-tenis/76/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--76 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/76.svg&quot;);"></span></span><span class="OM-NavItem__Name">Duvara karşı tenis</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/floorball/41/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--41 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/41.svg&quot;);"></span></span><span class="OM-NavItem__Name">Floorball</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/formula-1/189/t%C3%BCm%C3%BC/0/kategori" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--189 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/189.svg&quot;);"></span></span><span class="OM-NavItem__Name">Formula 1</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/golf/2/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--2 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/2.svg&quot;);"></span></span><span class="OM-NavItem__Name">Golf</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/hurling/46/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--46 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/46.svg&quot;);"></span></span><span class="OM-NavItem__Name">Hurling</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/irlanda-futbolu/47/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--47 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/47.svg&quot;);"></span></span><span class="OM-NavItem__Name">Irlanda Futbolu</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/king-of-glory/105/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--105 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/105.svg&quot;);"></span></span><span class="OM-NavItem__Name">King Of Glory</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/lekros/62/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--62 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/62.svg&quot;);"></span></span><span class="OM-NavItem__Name">Lekros</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/lol/100/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--100 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/100.svg&quot;);"></span></span><span class="OM-NavItem__Name">LOL</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/mma/177/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--177 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/177.svg&quot;);"></span></span><span class="OM-NavItem__Name">MMA</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/motor-sporlar%C4%B1/23/t%C3%BCm%C3%BC/0/kategori" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--23 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/23.svg&quot;);"></span></span><span class="OM-NavItem__Name">Motor Sporları</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/%C3%B6zel-bahisler/34/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--34 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/34.svg&quot;);"></span></span><span class="OM-NavItem__Name">Özel Bahisler</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/ragbi/28/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--28 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/28.svg&quot;);"></span></span><span class="OM-NavItem__Name">Ragbi</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/rugby-birle%C5%9Fik/39/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--39 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/39.svg&quot;);"></span></span><span class="OM-NavItem__Name">Rugby Birleşik</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/salon-futbolu/49/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--49 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/49.svg&quot;);"></span></span><span class="OM-NavItem__Name">Salon Futbolu</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/snooker/36/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--36 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/36.svg&quot;);"></span></span><span class="OM-NavItem__Name">Snooker</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/s%C3%B6rf/50/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--50 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/50.svg&quot;);"></span></span><span class="OM-NavItem__Name">Sörf</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/starcraft-2/110/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--110 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/110.svg&quot;);"></span></span><span class="OM-NavItem__Name">Starcraft 2</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/sutopu/22/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--22 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/22.svg&quot;);"></span></span><span class="OM-NavItem__Name">Sutopu</span><span class="OM-NavItem__Counter">0</span></a></div>
+                              <div class="OM-Slider__Item"><a href="/sports/i/spor/valorant/134/t%C3%BCm%C3%BC/0/lokasyon" class="OM-WidgetsLink OM-WidgetsLink--AnchorLink OM-NavItem" target="_top"><span class="OM-NavItem__IconContainer"><span class="OM-Icon OM-Icon--134 OM-Icon--Svg OM-Icon--discipline OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/discipline/134.svg&quot;);"></span></span><span class="OM-NavItem__Name">Valorant</span><span class="OM-NavItem__Counter">0</span></a></div>
                            </div>
                         </div>
                      </div>
@@ -495,14 +538,14 @@
                      </div>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet991.com/v2" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
+               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="2218" webapi-realm="http://www.holiganbet.com" webapi-url="wss://sportsapi.holiganbet1085.com/v2" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
                <div class="OM-Tabs OM-Tabs--LiveUpcoming">
                   <div class="OM-Slider OM-Slider--TouchDisabled OM-Slider--ItemFullEqualWidth OM-Slider--Big10 OM-Slider--Secondary OM-Slider--LiveUpcoming">
                      <div class="OM-Slider__Bar">
                         <div class="OM-Slider__Scroll">
                            <div class="OM-Slider__Container" style="transform: translateX(0px);">
                               <div class="OM-Slider__Item">
-                                 <div class="OM-Slider__Action isSelected"><span class="OM-Slider__ItemText">canlı</span><span class="OM-Slider__ItemCounter">146</span></div>
+                                 <div class="OM-Slider__Action isSelected"><span class="OM-Slider__ItemText">canlı</span><span class="OM-Slider__ItemCounter">154</span></div>
                               </div>
                               <div class="OM-Slider__Item">
                                  <div class="OM-Slider__Action"><span class="OM-Slider__ItemText">yaklaşan Karşılaşmalar</span></div>
@@ -519,20 +562,23 @@
                                  <div class="OM-Slider__Container OM-Slider__Loaded" style="transform: translateX(0px);">
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem isSelected"><span class="OM-NavItem__Name">Futbol</span></span></div>
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Basketbol</span></span></div>
-                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Tenis</span></span></div>
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Masa Tenis</span></span></div>
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Voleybol</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Tenis</span></span></div>
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">FIFA</span></span></div>
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">NBA2k</span></span></div>
-                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Plaj Voleybolu</span></span></div>
-                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">DOTA 2</span></span></div>
-                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Salon Futbolu</span></span></div>
-                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Hentbol</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">e-Fighting</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Kriket</span></span></div>
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Buz Hokeyi</span></span></div>
-                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Snooker</span></span></div>
-                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Valorant</span></span></div>
-                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">E-Tenis</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Hentbol</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Badminton</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Bisiklet</span></span></div>
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Counter-Strike</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Dart</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">DOTA 2</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">E-Buz Hokeyi</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">E-Tenis</span></span></div>
+                                    <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Plaj Voleybolu</span></span></div>
                                     <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">e-Cricket</span></span></div>
                                  </div>
                               </div>
@@ -555,7 +601,10 @@
                            </div>
                         </div>
                      </div>
-                     <div class="SportsFilter SportsFilter--StreamOnly"><div class="SportsFilter__Title">Filtreler</div><div class="SportsFilter__Filters"><span class="OMSwitch"><label class="OMSwitch__Label"><span class="OMSwitch__LabelText">Sadece canli yayinlar</span><input class="OMSwitch__Input" type="checkbox"></label></span></div></div>
+                     <div class="SportsFilter SportsFilter--StreamOnly">
+                        <div class="SportsFilter__Title">Filtreler</div>
+                        <div class="SportsFilter__Filters"><span class="OMSwitch"><label class="OMSwitch__Label"><span class="OMSwitch__LabelText">Sadece canli yayinlar</span><input class="OMSwitch__Input" type="checkbox"></label></span></div>
+                     </div>
                      <div class="MatchList MatchList--Sport-1 MatchList--Outcomes-3 MatchList--LiveEvents">
                         <div class="MatchList__Header">
                            <span class="MatchList__Title">Müsabakalar</span>
@@ -580,7 +629,7 @@
                         </div>
                         <div class="MatchListGroup MatchList__Group">
                            <div class="MatchListGroup__Header">
-                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--77 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/77.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/tr/sports/i/turnuva-konumu/futb/1/i%CC%87ngiltere/77/i%CC%87ngiltere-premier-ligi/237845454844760064"><span class="MatchListGroup__Tournament">İngiltere Premier Ligi</span></a></span>
+                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--253 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/253.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/asya/253/asya-afc-%C5%9Fampiyonlar-ligi/244647653125255168"><span class="MatchListGroup__Tournament">Asya AFC Şampiyonlar Ligi</span></a></span>
                               <button class="MatchListGroup__CollapseBtn">
                                  <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
                                     <svg class="S" viewBox="0 0 126 126">
@@ -589,30 +638,652 @@
                                  </span>
                               </button>
                            </div>
-                           <div class="MatchListGroup__Content"><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/asya/asya-afc-%C5%9Fampiyonlar-ligi/johor-darul-takzim-fc-buriram-united-fc/264152138358206464"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Johor Darul Takzim FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Buriram United FC</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">0</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!"><svg class="S" viewBox="0 0 126 126"><path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path></svg>
-</span><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">148</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">28'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264292479933028180"><div class="OM-ValueChanger"><span class="OddsButton__Odds">2.05</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264292479933028436"><div class="OM-ValueChanger"><span class="OddsButton__Odds">2.75</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264292479933027924"><div class="OM-ValueChanger"><span class="OddsButton__Odds">3.80</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264317093387112788"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.85</span></div></button><span class="OddsParameter">1.75</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264317093387113300"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.83</span></div></button></div></div></div></div>
+                           <div class="MatchListGroup__Content">
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/asya/asya-afc-%C5%9Fampiyonlar-ligi/johor-darul-takzim-fc-buriram-united-fc/264152138358206464">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Johor Darul Takzim FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Buriram United FC</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">0</span><span class="Score__Part Score__Part--Away">0</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors">
+                                          <span class="EventItem__IndicatorsGroup">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
+                                                </svg>
+                                             </span>
+                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">81</span></span>
+                                          </span>
+                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">Devre Arası</span></span></span>
+                                       </span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264292479933028180">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264292479933028436">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.45</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264292479933027924">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.30</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264317093387113556">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                       </button>
+                                       <span class="OddsParameter">1.25</span>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264317093386067796">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.95</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264292480000136788">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.40</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264292480000136532">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.26</span></div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
                         </div>
-                        <div class="MatchListGroup MatchList__Group"><div class="MatchListGroup__Header"><span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--182 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/182.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="https://www.holiganbet1085.com/tr/sports/i/turnuva-konumu/futb/1/portekiz/182/portekiz-revelacao-ligi-u23/244647910372405248"><span class="MatchListGroup__Tournament">Portekiz Revelacao Ligi U23</span></a></span><button class="MatchListGroup__CollapseBtn"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1"><svg class="S" viewBox="0 0 126 126"><path d="M33 57.4h60v11.3H33z"></path></svg>
-</span></button></div></div>
-<div class="MatchListGroup MatchList__Group"><div class="MatchListGroup__Header"><span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--182 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/182.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="https://www.holiganbet1085.com/tr/sports/i/turnuva-konumu/futb/1/portekiz/182/portekiz-revelacao-ligi-u23/244647910372405248"><span class="MatchListGroup__Tournament">Portekiz Revelacao Ligi U23</span></a></span><button class="MatchListGroup__CollapseBtn"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1"><svg class="S" viewBox="0 0 126 126"><path d="M33 57.4h60v11.3H33z"></path></svg>
-</span></button></div><div class="MatchListGroup__Content"><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/port/portekiz-revelacao-ligi-u23/portimonense-u23-leixoes-u23/264283585940303872"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Portimonense U23</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Leixoes U23</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">2</span><span class="Score__Part Score__Part--Away">1</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!"><svg class="S" viewBox="0 0 126 126"><path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path></svg>
-</span><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">49</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">74'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">2. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264324259477168980"><div class="OM-ValueChanger OM-ValueChanger--Decreasing"><span class="OddsButton__Odds">1.14</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264324259477169236"><div class="OM-ValueChanger"><span class="OddsButton__Odds">4.80</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264324259477169492"><div class="OM-ValueChanger"><span class="OddsButton__Odds">21.00</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264325471292336212"><div class="OM-ValueChanger"><span class="OddsButton__Odds">2.00</span></div></button><span class="OddsParameter">3.5</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264325471292335444"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.67</span></div></button></div></div></div><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/port/portekiz-revelacao-ligi-u23/santa-clara-u23-rio-ave-u23/264227598936059904"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Santa Clara U23</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Rio Ave U23</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">2</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!"><svg class="S" viewBox="0 0 126 126"><path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path></svg>
-</span><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">106</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">31'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264324219710972244"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.11</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264324219710971988"><div class="OM-ValueChanger"><span class="OddsButton__Odds">7.00</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264324219709927252"><div class="OM-ValueChanger"><span class="OddsButton__Odds">15.00</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264324972854878548"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.65</span></div></button><span class="OddsParameter">3.5</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264324972853833044"><div class="OM-ValueChanger"><span class="OddsButton__Odds">2.00</span></div></button></div></div></div></div></div>
-<div class="MatchListGroup MatchList__Group"><div class="MatchListGroup__Header"><span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--226 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/226.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="https://www.holiganbet1085.com/tr/sports/i/turnuva-konumu/futb/1/ukrayna/226/ukrayna-premier-ligi/243312957992857600"><span class="MatchListGroup__Tournament">Ukrayna Premier Ligi</span></a></span><button class="MatchListGroup__CollapseBtn"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1"><svg class="S" viewBox="0 0 126 126"><path d="M33 57.4h60v11.3H33z"></path></svg>
-</span></button></div><div class="MatchListGroup__Content"><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/ukra/ukrayna-premier-ligi/pfk-oleksandria-fc-obolon-kiev/263615794823311360"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">PFK Oleksandria</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">FC Obolon Kiev</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">3</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!"><svg class="S" viewBox="0 0 126 126"><path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path></svg>
-</span><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">36</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">72'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">2. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton OddsButton--Suspended UBTOddsButton" disabled="" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="263950587368261204"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.11</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="263950587368261460"><div class="OM-ValueChanger"><span class="OddsButton__Odds">101.00</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="263950587368260948"><div class="OM-ValueChanger"><span class="OddsButton__Odds">126.00</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264214331349484884"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.98</span></div></button><span class="OddsParameter">3.5</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264214331349485396"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div></button></div></div></div></div></div>
-<div class="MatchListGroup MatchList__Group"><div class="MatchListGroup__Header"><span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--230 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/230.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="https://www.holiganbet1085.com/tr/sports/i/turnuva-konumu/futb/1/uruguay/230/uruguay-reserve-lig/231351220587368448"><span class="MatchListGroup__Tournament">Uruguay Reserve Lig</span></a></span><button class="MatchListGroup__CollapseBtn"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1"><svg class="S" viewBox="0 0 126 126"><path d="M33 57.4h60v11.3H33z"></path></svg>
-</span></button></div><div class="MatchListGroup__Content"><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/urug/uruguay-reserve-lig/juventud-de-las-piedras-reserves-albion-reserves/264352707803885568"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Juventud De Las Piedras Reserves</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Albion Reserves</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">103</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">28'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264355079894021972"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.29</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264355079894021460"><div class="OM-ValueChanger"><span class="OddsButton__Odds">4.30</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264355079894021716"><div class="OM-ValueChanger"><span class="OddsButton__Odds">7.50</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264355142436338004"><div class="OM-ValueChanger OM-ValueChanger--Increasing"><span class="OddsButton__Odds">2.40</span></div></button><span class="OddsParameter">3.5</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264355142436338260"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.47</span></div></button></div></div></div></div></div>
-<div class="MatchListGroup MatchList__Group"><div class="MatchListGroup__Header"><span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--66 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/66.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="https://www.holiganbet1085.com/tr/sports/i/turnuva-konumu/futb/1/ethiopia/66/etiyopya-premier-ligi/248804327426748416"><span class="MatchListGroup__Tournament">Etiyopya Premier Ligi</span></a></span><button class="MatchListGroup__CollapseBtn"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1"><svg class="S" viewBox="0 0 126 126"><path d="M33 57.4h60v11.3H33z"></path></svg>
-</span></button></div><div class="MatchListGroup__Content"><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/ethi/etiyopya-premier-ligi/ethiopian-medhin-ethiopia-nigd-bank/264168409946664960"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Ethiopian Medhin</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Ethiopia Nigd Bank</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!"><svg class="S" viewBox="0 0 126 126"><path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path></svg>
-</span><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">106</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">31'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264323093702662996"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.47</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264323093702663252"><div class="OM-ValueChanger"><span class="OddsButton__Odds">3.50</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264323093702663508"><div class="OM-ValueChanger"><span class="OddsButton__Odds">6.50</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264323093711050324"><div class="OM-ValueChanger OM-ValueChanger--Increasing"><span class="OddsButton__Odds">1.98</span></div></button><span class="OddsParameter">2.5</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264323093711051092"><div class="OM-ValueChanger OM-ValueChanger--Decreasing"><span class="OddsButton__Odds">1.72</span></div></button></div></div></div></div></div>
-<div class="MatchListGroup MatchList__Group"><div class="MatchListGroup__Header"><span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--66 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/66.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="https://www.holiganbet1085.com/tr/sports/i/turnuva-konumu/futb/1/ethiopia/66/etiyopya-s%C3%BCper-ligi/252193779485806592"><span class="MatchListGroup__Tournament">Etiyopya Süper Ligi</span></a></span><button class="MatchListGroup__CollapseBtn"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1"><svg class="S" viewBox="0 0 126 126"><path d="M33 57.4h60v11.3H33z"></path></svg>
-</span></button></div><div class="MatchListGroup__Content"><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/ethi/etiyopya-s%C3%BCper-ligi/sheger-ketema-soloda-adwa/264354374307819520"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Sheger Ketema</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Soloda Adwa</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!"><svg class="S" viewBox="0 0 126 126"><path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path></svg>
-</span><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">56</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">80'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">2. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264363662117198932"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.10</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264363662117198420"><div class="OM-ValueChanger"><span class="OddsButton__Odds">6.00</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264363662117198676"><div class="OM-ValueChanger"><span class="OddsButton__Odds">26.00</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264393912580592468"><div class="OM-ValueChanger"><span class="OddsButton__Odds">2.15</span></div></button><span class="OddsParameter">1.5</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264393912580591956"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.60</span></div></button></div></div></div><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/ethi/etiyopya-s%C3%BCper-ligi/sululta-ketema-addis-ababa-university/264320379688857600"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Sululta Ketema</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Addis Ababa University</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">106</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">15'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264320513921539668"><div class="OM-ValueChanger OM-ValueChanger--Increasing"><span class="OddsButton__Odds">1.18</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264320513921539924"><div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264320513922584660"><div class="OM-ValueChanger"><span class="OddsButton__Odds">11.00</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264408986843108180"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.97</span></div></button><span class="OddsParameter">3</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264408986843107924"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div></button></div></div></div></div></div>
-<div class="MatchListGroup MatchList__Group"><div class="MatchListGroup__Header"><span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--105 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/105.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="https://www.holiganbet1085.com/tr/sports/i/turnuva-konumu/futb/1/i%CC%87srail/105/i%CC%87srail-liga-bet-north/247989737211162624"><span class="MatchListGroup__Tournament">İsrail Liga Bet North</span></a></span><button class="MatchListGroup__CollapseBtn"><span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1"><svg class="S" viewBox="0 0 126 126"><path d="M33 57.4h60v11.3H33z"></path></svg>
-</span></button></div><div class="MatchListGroup__Content"><div class="EventItem"><div class="EventItem__MatchDetails"><a target="_top" aria-current="false" class="Anchor Details" href="https://www.holiganbet1085.com/tr/sports/i/canli-etkinlikler/1/futb/i%CC%87sra/i%CC%87srail-liga-bet-north/maccabi-maghar-ahi-akko/264380067880120320"><span class="Details__Group"><span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Maccabi Maghar</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Ahi Akko</span></span></span><div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div></span><span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">103</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">37'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span></span></a></div><div class="EventItem__OddsGroup"><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264384704035300948"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.10</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264384704035300692"><div class="OM-ValueChanger"><span class="OddsButton__Odds">8.00</span></div></button><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264384704035301204"><div class="OM-ValueChanger"><span class="OddsButton__Odds">14.00</span></div></button></div><div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside"><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264384704055223636"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.98</span></div></button><span class="OddsParameter">3.5</span><button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="liveSports" data-ubt-location="liveMatchList" data-ubt-label="264384704055223892"><div class="OM-ValueChanger"><span class="OddsButton__Odds">1.70</span></div></button></div></div></div></div></div>
-                        
-                   <button class="OM-Button OM-Button--ghost OM-Button--md MatchList__MainButton">Daha fazla</button>
+                        <div class="MatchListGroup MatchList__Group">
+                           <div class="MatchListGroup__Header">
+                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--182 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/182.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/portekiz/182/portekiz-revelacao-ligi-u23/244647910372405248"><span class="MatchListGroup__Tournament">Portekiz Revelacao Ligi U23</span></a></span>
+                              <button class="MatchListGroup__CollapseBtn">
+                                 <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
+                                    <svg class="S" viewBox="0 0 126 126">
+                                       <path d="M33 57.4h60v11.3H33z"></path>
+                                    </svg>
+                                 </span>
+                              </button>
+                           </div>
+                           <div class="MatchListGroup__Content">
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/port/portekiz-revelacao-ligi-u23/portimonense-u23-leixoes-u23/264283585940303872">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Portimonense U23</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Leixoes U23</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">3</span><span class="Score__Part Score__Part--Away">3</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors">
+                                          <span class="EventItem__IndicatorsGroup">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
+                                                </svg>
+                                             </span>
+                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">5</span></span>
+                                          </span>
+                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">90'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">2. Yarı</span></span></span>
+                                       </span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324259477168980">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">8.50</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324259477169236">
+                                          <div class="OM-ValueChanger OM-ValueChanger--Decreasing"><span class="OddsButton__Odds">1.08</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324259477169492">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">13.00</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264410395151150676">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">6.00</span></div>
+                                       </button>
+                                       <span class="OddsParameter">6.5</span>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264410395151150932">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.09</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton OddsButton--NoOdds UBTOddsButton" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--NoOdds UBTOddsButton" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/port/portekiz-revelacao-ligi-u23/santa-clara-u23-rio-ave-u23/264227598936059904">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Santa Clara U23</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Rio Ave U23</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">2</span><span class="Score__Part Score__Part--Away">0</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors">
+                                          <span class="EventItem__IndicatorsGroup">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
+                                                </svg>
+                                             </span>
+                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">21</span></span>
+                                          </span>
+                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">Devre Arası</span></span></span>
+                                       </span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324219710972244">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.08</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324219710971988">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">8.00</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324219709927252">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">17.00</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324972854878548">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.05</span></div>
+                                       </button>
+                                       <span class="OddsParameter">3.5</span>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324972853833044">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.65</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324238859020372">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.67</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264324238859020628">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.05</span></div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="MatchListGroup MatchList__Group">
+                           <div class="MatchListGroup__Header">
+                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--226 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/226.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/ukrayna/226/ukrayna-premier-ligi/243312957992857600"><span class="MatchListGroup__Tournament">Ukrayna Premier Ligi</span></a></span>
+                              <button class="MatchListGroup__CollapseBtn">
+                                 <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
+                                    <svg class="S" viewBox="0 0 126 126">
+                                       <path d="M33 57.4h60v11.3H33z"></path>
+                                    </svg>
+                                 </span>
+                              </button>
+                           </div>
+                           <div class="MatchListGroup__Content">
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/ukra/ukrayna-premier-ligi/pfk-oleksandria-fc-obolon-kiev/263615794823311360">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">PFK Oleksandria</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">FC Obolon Kiev</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">3</span><span class="Score__Part Score__Part--Away">0</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors">
+                                          <span class="EventItem__IndicatorsGroup">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
+                                                </svg>
+                                             </span>
+                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">22</span></span>
+                                          </span>
+                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">89'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">2. Yarı</span></span></span>
+                                       </span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" disabled="" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="263950587368261204">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.11</span></div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="263950587368261460" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">126.00</span></div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" disabled="" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="263950587368260948">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">126.00</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264214331349484884" disabled="">
+                                          <div class="OM-ValueChanger OM-ValueChanger--Decreasing"><span class="OddsButton__Odds">5.00</span></div>
+                                       </button>
+                                       <span class="OddsParameter">3.5</span>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264214331349485396" disabled="">
+                                          <div class="OM-ValueChanger OM-ValueChanger--Increasing"><span class="OddsButton__Odds">1.11</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264214377980710484" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">11.00</span></div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264214989128548436" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.004</span></div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="MatchListGroup MatchList__Group">
+                           <div class="MatchListGroup__Header">
+                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--230 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/230.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/uruguay/230/uruguay-reserve-lig/231351220587368448"><span class="MatchListGroup__Tournament">Uruguay Reserve Lig</span></a></span>
+                              <button class="MatchListGroup__CollapseBtn">
+                                 <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
+                                    <svg class="S" viewBox="0 0 126 126">
+                                       <path d="M33 57.4h60v11.3H33z"></path>
+                                    </svg>
+                                 </span>
+                              </button>
+                           </div>
+                           <div class="MatchListGroup__Content">
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/urug/uruguay-reserve-lig/juventud-de-las-piedras-reserves-albion-reserves/264352707803885568">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Juventud De Las Piedras Reserves</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Albion Reserves</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">2</span><span class="Score__Part Score__Part--Away">0</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">37</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">44'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span></span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264355079894021972" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.03</span></div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264355079894021460" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">11.00</span></div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264355079894021716" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">26.00</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264355142436338004" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.78</span></div>
+                                       </button>
+                                       <span class="OddsParameter">3.5</span>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264355142436338260" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264355099224520788" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.75</span></div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264355099224521044" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="MatchListGroup MatchList__Group">
+                           <div class="MatchListGroup__Header">
+                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--66 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/66.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/ethiopia/66/etiyopya-premier-ligi/248804327426748416"><span class="MatchListGroup__Tournament">Etiyopya Premier Ligi</span></a></span>
+                              <button class="MatchListGroup__CollapseBtn">
+                                 <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
+                                    <svg class="S" viewBox="0 0 126 126">
+                                       <path d="M33 57.4h60v11.3H33z"></path>
+                                    </svg>
+                                 </span>
+                              </button>
+                           </div>
+                           <div class="MatchListGroup__Content">
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/ethi/etiyopya-premier-ligi/ethiopian-medhin-ethiopia-nigd-bank/264168409946664960">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Ethiopian Medhin</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Ethiopia Nigd Bank</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">1</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors">
+                                          <span class="EventItem__IndicatorsGroup">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
+                                                </svg>
+                                             </span>
+                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">54</span></span>
+                                          </span>
+                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">45'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span>
+                                       </span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264323093702662996">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264323093702663252">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264323093702663508">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.90</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264410285643944020">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                       </button>
+                                       <span class="OddsParameter">3</span>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264410285642899284">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.97</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton OddsButton--NoOdds UBTOddsButton" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--NoOdds UBTOddsButton" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="MatchListGroup MatchList__Group">
+                           <div class="MatchListGroup__Header">
+                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--66 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/66.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/ethiopia/66/etiyopya-s%C3%BCper-ligi/252193779485806592"><span class="MatchListGroup__Tournament">Etiyopya Süper Ligi</span></a></span>
+                              <button class="MatchListGroup__CollapseBtn">
+                                 <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
+                                    <svg class="S" viewBox="0 0 126 126">
+                                       <path d="M33 57.4h60v11.3H33z"></path>
+                                    </svg>
+                                 </span>
+                              </button>
+                           </div>
+                           <div class="MatchListGroup__Content">
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/ethi/etiyopya-s%C3%BCper-ligi/sheger-ketema-soloda-adwa/264354374307819520">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Sheger Ketema</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Soloda Adwa</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors">
+                                          <span class="EventItem__IndicatorsGroup">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
+                                                </svg>
+                                             </span>
+                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">1</span></span>
+                                          </span>
+                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">93'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">2. Yarı</span></span></span>
+                                       </span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton OddsButton--Removed UBTOddsButton" disabled="" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264363662117198932">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264363662117198420" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">21.00</span></div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--Suspended UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264363662117198676" disabled="">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">91.00</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton OddsButton--Removed UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264393912580592468" disabled="">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                       <span class="OddsParameter">1.5</span>
+                                       <button class="OddsButton OddsButton--Removed UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264393912580591956" disabled="">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton OddsButton--NoOdds UBTOddsButton" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                       <button class="OddsButton OddsButton--NoOdds UBTOddsButton" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs">
+                                          <div class="OM-ValueChanger">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--lock OM-Icon--Small2">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M88.81 48h-4.32v-8.56a21.45 21.45 0 00-42.89 0V48h-4.32a8.55 8.55 0 00-8.56 8.56v42.88a8.55 8.55 0 008.56 8.56h51.44a8.56 8.56 0 008.56-8.56V56.65A8.5 8.5 0 0088.81 48zM63 86.65a8.56 8.56 0 118.56-8.56A8.55 8.55 0 0163 86.65zM76.38 48H49.71v-8.56a13.34 13.34 0 0126.67 0z"></path>
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/ethi/etiyopya-s%C3%BCper-ligi/sululta-ketema-addis-ababa-university/264320379688857600">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Sululta Ketema</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Addis Ababa University</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors">
+                                          <span class="EventItem__IndicatorsGroup">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
+                                                </svg>
+                                             </span>
+                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">104</span></span>
+                                          </span>
+                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">28'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span>
+                                       </span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264320513921539668">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.16</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264320513921539924">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264320513922584660">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">12.00</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264320513940410452">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.76</span></div>
+                                       </button>
+                                       <span class="OddsParameter">2.5</span>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264320513939365460">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.90</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264320537707435860">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.00</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264320537707436116">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.70</span></div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="MatchListGroup MatchList__Group">
+                           <div class="MatchListGroup__Header">
+                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--105 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/105.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/i%CC%87srail/105/i%CC%87srail-liga-bet-north/247989737211162624"><span class="MatchListGroup__Tournament">İsrail Liga Bet North</span></a></span>
+                              <button class="MatchListGroup__CollapseBtn">
+                                 <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
+                                    <svg class="S" viewBox="0 0 126 126">
+                                       <path d="M33 57.4h60v11.3H33z"></path>
+                                    </svg>
+                                 </span>
+                              </button>
+                           </div>
+                           <div class="MatchListGroup__Content">
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/i%CC%87sra/i%CC%87srail-liga-bet-north/maccabi-maghar-ahi-akko/264380067880120320">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Maccabi Maghar</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Ahi Akko</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">1</span><span class="Score__Part Score__Part--Away">0</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">60</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">Devre Arası</span></span></span></span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264384704035300948">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.13</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264384704035300692">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">6.50</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264384704035301204">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">15.00</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264408066284462420">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.98</span></div>
+                                       </button>
+                                       <span class="OddsParameter">3</span>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264408066284462164">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.70</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264384723953004372">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.98</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264384723953004116">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.67</span></div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="MatchListGroup MatchList__Group">
+                           <div class="MatchListGroup__Header">
+                              <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--7 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/7.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/arnavutluk/7/arnavutluk-s%C3%BCper-lig/244834195999420416"><span class="MatchListGroup__Tournament">Arnavutluk Süper Lig</span></a></span>
+                              <button class="MatchListGroup__CollapseBtn">
+                                 <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
+                                    <svg class="S" viewBox="0 0 126 126">
+                                       <path d="M33 57.4h60v11.3H33z"></path>
+                                    </svg>
+                                 </span>
+                              </button>
+                           </div>
+                           <div class="MatchListGroup__Content">
+                              <div class="EventItem">
+                                 <div class="EventItem__MatchDetails">
+                                    <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/canli-etkinlikler/1/futb/arna/arnavutluk-s%C3%BCper-lig/kf-laci-kf-egnatia/264231065793605632">
+                                       <span class="Details__Group">
+                                          <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">KF Laci</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">KF Egnatia</span></span></span>
+                                          <div class="Score Score--1"><span class="Score__PartGroup Score__PartGroup--2 Score__PartGroup--StatusId-1"><span class="Score__Part Score__Part--Home">0</span><span class="Score__Part Score__Part--Away">0</span></span></div>
+                                       </span>
+                                       <span class="EventItem__Descriptors">
+                                          <span class="EventItem__IndicatorsGroup">
+                                             <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--video OM-Icon--Medium1 EventItem__Indicator" title="Video akışı mevcut!">
+                                                <svg class="S" viewBox="0 0 126 126">
+                                                   <path d="M115.7 36.4c-1.3-4.8-5-8.5-9.7-9.8-8.6-2.3-43-2.3-43-2.3s-34.4 0-43 2.3c-4.7 1.3-8.5 5-9.7 9.8C8 45.1 8 63.1 8 63.1s0 18 2.3 26.6c1.3 4.8 5 8.4 9.7 9.6 8.6 2.3 43 2.3 43 2.3s34.4 0 43-2.3c4.7-1.3 8.5-4.9 9.7-9.6 2.3-8.6 2.3-26.6 2.3-26.6s0-18-2.3-26.7zm-10 49.7c-.6 2.2-2.3 3.9-4.7 4.6-5.2 1.4-26.1 1.9-38 1.9-11.9 0-32.8-.5-38-1.9-2.3-.6-4.1-2.3-4.7-4.6-1.6-5.9-1.9-18.6-1.9-23 0-4.4.3-17.1 1.9-23 .6-2.3 2.4-4.1 4.7-4.7 5.2-1.4 26.1-1.9 38-1.9 11.9 0 32.8.5 38 1.9 2.3.6 4.1 2.4 4.7 4.7 1.6 5.9 1.9 18.6 1.9 23 0 4.4-.4 17.1-1.9 23zm-58.3-1.8L84.8 63 47.4 41.8v42.5z"></path>
+                                                </svg>
+                                             </span>
+                                             <span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">105</span></span>
+                                          </span>
+                                          <span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--Progress EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--MatchTime"><span class="MatchTime__InfoData">20'</span></span><span class="MatchTime__InfoPart MatchTime__InfoPart--EventPartName">1. Yarı</span></span></span>
+                                       </span>
+                                    </a>
+                                 </div>
+                                 <div class="EventItem__OddsGroup">
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264331226220284244">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264331226220283988">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.40</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264331226220284500">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.60</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264331951188951636">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.90</span></div>
+                                       </button>
+                                       <span class="OddsParameter">1.5</span>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264331951188951124">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.78</span></div>
+                                       </button>
+                                    </div>
+                                    <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264331245689192788">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.90</span></div>
+                                       </button>
+                                       <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="liveUpcomingTabs" data-ubt-label="264331245689192532">
+                                          <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.33</span></div>
+                                       </button>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <button class="OM-Button OM-Button--ghost OM-Button--md MatchList__MainButton">Daha fazla</button>
                      </div>
                   </div>
                </div>
@@ -634,37 +1305,41 @@
                               <div class="OM-Slider__Container OM-Slider__Loaded" style="transform: translateX(0px);">
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem isSelected"><span class="OM-NavItem__Name">Futbol</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Basketbol</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Tenis</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Masa Tenis</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Voleybol</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Tenis</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">FIFA</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">NBA2k</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">e-Fighting</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Avustralya Futbolu</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Beyzbol</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Kriket</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Buz Hokeyi</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Hentbol</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Amerikan Futbolu</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Arena Of Valor</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Avustralya Futbolu</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Badminton</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Bandy</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Beyzbol</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Bowling</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Call of Duty</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Satranç</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">DOTA 2</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Dart</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Salon Futbolu</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Hentbol</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Buz Hokeyi</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">LOL</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Lekros</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Ragbi</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Rugby Birleşik</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Snooker</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Starcraft 2</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Valorant</span></span></div>
-                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">E-Tenis</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Boxing</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Counter-Strike</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Dart</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">DOTA 2</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Duvara karşı tenis</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">E-Buz Hokeyi</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">e-Cricket</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">E-Tenis</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Floorball</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Hurling</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Irlanda Futbolu</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">King Of Glory</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">LOL</span></span></div>
                                  <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">MMA</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Ragbi</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Rugby Birleşik</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Salon Futbolu</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Starcraft 2</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Sutopu</span></span></div>
+                                 <div class="OM-Slider__Item"><span class="OM-WidgetsLink OM-WidgetsLink--NonAnchorLink OM-NavItem"><span class="OM-NavItem__Name">Valorant</span></span></div>
                               </div>
                            </div>
                         </div>
@@ -710,7 +1385,7 @@
                      </div>
                      <div class="MatchListGroup MatchList__Group">
                         <div class="MatchListGroup__Header">
-                           <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/67.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/tr/sports/i/turnuva-konumu/futb/1/uluslararas%C4%B1/67/uefa-%C5%9Fampiyonlar-ligi/238928726115913728"><span class="MatchListGroup__Tournament">UEFA Şampiyonlar Ligi</span></a></span>
+                           <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/67.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/uluslararas%C4%B1/67/uefa-%C5%9Fampiyonlar-ligi/238928726115913728"><span class="MatchListGroup__Tournament">UEFA Şampiyonlar Ligi</span></a></span>
                            <button class="MatchListGroup__CollapseBtn">
                               <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
                                  <svg class="S" viewBox="0 0 126 126">
@@ -722,81 +1397,163 @@
                         <div class="MatchListGroup__Content">
                            <div class="EventItem">
                               <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/sl-benfica-fc-barcelona/256423463350558720">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/fc-barcelona-sl-benfica/263673582972841984">
                                     <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">SL Benfica</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">FC Barcelona</span></span></span>
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">FC Barcelona</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">SL Benfica</span></span></span>
                                        <div class="Score Score--1"></div>
                                     </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">620</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">695</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">20:45</span></span></span></span>
                                  </a>
                               </div>
                               <div class="EventItem__OddsGroup">
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388273706496">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.40</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902418551979520">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.41</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388273706752">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.00</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902418551979264">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388273707008">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.95</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902418551979776">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">6.00</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623961087426304">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.43</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902892560757504">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.33</span></div>
                                     </button>
                                     <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623961087426048">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.73</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902892560756992">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.40</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426955999031808">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.40</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902418515278592">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.47</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426955999032064">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.73</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902632214016512">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.45</span></div>
                                     </button>
                                  </div>
                               </div>
                            </div>
                            <div class="EventItem">
                               <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/atalanta-sk-sturm-graz/256423291314888704">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/liverpool-paris-saint-germain-fc/263901178700509184">
                                     <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Atalanta</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">SK Sturm Graz</span></span></span>
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Liverpool</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Paris Saint-Germain FC</span></span></span>
                                        <div class="Score Score--1"></div>
                                     </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">565</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">20:45</span></span></span></span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">700</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
                                  </a>
                               </div>
                               <div class="EventItem__OddsGroup">
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437277139712">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.18</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902329007780352">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.27</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437277139968">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">7.50</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902329007780864">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.80</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437277139456">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">15.00</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902329007780608">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.77</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958714498304">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.38</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902828587135488">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.53</span></div>
                                     </button>
                                     <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958714497792">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.90</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902828587135232">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.50</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426955632032512">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.99</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902328943820032">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.45</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426955632032768">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902801504514560">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.60</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/bayer-04-leverkusen-fc-bayern-m%C3%BCnih/263901326575939584">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Bayer 04 Leverkusen</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">FC Bayern Münih</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">703</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902329046578944">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.90</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902329046578432">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.50</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902329046578688">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.27</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902892504134400">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902892504134656">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902392344916736">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.55</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263902392344916480">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.27</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/inter-feyenoord-rotterdam/263892870910455808">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Inter</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Feyenoord Rotterdam</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">658</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263893492383101696">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.35</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263893492383101952">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263893492383101440">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">7.50</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263893877902553344">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263893877902553856">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263893877913039872">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.00</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263893932585794048">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.74</span></div>
                                     </button>
                                  </div>
@@ -804,656 +1561,164 @@
                            </div>
                            <div class="EventItem">
                               <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/liverpool-osc-lille/256423539317792768">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/atletico-madrid-real-madrid/263810530720886784">
                                     <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Liverpool</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">OSC Lille</span></span></span>
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Atletico Madrid</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Real Madrid</span></span></span>
                                        <div class="Score Score--1"></div>
                                     </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">634</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">662</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
                                  </a>
                               </div>
                               <div class="EventItem__OddsGroup">
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388259026176">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.28</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388259025664">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.50</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388259025920">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">10.00</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624052229651712">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.43</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624052230696960">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.73</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986854432000">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.79</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986854431744">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.94</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/atletico-madrid-bayer-04-leverkusen/256423539256975360">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Atletico Madrid</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Bayer 04 Leverkusen</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">601</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437258264832">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.40</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437258265088">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437258264576">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.00</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958490101760">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.90</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958490101248">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.90</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987069387776">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.71</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987069387520">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.03</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/as-monaco-aston-villa/256423387659100160">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">AS Monaco</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Aston Villa</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">652</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">20:45</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437279236352">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885697942784">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.55</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437278191360">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885697942272">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.50</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256441437279236096">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.70</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885697942528">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.63</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624063261720064">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.70</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624063262765312">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.11</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426955649857536">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.55</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426955649857280">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.27</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/club-brugge-kv-juventus-fc/255451458185846784">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Club Brugge KV</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Juventus FC</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">589</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388263220480">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388263219968">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388263220224">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.25</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624052285226496">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624052285226752">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987272812544">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.80</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987272812288">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.93</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/sk-slovan-bratislava-vfb-stuttgart/254520171228946432">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">SK Slovan Bratislava</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">VfB Stuttgart</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">578</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990748843776">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">10.00</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990748843520">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">6.50</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990749888512">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.25</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958527848960">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.35</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958527849216">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.15</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990607282432">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.78</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990607282176">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.95</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/real-madrid-fc-red-bull-salzburg/256424158964342784">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Real Madrid</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">FC Red Bull Salzburg</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">391</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388262172160">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.08</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388262172672">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">13.00</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388262172416">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">21.00</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624063297371648">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.20</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624063297371392">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.25</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990287468288">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.14</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990287468544">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.64</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/ac-milan-girona-fc/256424329508937728">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">AC Milan</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Girona FC</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">408</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338735497728">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.45</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338735497216">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.33</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338735497472">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">7.00</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623961098956800">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885650758400">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.66</span></div>
                                     </button>
                                     <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623961097912064">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885651804160">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.20</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987602066176">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.83</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987602065920">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/arsenal-gnk-dinamo-zagreb/256424329413517312">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Arsenal</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">GNK Dinamo Zagreb</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">520</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338740740352">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.12</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338740740608">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">9.00</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338740740096">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">17.00</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624063209290496">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.38</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624063209291008">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.90</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990230846976">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.37</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990230846720">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.53</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/paris-saint-germain-fc-manchester-city/256320991385739264">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Paris Saint-Germain FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Manchester City</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">607</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987920832768">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.45</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987920833280">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.60</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987920833024">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.70</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987936560640">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810906186070528">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.51</span></div>
                                     </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987936562944">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.45</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256423983715987968">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.45</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256423983715988224">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.55</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810906186070272">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.39</span></div>
                                     </button>
                                  </div>
                               </div>
                            </div>
                            <div class="EventItem">
                               <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/celtic-fc-bsc-young-boys-bern/256424428015312896">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/osc-lille-borussia-dortmund/263810679092293632">
                                     <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Celtic FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">BSC Young Boys Bern</span></span></span>
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">OSC Lille</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Borussia Dortmund</span></span></span>
                                        <div class="Score Score--1"></div>
                                     </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">493</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">632</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">20:45</span></span></span></span>
                                  </a>
                               </div>
                               <div class="EventItem__OddsGroup">
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388253783552">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.33</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263811081953622784">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.63</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388253783808">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263811081953623040">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.40</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263811081953623296">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.63</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263811081927407616">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.91</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263811081927408128">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.91</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263811081979838208">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.66</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263811081979837952">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/arsenal-psv-eindhoven/263810530794287104">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Arsenal</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">PSV Eindhoven</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">654</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885602523392">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.40</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885602523648">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388253784064">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">9.00</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885602523904">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">7.00</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624052259012352">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.38</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885609862144">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
                                     </button>
                                     <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256624052260057344">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.90</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810885609861376">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987787662080">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.64</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810904509395456">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.94</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987787661824">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.14</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263810904509395712">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.79</span></div>
                                     </button>
                                  </div>
                               </div>
                            </div>
                            <div class="EventItem">
                               <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/rb-leipzig-sporting-clube-de-portugal/256423884934733824">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/aston-villa-club-brugge-kv/263801887371833344">
                                     <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">RB Leipzig</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Sporting Clube de Portugal</span></span></span>
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Aston Villa</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Club Brugge KV</span></span></span>
                                        <div class="Score Score--1"></div>
                                     </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">432</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">20:45</span></span></span></span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">648</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
                                  </a>
                               </div>
                               <div class="EventItem__OddsGroup">
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338719769088">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.80</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263802908553263104">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.60</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338719768832">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.60</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263802908553263360">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.20</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338719768576">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.35</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263802908553263616">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958658923008">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263803360643658240">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.60</span></div>
                                     </button>
                                     <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958658923264">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.27</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263803360642611200">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.30</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990880963072">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.47</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990880962816">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.45</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/fc-shakhtar-donetsk-brest/256423885043785728">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">FC Shakhtar Donetsk</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Brest</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">424</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">20:45</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338720818944">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.73</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338720819200">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256443338720818688">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.70</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958521558784">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.90</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958521558528">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.90</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990782397696">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.70</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426990782397440">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.05</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/k%C4%B1z%C4%B1ly%C4%B1ld%C4%B1z-psv-eindhoven/256423736453226496">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Kızılyıldız</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">PSV Eindhoven</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">558</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388260074752">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.00</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388260074240">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.20</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388260074496">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623961090568704">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.43</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623961089523456">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.73</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987366134272">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.45</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987366134528">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.59</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/bologna-f-c-borussia-dortmund/256423711530672128">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Bologna F.C.</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Borussia Dortmund</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">606</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388253782016">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.40</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388253782272">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.50</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388253782528">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623961142998528">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623961142998784">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987285395200">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263803656263447552">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.62</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426987285395456">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.18</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/ac-sparta-praha-i%CC%87nter/255450829581312000">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">AC Sparta Praha</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">İnter</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">423</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986308123392">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">8.00</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986308123136">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.50</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986308122880">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.40</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986285055232">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.66</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986286101248">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.20</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986218995456">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.86</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986220040192">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.86</span></div>
-                                    </button>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="EventItem">
-                              <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-%C5%9Fampiyonlar-ligi/feyenoord-rotterdam-fc-bayern-m%C3%BCnih/256424158901428224">
-                                    <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Feyenoord Rotterdam</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">FC Bayern Münih</span></span></span>
-                                       <div class="Score Score--1"></div>
-                                    </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">495</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
-                                 </a>
-                              </div>
-                              <div class="EventItem__OddsGroup">
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388261124864">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">7.00</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388261124352">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.75</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256442388261124608">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.41</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958741759488">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.38</span></div>
-                                    </button>
-                                    <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256623958741759232">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.90</span></div>
-                                    </button>
-                                 </div>
-                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986563973888">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.55</span></div>
-                                    </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256426986563974144">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.27</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="263803656263447808">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.16</span></div>
                                     </button>
                                  </div>
                               </div>
@@ -1462,7 +1727,7 @@
                      </div>
                      <div class="MatchListGroup MatchList__Group">
                         <div class="MatchListGroup__Header">
-                           <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--67 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.143/om1/icons/flag/67.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/tr/sports/i/turnuva-konumu/futb/1/uluslararas%C4%B1/67/uefa-avrupa-ligi/239341156955492352"><span class="MatchListGroup__Tournament">UEFA Avrupa Ligi</span></a></span>
+                           <span class="MatchListGroup__Title"><span class="OM-Icon OM-Icon--77 OM-Icon--AsBackground OM-Icon--flag OM-Icon--Medium1" style="background-image: url(&quot;https://static.glastcoper.com/omfe-widgets/p/assets/1.10.192/om1/icons/flag/77.png&quot;);"></span><a target="_top" aria-current="false" class="Anchor" href="/sports/i/turnuva-konumu/futb/1/i%CC%87ngiltere/77/i%CC%87ngiltere-championship/238294668708057088"><span class="MatchListGroup__Tournament">İngiltere Championship</span></a></span>
                            <button class="MatchListGroup__CollapseBtn">
                               <span class="OM-Icon OM-Icon--Svg OM-Icon--general OM-Icon--remove OM-Icon--Medium1">
                                  <svg class="S" viewBox="0 0 126 126">
@@ -1474,82 +1739,492 @@
                         <div class="MatchListGroup__Content">
                            <div class="EventItem">
                               <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-avrupa-ligi/galatasaray-sk-fc-dynamo-kiev/256438821720547328">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/burnley-fc-west-bromwich-albion-fc/264142747880927232">
                                     <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Galatasaray SK</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">FC Dynamo Kiev</span></span></span>
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Burnley FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">West Bromwich Albion FC</span></span></span>
                                        <div class="Score Score--1"></div>
                                     </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">531</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">21.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">18:30</span></span></span></span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">360</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
                                  </a>
                               </div>
                               <div class="EventItem__OddsGroup">
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695976414472192">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.20</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144817900101972">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695976414472704">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">6.50</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144817900102228">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695976414472448">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">15.00</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144817900101716">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.50</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695976257184512">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.38</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144817976648276">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.45</span></div>
                                     </button>
                                     <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695976257184256">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.90</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144817976648788">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.53</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695976538205524">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.98</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144818087797588">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.20</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695976538205780">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.83</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144965324644436">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.60</span></div>
                                     </button>
                                  </div>
                               </div>
                            </div>
                            <div class="EventItem">
                               <div class="EventItem__MatchDetails">
-                                 <a target="_top" aria-current="false" class="Anchor Details" href="/tr/sports/i/musabaka/1/futb/ulus/uefa-avrupa-ligi/besiktas-jk-athletic-bilbao/256438904757280768">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/sheffield-united-fc-bristol-city-fc/264059604012380160">
                                     <span class="Details__Group">
-                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Besiktas JK</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Athletic Bilbao</span></span></span>
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Sheffield United FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Bristol City FC</span></span></span>
                                        <div class="Score Score--1"></div>
                                     </span>
-                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">428</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">22.01</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">18:30</span></span></span></span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">430</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
                                  </a>
                               </div>
                               <div class="EventItem__OddsGroup">
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695886566190080">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.00</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144313392440916">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.23</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695886566190336">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">4.00</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144313392441172">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695886566190592">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.80</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144313392441428">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.40</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695886589256192">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144313402928980">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.12</span></div>
                                     </button>
                                     <span class="OddsParameter">2.5</span>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695886589255936">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144313403973716">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.68</span></div>
                                     </button>
                                  </div>
                                  <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695886612328020">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144313435432276">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.86</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144798372472404">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.85</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/sunderland-preston-north-end-fc/264142747797041152">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Sunderland</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Preston North End FC</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">361</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143992720075348">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.62</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143992720075860">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.80</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143992720075604">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.50</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143992724269140">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.07</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143992724268884">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144037363195988">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.08</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144428911962964">
                                        <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.68</span></div>
                                     </button>
-                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="256695886612328276">
-                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.18</span></div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/derby-county-coventry-city-fc/264142748623319040">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Derby County</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Coventry City FC</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">355</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143287033670228">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.40</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143287033670740">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143287033670484">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.22</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143287085051476">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.31</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143287085051220">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.58</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143308698297684">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.98</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143308698297428">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/norwich-city-fc-sheffield-wednesday-fc/264142716674256896">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Norwich City FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Sheffield Wednesday FC</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">358</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143324055740500">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.33</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143324055740756">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.28</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143324054695764">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.10</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143324066227540">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.97</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143324066227028">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.80</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143467547076180">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.74</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143467547075924">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.99</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/cardiff-city-fc-luton-town/264059710959792128">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Cardiff City FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Luton Town</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">358</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143207893442900">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.34</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143207893443156">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.15</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143207893442644">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143207895543380">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.27</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143207895542612">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.60</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143635336011860">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.93</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143635334967124">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.78</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/leeds-united-millwall/264142716901797888">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Leeds United</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Millwall</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">364</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144472735097428">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.30</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144472735097172">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144472735096916">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">10.00</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144472809549140">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.91</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144472809549396">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.85</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144472827371604">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.45</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144513659971412">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.47</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/hull-city-afc-oxford-united/264142810014298112">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Hull City AFC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Oxford United</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">338</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144667746116180">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144667746116436">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.60</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144667746115924">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144667920179540">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.11</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144667920179284">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.70</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144668146672724">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.00</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144940621244756">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/middlesbrough-fc-queens-park-rangers-fc/264142748547821568">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Middlesbrough FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Queens Park Rangers FC</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">360</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">11.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143320781041236">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.97</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143320782086228">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.40</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143320781041492">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.80</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143320802010452">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143320802010196">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144003674548820">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.72</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144003674549076">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.00</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/watford-fc-swansea-city/264041737813504000">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Watford FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Swansea City</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">333</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144106436046420">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.31</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144106436046676">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144106436046164">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144106451774804">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144106451774036">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.70</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144171162543188">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.81</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144171162542932">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/portsmouth-plymouth-argyle-fc/264142721430597632">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Portsmouth</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Plymouth Argyle FC</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">341</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">22:45</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144657736411476">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.68</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144657736411988">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.80</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144657736411732">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">5.00</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144657632601172">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144657632600916">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144657765772884">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.81</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144968067719252">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.87</span></div>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="EventItem">
+                              <div class="EventItem__MatchDetails">
+                                 <a target="_top" aria-current="false" class="Anchor Details" href="/sports/i/musabaka/1/futb/i%CC%87ngi/i%CC%87ngiltere-championship/stoke-city-fc-blackburn-rovers/264142909618532352">
+                                    <span class="Details__Group">
+                                       <span class="Details__Participants"><span class="Details__Participant Details__Participant--Home"><span class="Details__ParticipantName">Stoke City FC</span></span><span class="Details__Participant Details__Participant--Away"><span class="Details__ParticipantName">Blackburn Rovers</span></span></span>
+                                       <div class="Score Score--1"></div>
+                                    </span>
+                                    <span class="EventItem__Descriptors"><span class="EventItem__IndicatorsGroup"><span class="MarketsNumber EventItem__Indicator"><span class="MarketsNumber__IndicatorPart">390</span></span></span><span class="EventItem__InfoGroup"><span class="MatchTime MatchTime--StartTime EventItem__Info"><span class="MatchTime__InfoPart MatchTime__InfoPart--Date">12.03</span><span class="MatchTime__InfoPart MatchTime__InfoPart--Time">23:00</span></span></span></span>
+                                 </a>
+                              </div>
+                              <div class="EventItem__OddsGroup">
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--69 EventItem__ButtonsGroup--Column-3">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143992940275796">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.63</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143992940275540">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">3.20</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264143992940276052">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.73</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--47 EventItem__ButtonsGroup--Column-2 EventItem__ButtonsGroup--HasParameterOutside">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144386896568916">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">2.10</span></div>
+                                    </button>
+                                    <span class="OddsParameter">2.5</span>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144386896569172">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.70</span></div>
+                                    </button>
+                                 </div>
+                                 <div class="EventItem__ButtonsGroup EventItem__ButtonsGroup--76 EventItem__ButtonsGroup--Column-2">
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144520647680340">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.80</span></div>
+                                    </button>
+                                    <button class="OddsButton UBTOddsButton" title="" type="button" data-ubt-page="home" data-ubt-location="popular" data-ubt-label="264144582971892308">
+                                       <div class="OM-ValueChanger"><span class="OddsButton__Odds">1.90</span></div>
                                     </button>
                                  </div>
                               </div>
@@ -1559,7 +2234,7 @@
                      <button class="OM-Button OM-Button--ghost OM-Button--md MatchList__MainButton">Daha fazla</button>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet991.com/v2" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
+               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="2218" webapi-realm="http://www.holiganbet.com" webapi-url="wss://sportsapi.holiganbet1085.com/v2" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
             </section>
             <aside class="Sidebar Sidebar--Right">
                <div class="Sidebar__Wrapper">
@@ -1573,7 +2248,7 @@
                            </span>
                            <span class="BettingArea__HeaderText">Bahis kuponu</span>
                         </div>
-                        <a target="_top" aria-current="false" class="Anchor BettingArea__HeaderLink" href="/tr/sports/i/bahis-kurallari">Yardım</a>
+                        <a target="_top" aria-current="false" class="Anchor BettingArea__HeaderLink" href="/sports/i/bahis-kurallari">Yardım</a>
                      </div>
                      <div class="BettingArea__BetslipContent">
                         <div class="Betslip">
@@ -1586,20 +2261,32 @@
                         </div>
                      </div>
                   </div>
-                  <bannermatrix-banner class="BannerWidgetRightUnderBetslip BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet991.com/v2" page-tag="home-page" position-tag="right-under-betslip" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
+                  <bannermatrix-banner class="BannerWidgetRightUnderBetslip BannerWidgetColorPack" operator-id="2218" webapi-realm="http://www.holiganbet.com" webapi-url="wss://sportsapi.holiganbet1085.com/v2" page-tag="home-page" position-tag="right-under-betslip" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
                   <div class="CustomContent CustomContent--bottom_right_1">
                      <div>
-                        <p><img class="lazy" src="/stateless-jojobet/2019/06/7556a3a9-r13146-300x40.jpg" alt="" width="300" height="40"><br>
-                           <a href="/tr/live-casino/games/evolution:jojo-blackjack1-33198055936/?prevRoute=%2Flive-casino%2Fcat%2Fevolution" data-original-href="/live-casino/games/evolution:jojo-blackjack1-33198055936/?prevRoute=%2Flive-casino%2Fcat%2Fevolution"><img class="lazy" style="width: 96px; height: 96px;" src="/stateless-jojobet/2022/07/63ebe28d-blackjack.gif" alt="" width="150" height="150"></a> <a href="/tr/casino/games/jojobet'e-özel:ufo-galaxy-55682/?prevRoute=%2Fcasino" data-original-href="/casino/games/jojobet'e-özel:ufo-galaxy-55682/?prevRoute=%2Fcasino"><img class="lazy" style="width: 96px; height: 96px;" src="/stateless-jojobet/2023/11/87e25699-ufo.gif" alt="" width="150" height="150"></a> <a href="/tr/live-casino/games/evolution:crazy-time-35744071237/?prevRoute=%2Flive-casino%2Fcat%2Fevolution" data-original-href="/live-casino/games/evolution:crazy-time-35744071237/?prevRoute=%2Flive-casino%2Fcat%2Fevolution"><img class="lazy" style="width: 96px; height: 96px;" src="/stateless-jojobet/2022/07/87b67fb3-crazy-time.gif" alt="" width="150" height="150"></a><br>
-                           <a href="/tr/casino/games/pragmatic:jojo-bonanza-45957/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic" data-original-href="/casino/games/pragmatic:jojo-bonanza-45957/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic"><img class="lazy" style="width: 96px; height: 96px;" src="/stateless-jojobet/2022/07/1a492ad6-jojo-bonanza.gif" alt="" width="150" height="150"></a> <a href="/tr/casino/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=%2Fcasino" data-original-href="/casino/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=%2Fcasino"><img class="lazy" style="width: 96px; height: 96px;" src="/stateless-jojobet/2019/06/3c3b8a33-gates-of-jojo.gif" alt="" width="150" height="150"></a> <a href="/tr/casino/games/pragmatic:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic" data-original-href="/casino/games/pragmatic:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic"><img class="lazy" style="width: 96px; height: 96px;" src="/stateless-jojobet/2019/06/0634589b-jj-hf.gif" alt="" width="150" height="150"></a><br>
-                           <a href="/tr/sports/i/spor/esports/96/tümü/0/disiplin/canlı" data-original-href="/sports/i/spor/esports/96/tümü/0/disiplin/canlı"><img class="lazy" src="/stateless-jojobet/2019/06/c37c36ad-saggif.gif" alt="" width="320" height="100"></a>
+                        <p><img src="/stateless-holiganbet-one/2022/01/9a636160-ust-bar-populer-oyunlar.gif" alt="" width="300" height="40"><br>
+                           <a href="/casino/games/pragmatic-casino:sweet-bonanza™-31038/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino" data-original-href="/casino/games/pragmatic-casino:sweet-bonanza™-31038/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino"><img style="width: 96px; height: 96px;" src="/stateless-holiganbet-one/2024/10/2c4f9ee2-sw-bonanza.gif" alt="" width="150" height="150"></a> <a href="/casino/games/pragmatic-casino:sweet-bonanza-1000-64667/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino" data-original-href="/casino/games/pragmatic-casino:sweet-bonanza-1000-64667/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino"><img style="width: 96px; height: 96px;" src="/stateless-holiganbet-one/2024/10/10a48809-sw1000.gif" alt="" width="150" height="150"></a> <a href="/casino/games/pragmatic-casino:gates-of-olympus™-39095/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino" data-original-href="/casino/games/pragmatic-casino:gates-of-olympus™-39095/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino"><img style="width: 96px; height: 96px;" src="/stateless-holiganbet-one/2024/10/ff1d840b-gates.gif" alt="" width="150" height="150"></a><br>
+                           <a href="/casino/games/pragmatic-casino:gates-of-olympus-1000™-61019/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino" data-original-href="/casino/games/pragmatic-casino:gates-of-olympus-1000™-61019/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino"><img style="width: 96px; height: 96px;" src="/stateless-holiganbet-one/2024/10/2fb094d4-gates1000-1.gif" alt="" width="150" height="150"></a> <a href="/sports/games/top-30-canli-casino:immersive-roulette-8510079294/?prevRoute=%2Fsports%2Fi" data-original-href="/sports/games/top-30-canli-casino:immersive-roulette-8510079294/?prevRoute=%2Fsports%2Fi"><img style="width: 96px; height: 96px;" src="/stateless-holiganbet-one/2024/10/392f7dc1-immersive-rulet.gif" alt="" width="150" height="150"></a> <a href="/sports/games/top-30-canli-casino:lightning-rulet-40892081196/?prevRoute=%2Fsports%2Fi" data-original-href="/sports/games/top-30-canli-casino:lightning-rulet-40892081196/?prevRoute=%2Fsports%2Fi"><img style="width: 96px; height: 96px;" src="/stateless-holiganbet-one/2024/10/07a0c17b-turkce-lightning-roulette.gif" alt="" width="150" height="150"></a>
                         </p>
                      </div>
                   </div>
                   <div class="CustomContent CustomContent--bottom_right_2">
                      <div>
-                        <p><a href="/tr/#hc=d" data-original-href="#hc=d"><img class="lazy" src="/stateless-jojobet/2019/06/b093c8ef-guvenliyatirim.png" alt="" width="1200" height="1200"></a> <a href="/tr/casino/games/pragmatic:gates-of-jojobet-54985/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic" data-original-href="/casino/games/pragmatic:gates-of-jojobet-54985/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic"><img class="lazy" src="/stateless-jojobet/2019/06/e9086e3b-sagblok.png" alt="" width="1200" height="1200"></a><a href="/tr/casino/games/pragmatic:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic" data-original-href="/casino/games/pragmatic:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic"><img class="lazy" src="/stateless-jojobet/2019/06/e63d0425-sag-blok.jpg" alt="" width="1200" height="1200"></a><a href="/tr/casino/games/pragmatic:jojo-bonanza-1000-70799/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic" data-original-href="/casino/games/pragmatic:jojo-bonanza-1000-70799/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic"><img class="lazy" src="/stateless-jojobet/2024/12/efd7c658-sag-blok.jpg" alt="" width="1200" height="1200"></a><a href="/tr/casino/games/amusnet:jojo-space-70491/?prevRoute=%2Fcasino%2Fcat%2Famusnet" data-original-href="/casino/games/amusnet:jojo-space-70491/?prevRoute=%2Fcasino%2Fcat%2Famusnet"><img class="lazy" src="/stateless-jojobet/2024/12/455f9492-sag-blok.jpg" alt="" width="1200" height="1200"></a><a href="/tr/casino/games/pragmatic:jojo-rush-1000-69165/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic" data-original-href="/casino/games/pragmatic:jojo-rush-1000-69165/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic"><img class="lazy" src="/stateless-jojobet/2024/10/4e6e2545-sag-blok.jpg" alt="" width="1200" height="1200"></a><a href="/tr/casino/games/pragmatic:jojo-princess-1000-68350/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic" data-original-href="/casino/games/pragmatic:jojo-princess-1000-68350/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic"><img class="lazy" src="/stateless-jojobet/2019/06/bb3143e1-sag-blok.jpg" alt="" width="1200" height="1200"></a><a href="/tr/casino/games/pragmatic:jojo-bonanza-45957/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic" data-original-href="/casino/games/pragmatic:jojo-bonanza-45957/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic"><img class="lazy" src="/stateless-jojobet/2019/06/c725327b-jojo-bonanza.png" alt="" width="1200" height="1200"></a><a href="/tr/games/microgaming:jojobet-blitz-70960/?prevRoute=%2Fcasino" data-original-href="/games/microgaming:jojobet-blitz-70960/?prevRoute=%2Fcasino"><img class="lazy" src="/stateless-jojobet/2024/12/b6a5a3cb-sag-blok.jpg" alt="" width="1200" height="1200"></a><a href="/tr/live-casino/games/evolution:crazy-time-35744071237/?prevRoute=%2Flive-casino%2Fcat%2Fevolution" data-original-href="/live-casino/games/evolution:crazy-time-35744071237/?prevRoute=%2Flive-casino%2Fcat%2Fevolution"><img class="lazy" src="/stateless-jojobet/2019/06/22578efb-crazy-time.png" alt="" width="1200" height="1200"></a><br>
-                           <a href="/tr/live-casino/games/evolution:xxxtreme-47844030144/?prevRoute=%2Flive-casino%2Fcat%2Fevolution" data-original-href="/live-casino/games/evolution:xxxtreme-47844030144/?prevRoute=%2Flive-casino%2Fcat%2Fevolution"><img class="lazy" src="/stateless-jojobet/2019/06/6c6ffc80-xxxtreme-lightning-roulette.png" alt="" width="1200" height="1200"></a>
+                        <p><a href="/#hc=d" data-original-href="#hc=d"><img src="https://othercdn.com/holiganbet/img/parayat%C4%B1rma.jpg" alt="" width="320" height="150"></a><br>
+                           <a href="/withdraw" data-original-href="/withdraw"><img src="/stateless-holiganbet-one/2024/10/c5f92e2a-tehter-cekim.png" alt="" width="320" height="150"></a><br>
+                           <a href="/casino/games/pragmatic-casino:holigan-bonanza-63980/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino" data-original-href="/casino/games/pragmatic-casino:holigan-bonanza-63980/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino"><img src="/stateless-holiganbet-one/2024/10/9a4e06fe-holigan-bonanza.png" alt="" width="320" height="150"></a><br>
+                           <a href="/casino/games/pragmatic-casino:holigan-rush-1000-69164/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino" data-original-href="/casino/games/pragmatic-casino:holigan-rush-1000-69164/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino"><img src="/stateless-holiganbet-one/2024/10/637843be-holigan-rush-1000.png" alt="" width="320" height="150"></a><br>
+                           <a href="/casino/games/pragmatic-casino:holigan-princess-1000-68005/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino" data-original-href="/casino/games/pragmatic-casino:holigan-princess-1000-68005/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino"><img src="/stateless-holiganbet-one/2024/10/2da9192b-holigan-princess.png" alt="" width="320" height="150"></a><br>
+                           <a href="/live-casino/games/evolution:xxxtreme-lightning-roulette-47844030144/?prevRoute=%2Flive-casino%2Fcat%2Fevolution" data-original-href="/live-casino/games/evolution:xxxtreme-lightning-roulette-47844030144/?prevRoute=%2Flive-casino%2Fcat%2Fevolution"><img src="/stateless-holiganbet-one/2023/01/f66a3a10-xxxtreme-rulet.png" alt="" width="320" height="150"></a><br>
+                           <a href="/live-casino/games/evolution:lightning-rulet-40892081196/?prevRoute=%2Flive-casino%2Fcat%2Fevolution" data-original-href="/live-casino/games/evolution:lightning-rulet-40892081196/?prevRoute=%2Flive-casino%2Fcat%2Fevolution"><img src="/stateless-holiganbet-one/2024/10/be5d3d98-lightning.png" alt="" width="320" height="150"></a><br>
+                           <a href="/live-casino/cat/evolution" data-original-href="/live-casino/cat/evolution"><img src="https://othercdn.com/holiganbet/img/holiganbj.jpg" alt="" width="320" height="150"></a><br>
+                           <a href="/casino/games/aperion:ufo-galaxy-55682/?prevRoute=%2Fcasino%2Fcat%2Faperion" data-original-href="/casino/games/aperion:ufo-galaxy-55682/?prevRoute=%2Fcasino%2Fcat%2Faperion"><img src="/stateless-holiganbet-one/2024/10/32ae4c19-ufo-galaxy.png" alt="" width="320" height="150"></a><br>
+                           <a href="/live-casino/games/canlı-oyunlar:35744071237/?prevRoute=/live-casino/cat/canlı-oyunlar" data-original-href="/live-casino/games/canlı-oyunlar:35744071237/?prevRoute=/live-casino/cat/canlı-oyunlar"><img src="https://othercdn.com/holiganbet/img/crazytime.jpg" alt="" width="320" height="150"></a><br>
+                           <a href="/promotions#23662" data-original-href="/promotions#23662"><img src="/stateless-holiganbet-one/2024/10/c4b658ce-oran-yukseltme.png" alt="" width="320" height="150"></a><br>
+                           <a href="/casino/games/mobil-oyunlar:32430/?prevRoute=/casino" data-original-href="/casino/games/mobil-oyunlar:32430/?prevRoute=/casino"><img src="/stateless-holiganbet-one/2023/02/e970e534-avi.png" alt="" width="320" height="150"></a><br>
+                           <a href="/promotions#12725" data-original-href="/promotions#12725"><img src="https://othercdn.com/holiganbet/img/kombine.jpg" alt="" width="320" height="150"></a><br>
+                           <a href="https://holiganbetpartners7.com/" target="_blank" data-original-href="https://holiganbetpartners7.com/"><img src="https://othercdn.com/holiganbet/img/affiliates.jpg" alt="" width="320" height="150"></a><br>
+                           <a href="https://t.me/holigantg" target="_blank" data-original-href="https://t.me/holigantg"><img src="https://othercdn.com/holiganbet/img/telegram.jpg" alt="" width="320" height="150"></a>
                         </p>
                      </div>
                   </div>
@@ -1607,6 +2294,7 @@
             </aside>
          </div>
       </div>
-      <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;9051d895e9ed1909&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;version&quot;:&quot;2025.1.0&quot;,&quot;token&quot;:&quot;1eb7a12053bb42f3a11ba7cf3df45c98&quot;}" crossorigin="anonymous"></script>
    </body>
+   <chatgpt-sidebar data-gpts-theme="light"></chatgpt-sidebar>
+   <chatgpt-sidebar-popups data-gpts-theme="light"></chatgpt-sidebar-popups>
 </html>
