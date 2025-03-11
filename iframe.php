@@ -41,7 +41,7 @@
                      <p><a href="/tr/casino/cat/jojobet'e-ozel" data-original-href="/casino/cat/jojobet'e-ozel"><img class="lazy" src="/stateless-jojobet/2019/07/79c792a0-slot.gif" alt="" width="320" height="80"></a><br>
                         <a href="/tr/casino/cat/jojobet'e-ozel" data-original-href="/casino/cat/jojobet'e-ozel"><img class="lazy" src="/stateless-jojobet/2019/07/ca8c5118-blackjack.gif" alt="" width="320" height="80"></a><br>
                         <a href="/tr/sponsorluklar" data-original-href="/sponsorluklar"><img class="lazy" src="/stateless-jojobet/2019/07/8fada16a-sponsorluklar.gif" alt="" width="320" height="80"></a><br>
-                        <a href="https://t.me/holigantg" target="_blank" data-original-href="https://t.me/holigantg"><img src="https://www.holiganbet1085.com/stateless-holiganbet-one/2025/01/2d4c38c3-telegram.gif" alt="" width="320" height="80"></a><br>
+                        <a href="https://t.me/jojobettelegramdestekbot" target="_blank" data-original-href="https://t.me/jojobettelegramdestekbot"><img class="lazy" src="/stateless-jojobet/2019/07/c7803416-solblok-tlgram.gif" alt="" width="320" height="80"></a><br>
                         
                         <a href="https://www.holiganbet1085.com/tr/sports/i/spor/esports/96/tümü/0/disiplin/canlı" data-original-href="/sports/i/spor/esports/96/tümü/0/disiplin/canlı"><img src="https://othercdn.com/holiganbet/solstun/espor-gif.gif" alt="" width="320" height="80"></a>
                      </p>
