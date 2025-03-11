@@ -1,0 +1,737 @@
+<html class="no-js hydrated" dir="ltr" lang="tr" prefix="og: http://ogp.me/ns#" style="--windowHeight: 782px;">
+   <!--<![endif]-->
+   <head>
+      <style>body {transition: opacity ease-in 0.2s; } 
+         body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+      </style>
+      <meta charset="utf-8">
+      <style data-styles="">casino-play-random-game{visibility:hidden}.hydrated{visibility:inherit}</style>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      
+      <meta name="Application-Name" content="jojoBET">
+      <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
+      <link rel="preload" href="/static/css/common-d84be9782d9443a05473.css" as="style">
+      <link rel="preload" href="/static/css/bundle-939aff498c5cb56a60be.css" as="style">
+      <link rel="preload" href="/static/js/common-977487d3dce2d0c2f8a9.js" as="script">
+      <link rel="preload" href="/static/js/lang-tr-ef2766e66df10de3a740.js" as="script">
+      <link rel="preload" href="/static/js/bundle-890d9e62993833d629e8.js" as="script">
+      <link rel="preload" href="/static/js/svg-2535506528c285ba0ba0.js" as="script">
+      <script src="/assets/js/script.js"></script>
+      <script src="/assets/js/app.js"></script>
+      <script src="/assets/js/payment.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
+            <!-- Slick CSS -->
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
+      <!-- jQuery (slick için gereklidir) -->
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <!-- Slick JS -->
+      <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+      <script>
+        let logged = <?= $us['id'] ? 'true' : 'false' ?>;
+        let locate = <?= intval($main['location']) ?>;
+        let phone_status = <?= intval($main['phone_status']) ?>;
+        let passport_status = <?= intval($main['passport_status']) ?>;
+    </script>
+     
+      <script>
+         window.customBuildVars = {
+           appName: 'jojobet-prod',
+           appVersion: '1.0.798',
+           disableBrowserConsole: false,
+         };
+         $(document).ready(function(){
+    setTimeout(function(){
+      $("#PageSpinner").addClass("Hide");
+    }, 2000);
+  });
+  $(function() {
+  $("img.lazy").lazyload({
+    effect: "fadeIn",
+    threshold: 200
+  });
+});
+
+
+      </script>
+      <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css">
+      <link rel="stylesheet" type="text/css" href="/static/css/bundle-939aff498c5cb56a60be.css">
+      
+      <meta name="author" content="jojoBET">
+      <meta name="apple-mobile-web-app-title" content="Jojobet: Türkiye'nin En Güvenilir Bahis ve Casino Sitesi - Jojobet Giriş">
+      <meta name="HandheldFriendly" content="true">
+      <meta name="Robots" content="index, follow">
+      <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+      <meta name="mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="black">
+      <link rel="search" type="application/opensearchdescription+xml" href="/static/xml/opensearch.xml" title="Search the Operator">
+      <style type="text/css">body,html{font-size:10px}#PageSpinner{position:fixed;margin:0;padding:0;display:flex;justify-content:center;align-items:center;width:100%;height:100vh;background:var(--PageSpinner-background);z-index:9999999;visibility:visible;opacity:1}#PageSpinner.Hide{visibility:hidden;opacity:0;transition:visibility .3s linear,opacity .3s linear}#PageSpinner .MainIcon{display:block;animation:slideMainIcon 2s infinite;width:150px}@keyframes slideMainIcon{from{transform:translateY(-15px)}50%{transform:translateY(5px)}to{transform:translateY(-15px)}}#PageSpinner .LoadingScreen{position:relative;width:250px;height:250px;border-radius:50%;background:linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to));animation:animateLoadingScreen 1.2s linear infinite}@keyframes animateLoadingScreen{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}#PageSpinner .LoadingScreen span{position:absolute;width:100%;height:100%;border-radius:50%;background:linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to))}#PageSpinner .LoadingScreen span:nth-child(1){filter:blur(5px)}#PageSpinner .LoadingScreen span:nth-child(2){filter:blur(10px)}#PageSpinner .LoadingScreen span:nth-child(3){filter:blur(25px)}#PageSpinner .LoadingScreen span:nth-child(4){filter:blur(100px)}#PageSpinner .LoadingScreen:after{content:"";position:absolute;top:10px;left:10px;right:10px;bottom:10px;background:var(--Circle-background);border-radius:50%;opacity:.9}#PageSpinner .Logo{z-index:1;position:absolute}@keyframes animateCircleSpin{from{stroke-dashoffset:2512}to{stroke-dashoffset:0}}#PageSpinner .Circle{position:absolute;top:50%;left:50%;overflow:visible!important;transform:translate3d(-50%,-50%,0) rotate(-90deg);transform-origin:center}#PageSpinner .Circle circle{fill:#fff0;stroke-width:4;stroke-dasharray:1256}#PageSpinner .Circle circle:first-of-type{stroke:rgb(255 255 255 / .1)}#PageSpinner .Circle circle:nth-of-type(2){stroke:var(--Circle-color);animation:animateCircleSpin infinite cubic-bezier(.39,.575,.565,1) 4s}.MRIExpand{width:100%;max-height:calc(100vh - env(safe-area-inset-top) - 3rem);overflow:auto;position:fixed;top:0;padding-top:calc(env(safe-area-inset-top) + 3rem);background-color:#fff;z-index:9999}.MRIExpand.Hidden{display:none}.MRIExpand table{width:100%}.MRIExpand table tr:nth-child(odd){background-color:#dedede}.MRIExpand table tr:nth-child(even){background-color:#ccc}.MRIExpand table td,.MRIExpand table th{padding:.1rem .5rem;border-collapse:collapse;border:1px solid #b3b3b3}.MRIExpand .MRIClose{position:absolute;right:0;background:0 0;font-size:18px;border-radius:5rem;width:3rem;height:3rem;line-height:14px;top:calc(env(safe-area-inset-top) + 0px);padding:0}.RootContent{position:relative;min-height:100vh}.AppVersion{position:absolute;bottom:.5rem;left:50%;transform:translateX(-50%);font-size:10px;color:#fff;text-shadow:1px 1px 1px #000;z-index:5}.LoadingScreen .AppVersion{position:fixed}.BrowserUpgrade{display:block;padding:1rem;background:#fff;color:#000;border:1px solid #f33}</style>
+      <style type="text/css">:root{
+         --PageSpinner-background: #0e1f04;
+         --Circle-background: #0e1f04;
+         --LoadingScreen-color-from: #F5C51F;
+         --LoadingScreen-color-to: #F49920;
+         --Circle-color: rgba(244, 129, 32, 1);
+         }
+      </style>
+      
+      <title>Jojobet: Türkiye'nin En Güvenilir Bahis ve Casino Sitesi - Jojobet Giriş</title>
+      <meta name="description" content="Jojobet Türkiye'nin en iyi spor bahisleri ve casino sitesidir. Şimdi Jojobet giriş yapın ve en iyi şans oyunları deneyimini yaşayın.">
+      <meta name="keywords" content="Yüksek Bahis Oranları, Canlı Bahisler, Casino Oyunları">
+      <link rel="shortcut icon" sizes="32x32" href="/static/img/favicon-32x32.png" type="image/png">
+      <link rel="icon" sizes="16x16" href="/static/img/favicon-16x16.png" type="image/png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">
+      <link rel="icon" type="image/png" href="/static/img/android-chrome-192x192.png">
+      <link rel="mask-icon" href="/static/img/safari-pinned-tab.svg" color="#000000">
+      <link rel="icon" href="/static/img/favicon.ico">
+      <meta name="msapplication-TileImage" content="/static/img/mstile-150x150.png">
+      <meta name="msapplication-TileColor" content="#294c0b">
+      <meta name="theme-color" content="#294c0b">
+      <link rel="manifest" href="/static/xml/site.webmanifest">
+      <style data-emotion=""></style>
+      <link rel="stylesheet" href="/static.glastcoper.com/omfe-widgets/p/widgets/1.29.16/widgets.min.css">
+      <meta name="msApplicationTileColor" content="#294c0b">
+   </head>
+   <body itemscope="" itemtype="http://schema.org/WebPage" dir="ltr" class="Page-Sports Page-Home Page-Casino Page-SportsSource Body HasMobileBottomNavigation IsScrolled" data-reactroot="">
+      <a class="Hidden SkipLink" href="#content">Sayfa içeriğine ilerle</a>
+      <div class="">
+         <!--[if lt IE 8]>
+         <p class="BrowserUpgrade">Kullandığınız tarayıcının güncellemesi mevcuttur. Kullanıcızı güncellemek için lütfen <a href="http://browsehappy.com/">buraya</a> tıklayın ve sitemizdeki deneyiminizi geliştirin.</p>
+         <![endif]-->
+      </div>
+      <div id="PageSpinner" class="">
+         <div class="Logo">
+            <svg class="Circle" width="220" height="220">
+               <circle cx="110" cy="110" r="110"></circle>
+               <circle cx="110" cy="110" r="110"></circle>
+               <circle cx="110" cy="110" r="110"></circle>
+            </svg>
+            <span class="SvgIcon MainIcon">
+               <svg width="150" class="LogoFill" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 388.35 79.17" style="enable-background:new 0 0 388.35 79.17" xml:space="preserve">
+                  <style>.Rs3vg{clip-path:url(#SVGID_8_);fill:#f6eb1f}</style>
+                  <defs>
+                     <path id="SVGID_1_" d="M46 8.31c-.08.08-.15.16-.22.25-1.85 2.66-4.35 4.49-7.34 5.67-2.8 1.1-5.72 1.56-8.71 1.63-.33.01-.66 0-.99 0-.07.3-.14.51-.18.73-.52 3.37-1.03 6.75-1.54 10.12-.64 4.17-1.27 8.34-1.91 12.51-.64 4.2-1.28 8.4-1.93 12.59-.43 2.8-.86 5.6-1.34 8.39-.26 1.51-.72 2.97-1.51 4.3-.89 1.5-2.2 2.42-3.94 2.63-1.37.16-2.71.1-3.84-.92-1.83 1.87-3.74 3.55-5.82 5.05-2.1 1.5-4.33 2.77-6.73 3.92 1.26 1.14 2.59 1.92 4.05 2.49 1.56.6 3.19.95 4.84 1.17l2.29.33h6.67c.24-.06.47-.13.71-.16 2.78-.32 5.46-1.01 7.96-2.29 4.96-2.54 8.58-6.26 10.28-11.67.18-.58.37-1.16.55-1.75 1.26-4.27 1.83-8.68 2.49-13.07.7-4.58 1.38-9.17 2.07-13.75l2.1-13.83c.7-4.61 1.39-9.22 2.08-13.83.03-.17.03-.35.05-.53-.09.01-.13 0-.14.02"></path>
+                  </defs>
+                  <clipPath id="SVGID_2_">
+                     <use xlink:href="#SVGID_1_" style="overflow:visible"></use>
+                  </clipPath>
+                  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.591 4471.954 4742.568) scale(119.7106)">
+                     <stop offset="0" style="stop-color:#fff"></stop>
+                     <stop offset=".145" style="stop-color:#f5f5f5"></stop>
+                     <stop offset=".393" style="stop-color:#dadadb"></stop>
+                     <stop offset=".71" style="stop-color:#aeafb0"></stop>
+                     <stop offset="1" style="stop-color:#808184"></stop>
+                  </linearGradient>
+                  <path style="clip-path:url(#SVGID_2_);fill:url(#SVGID_3_)" d="m.18 5.39-4.61 73.5 50.39 3.16 4.61-73.49z"></path>
+                  <defs>
+                     <path id="SVGID_4_" d="M143.6 8.51c-1.87 2.72-4.43 4.57-7.48 5.75-2.78 1.08-5.67 1.53-8.64 1.59-.32.01-.65.03-.97.04-.06.2-.11.33-.13.47-.51 3.37-1.03 6.75-1.54 10.12-.63 4.14-1.27 8.28-1.9 12.43-.64 4.2-1.28 8.39-1.93 12.59-.44 2.82-.86 5.65-1.34 8.47-.28 1.62-.78 3.17-1.61 4.61-1.6 2.8-5.67 3.32-7.75 1.63-1.8 1.84-3.74 3.54-5.83 5.05-2.08 1.5-4.32 2.74-6.68 3.92 1.17 1.05 2.36 1.78 3.68 2.33 1.65.69 3.38 1.06 5.15 1.31l2.38.33h6.5c.24-.05.48-.13.72-.15 2.05-.22 4.07-.63 5.98-1.39 6.1-2.43 10.5-6.51 12.49-12.94 1.05-3.38 1.76-6.82 2.29-10.31.7-4.58 1.38-9.17 2.07-13.75l2.1-13.83c.76-5.02 1.52-10.04 2.27-15.07l.51-3.48c-.17.08-.27.17-.34.28"></path>
+                  </defs>
+                  <clipPath id="SVGID_5_">
+                     <use xlink:href="#SVGID_4_" style="overflow:visible"></use>
+                  </clipPath>
+                  <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.591 4517.797 4791.378) scale(119.7106)">
+                     <stop offset="0" style="stop-color:#fff"></stop>
+                     <stop offset=".145" style="stop-color:#f5f5f5"></stop>
+                     <stop offset=".393" style="stop-color:#dadadb"></stop>
+                     <stop offset=".71" style="stop-color:#aeafb0"></stop>
+                     <stop offset="1" style="stop-color:#808184"></stop>
+                  </linearGradient>
+                  <path style="clip-path:url(#SVGID_5_);fill:url(#SVGID_6_)" d="m97.99 5.36-4.62 73.53 50.41 3.16 4.61-73.53z"></path>
+                  <defs>
+                     <path id="SVGID_7_" d="M0 0h388.35v79.17H0z"></path>
+                  </defs>
+                  <clipPath id="SVGID_8_">
+                     <use xlink:href="#SVGID_7_" style="overflow:visible"></use>
+                  </clipPath>
+                  <path class="Rs3vg" d="M127.71 7.94c.39 0 .69.02.98 0 1.46-.14 2.93-.22 4.37-.46 3.04-.5 5.88-1.57 8.39-3.4 1.51-1.11 2.82-2.4 3.73-4.07h-16.33c-.37 2.61-.75 5.23-1.14 7.93M30.98.74c-.3 2.06-.62 4.11-.92 6.16-.05.32-.06.64-.09 1 .22.02.36.05.49.05 2.7-.08 5.36-.39 7.94-1.24 2.92-.96 5.53-2.42 7.59-4.75.52-.6.91-1.31 1.36-1.97H31.02c-.01.26 0 .51-.04.75"></path>
+                  <defs>
+                     <path id="SVGID_9_" d="M176.35 55.47c-3.1-.42-5.18-2.24-6.5-5.01-.77-1.61-1.06-3.34-1.11-5.09-.12-4.57.54-9.03 2.3-13.27 1.08-2.6 2.74-4.75 5.08-6.34 2.24-1.52 4.71-2.1 7.37-1.71 3.07.45 5.07 2.35 6.34 5.08.6 1.3.88 2.69.99 4.11.06.72.01 1.44.01 2.16-.03 3.91-.64 7.74-2 11.42-.92 2.49-2.3 4.68-4.39 6.36-1.97 1.59-4.17 2.4-6.58 2.4-.49-.01-1-.04-1.51-.11m.33-46.99c-10.8 1.68-18.9 7.45-24.57 16.7-2.57 4.2-4.01 8.82-4.74 13.67-.6 3.98-.73 7.98.17 11.93 2 8.84 7.11 15.09 15.63 18.38 4.17 1.61 8.56 2.08 13.28 2.09 2.11-.03 4.49-.16 6.85-.56 11.15-1.86 19.39-7.84 24.89-17.64 2.21-3.94 3.47-8.22 4.13-12.67.61-4.06.74-8.14-.14-12.17-1.98-9.07-7.19-15.37-16.08-18.36-4-1.35-8.09-1.94-12.21-1.94-2.39-.01-4.8.19-7.21.57"></path>
+                  </defs>
+                  <clipPath id="SVGID_10_">
+                     <use xlink:href="#SVGID_9_" style="overflow:visible"></use>
+                  </clipPath>
+                  <linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.591 4545.313 4820.675) scale(119.7106)">
+                     <stop offset="0" style="stop-color:#fff"></stop>
+                     <stop offset=".145" style="stop-color:#f5f5f5"></stop>
+                     <stop offset=".393" style="stop-color:#dadadb"></stop>
+                     <stop offset=".71" style="stop-color:#aeafb0"></stop>
+                     <stop offset="1" style="stop-color:#808184"></stop>
+                  </linearGradient>
+                  <path style="clip-path:url(#SVGID_10_);fill:url(#SVGID_11_)" d="M146.9 3.75 142.68 71l70.12 4.4 4.22-67.25z"></path>
+                  <defs>
+                     <path id="SVGID_12_" d="M78.57 55.46c-3.17-.44-5.27-2.33-6.55-5.18-.89-1.99-1.07-4.12-1.04-7.19.08-2.97.65-6.77 2.06-10.41 1.1-2.84 2.8-5.23 5.35-6.95 2.22-1.49 4.67-2.07 7.29-1.7 3.04.43 5.05 2.27 6.34 4.96.76 1.58 1.06 3.28 1.11 5.01.12 4.77-.63 9.41-2.47 13.83-.93 2.22-2.33 4.09-4.26 5.56-1.9 1.45-4.01 2.18-6.28 2.18-.51 0-1.03-.04-1.55-.11M80.11 8.3c-4.63.56-9.02 1.89-13.04 4.27-8.48 5.02-14.02 12.32-16.54 21.85-1.39 5.24-1.93 10.56-.84 15.91 1.86 9.04 7.01 15.44 15.68 18.82 4.17 1.62 8.55 2.09 13 2.17 1.69-.11 3.38-.19 5.07-.33.86-.07 1.71-.2 2.56-.35 11.57-2.13 19.9-8.58 25.17-19.02 1.94-3.85 2.99-7.99 3.53-12.26.49-3.89.49-7.76-.37-11.59-1.22-5.42-3.8-10.05-8.1-13.63-3.16-2.63-6.83-4.22-10.81-5.12-3.17-.72-6.36-1.06-9.57-1.06-1.9-.01-3.82.11-5.74.34"></path>
+                  </defs>
+                  <clipPath id="SVGID_13_">
+                     <use xlink:href="#SVGID_12_" style="overflow:visible"></use>
+                  </clipPath>
+                  <linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.591 4499.407 4771.797) scale(119.7106)">
+                     <stop offset="0" style="stop-color:#fff"></stop>
+                     <stop offset=".145" style="stop-color:#f5f5f5"></stop>
+                     <stop offset=".393" style="stop-color:#dadadb"></stop>
+                     <stop offset=".71" style="stop-color:#aeafb0"></stop>
+                     <stop offset="1" style="stop-color:#808184"></stop>
+                  </linearGradient>
+                  <path style="clip-path:url(#SVGID_13_);fill:url(#SVGID_14_)" d="m48.86 3.78-4.22 67.28 70.3 4.42 4.22-67.28z"></path>
+                  <defs>
+                     <path id="SVGID_15_" d="M386.44 7.96c-13.25.01-26.5.02-39.74.02H345c-1.38 0-2.75 0-4.13.01-.87.01-1.07.18-1.27 1.01-.04.16-.06.33-.09.49-.49 3.1-.98 6.19-1.46 9.29a582.4 582.4 0 0 0-.62 4.11c-.09.64.04.81.66.88.3.03.61.02.92.02h13.58c.32 0 .63.02 1.01.04a17546.392 17546.392 0 0 0-3.78 25.06c-1.05 6.97-2.11 13.94-3.17 20.91-.21 1.39-.17 1.44 1.2 1.44 4.47.01 8.94.01 13.42.01 1.41 0 1.49-.05 1.7-1.44.64-4.17 1.26-8.34 1.89-12.51l2.07-13.66c.81-5.32 1.62-10.65 2.42-15.97.19-1.25.39-2.51.59-3.83h.96l13.66-.03c.25 0 .5.01.75-.01.6-.04.77-.18.94-.76.06-.19.09-.38.12-.57l1.65-10.78c.1-.68.22-1.35.33-2.03V8c-.63-.01-1.25-.04-1.88-.04h-.03z"></path>
+                  </defs>
+                  <clipPath id="SVGID_16_">
+                     <use xlink:href="#SVGID_15_" style="overflow:visible"></use>
+                  </clipPath>
+                  <linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.366 3677.83 3878.622) scale(93.6424)">
+                     <stop offset="0" style="stop-color:#f6eb1f"></stop>
+                     <stop offset=".167" style="stop-color:#f6e11f"></stop>
+                     <stop offset=".454" style="stop-color:#f5c51f"></stop>
+                     <stop offset=".823" style="stop-color:#f49920"></stop>
+                     <stop offset="1" style="stop-color:#f48120"></stop>
+                  </linearGradient>
+                  <path style="clip-path:url(#SVGID_16_);fill:url(#SVGID_17_)" d="m337.51 4.97-3.89 66.07 54.55 3.21 3.89-66.07z"></path>
+                  <defs>
+                     <path id="SVGID_18_" d="M211.27 7.96c-.2 0-.41.04-.75.07 4.96 4.31 7.97 9.63 9.61 15.8h30.9c.3 0 .61-.01.91.01 2.21.11 3.66 2.02 3.14 4.16-.43 1.76-1.57 2.92-3.27 3.47-.57.19-1.2.21-1.8.22-7.05.01-14.1.01-21.15.01h-6.68c-.32 0-.64.02-1.01.03.15 5.39-.6 10.57-2.07 15.79h31.03c.33 0 .67-.01 1 .01 2.16.15 3.55 1.92 3.17 4.03-.35 1.91-2.1 3.57-4.05 3.79-.44.05-.89.05-1.33.05h-32.08c-.52 0-.9.04-1.2.62-3.07 5.85-7.28 10.73-12.57 14.68-.14.11-.26.24-.51.47h1.07c11.66 0 23.33-.05 34.99.02 4.94.03 9.81-.46 14.67-1.2 2.63-.4 5.15-1.16 7.4-2.64 6.67-4.39 10.18-10.48 9.79-18.56-.18-3.61-1.82-6.53-4.86-8.6-1.46-.99-3.06-1.68-4.74-2.2-.44-.14-.88-.27-1.47-.45.37-.16.58-.26.8-.35.84-.35 1.71-.67 2.53-1.07 4.07-2 6.94-5.12 8.5-9.39 1.09-2.99 1.43-6.07.52-9.16-1.25-4.23-4.12-6.95-8.23-8.4-2.6-.92-5.29-1.22-8.03-1.22h-22.12c-7.36.01-14.73.01-22.11.01"></path>
+                  </defs>
+                  <clipPath id="SVGID_19_">
+                     <use xlink:href="#SVGID_18_" style="overflow:visible"></use>
+                  </clipPath>
+                  <linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.366 3618.9 3816.123) scale(93.6424)">
+                     <stop offset="0" style="stop-color:#f6eb1f"></stop>
+                     <stop offset=".167" style="stop-color:#f6e11f"></stop>
+                     <stop offset=".454" style="stop-color:#f5c51f"></stop>
+                     <stop offset=".823" style="stop-color:#f49920"></stop>
+                     <stop offset="1" style="stop-color:#f48120"></stop>
+                  </linearGradient>
+                  <path style="clip-path:url(#SVGID_19_);fill:url(#SVGID_20_)" d="M202.82 3.85 198.87 71l73.57 4.33 3.95-67.16z"></path>
+                  <defs>
+                     <path id="SVGID_21_" d="M282.17 9.1c-.44 3.11-.86 6.21-1.31 9.32-.64 4.39-1.29 8.79-1.95 13.18-.68 4.47-1.38 8.94-2.07 13.41-.69 4.47-1.39 8.94-2.09 13.41-.59 3.81-1.16 7.63-1.77 11.44-.2 1.23-.16 1.41 1.25 1.41 11.75-.01 23.5-.01 35.25-.01 3.47 0 6.94.01 10.42-.01 1.69-.01 1.87-.18 2.11-1.86.55-3.71 1.09-7.41 1.63-11.12.08-.58.18-1.15.2-1.74.02-.63-.31-.98-.94-1.06-.3-.04-.61-.02-.91-.02H291.47c.4-2.69.79-5.28 1.18-7.94h15.23c1.09 0 1.24-.13 1.42-1.18l.03-.25c.63-4.2 1.25-8.4 1.88-12.6.26-1.71.19-1.79-1.56-1.79-4.58.01-9.17 0-13.75.01h-.88c.43-2.7.84-5.29 1.27-7.98h.78l8.67.03 22.16.06c1 0 1.06-.06 1.23-1.05.01-.06.01-.11.02-.17.65-4.39 1.31-8.78 1.97-13.17.2-1.33.14-1.43-1.22-1.43-4.47 0-8.94 0-13.41-.01-11-.01-22-.01-33-.02-1.09 0-1.16.07-1.32 1.14"></path>
+                  </defs>
+                  <clipPath id="SVGID_22_">
+                     <use xlink:href="#SVGID_21_" style="overflow:visible"></use>
+                  </clipPath>
+                  <linearGradient id="SVGID_23_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.366 3649.225 3848.285) scale(93.6424)">
+                     <stop offset="0" style="stop-color:#f6eb1f"></stop>
+                     <stop offset=".167" style="stop-color:#f6e11f"></stop>
+                     <stop offset=".454" style="stop-color:#f5c51f"></stop>
+                     <stop offset=".823" style="stop-color:#f49920"></stop>
+                     <stop offset="1" style="stop-color:#f48120"></stop>
+                  </linearGradient>
+                  <path style="clip-path:url(#SVGID_22_);fill:url(#SVGID_23_)" d="m272.99 4.53-3.91 66.51 62.05 3.65 3.91-66.51z"></path>
+               </svg>
+            </span>
+         </div>
+         <div class="LoadingScreen"><span></span><span></span><span></span><span></span></div>
+         <div class="">
+            <div class="AppVersion" onclick="openMri()">1.0.798</div>
+         </div>
+      </div>
+      <div id="AppContainer" class="AppContainer">
+         <div class="RootContent BaseSwipe">
+            <header class="SectionHeader" id="HeaderElement">
+               <div class="OperatorMaxwidth ComponentLayout Layout HeaderContainer">
+                  <div class="OperatorMobileNavMock"></div>
+                  <div class="OperatorLogo">
+                     <a class="ComponentAnchor OperatorLogoLink Anchor" href="/">
+                        <span class="ComponentIcon Icon">
+                           <span class="SvgIcon MainIcon">
+                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 219.3 119.4" style="enable-background:new 0 0 219.3 119.4;" xml:space="preserve">
+<image style="overflow:visible;" width="219" height="119" xlink:href="data:image/png;base64,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" transform="matrix(1 0 0 1 6.382979e-02 -0.1102)">
+</image>
+</svg>
+                           </span>
+                        </span>
+                     </a>
+                  </div>
+                  <div class="OperatorHeaderContainer">
+                  <?php if(isset($us['id'])){ ?>
+                  <div class="OperatorAccountContainer ComponentLayout InstanceOperatorHeaderAccountContainer Layout">
+                     <a class="ComponentAnchor CTASecondary OperatorHeaderDeposit DepositBtn ComponentButton InstanceDeposit Button OperatorTransferModal InstanceOperatorTransferModalTrigger   Anchor" href="/deposit">
+                        <div class="TotalBalanceWrapper">
+                           <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
+                           <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
+                        </div>
+                        <span class="PlusIcon">
+                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+                              <g transform="translate(0 -952.362)">
+                                 <path d="M50 952.4c-3.6 0-6.6 2.9-6.6 6.6v36.8H6.6c-3.6 0-6.6 2.9-6.6 6.6 0 3.6 2.9 6.6 6.6 6.6h36.8v36.8c0 3.6 2.9 6.6 6.6 6.6s6.6-2.9 6.6-6.6V1009h36.8c3.6 0 6.6-2.9 6.6-6.6 0-3.6-2.9-6.6-6.6-6.6H56.6V959c0-3.7-3-6.6-6.6-6.6z"></path>
+                              </g>
+                           </svg>
+                        </span>
+                     </a>
+                     <a class="ComponentAnchor IosAppPageLinkWrapper Anchor" href="/ios-app">
+                        <span class="IosAppPageLinkIcon">
+                           <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 814 1000" height="36" width="28">
+                              <path d="M788.1 340.9c-5.8 4.5-108.2 62.2-108.2 190.5 0 148.4 130.3 200.9 134.2 202.2-.6 3.2-20.7 71.9-68.7 141.9-42.8 61.6-87.5 123.1-155.5 123.1s-85.5-39.5-164-39.5c-76.5 0-103.7 40.8-165.9 40.8s-105.6-57-155.5-127C46.7 790.7 0 663 0 541.8c0-194.4 126.4-297.5 250.8-297.5 66.1 0 121.2 43.4 162.7 43.4 39.5 0 101.1-46 176.3-46 28.5 0 130.9 2.6 198.3 99.2zm-234-181.5c31.1-36.9 53.1-88.1 53.1-139.3 0-7.1-.6-14.3-1.9-20.1-50.6 1.9-110.8 33.7-147.1 75.8-28.5 32.4-55.1 83.6-55.1 135.5 0 7.8 1.3 15.6 1.9 18.1 3.2.6 8.4 1.3 13.6 1.3 45.4 0 102.5-30.4 135.5-71.3z" fill="currentColor"></path>
+                           </svg>
+                        </span>
+                     </a>
+                     <a class="ComponentAnchor WhatsappIconWrapper Anchor" href="https://storage.googleapis.com/stateless-jojobet/2024/12/073fe9f3-jojobet-release-1.0.5.apk">
+                        <span class="CallIcon">
+                           <svg fill="currentColor" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 299.679 299.679" xml:space="preserve">
+                              <g id="XMLID_197_">
+                                 <path id="XMLID_221_" d="M181.122,299.679c10.02,0,18.758-8.738,18.758-18.758v-43.808h12.525c7.516,0,12.525-5.011,12.525-12.525 V99.466H74.749v125.123c0,7.515,5.01,12.525,12.525,12.525H99.8v43.808c0,10.02,8.736,18.758,18.758,18.758 c10.019,0,18.756-8.738,18.756-18.758v-43.808h25.051v43.808C162.364,290.941,171.102,299.679,181.122,299.679z"></path>
+                                 <path id="XMLID_222_" d="M256.214,224.589c10.02,0,18.756-8.737,18.756-18.758v-87.615c0-9.967-8.736-18.75-18.756-18.75 c-10.021,0-18.758,8.783-18.758,18.75v87.615C237.456,215.851,246.192,224.589,256.214,224.589z"></path>
+                                 <path id="XMLID_223_" d="M43.466,224.589c10.021,0,18.758-8.737,18.758-18.758v-87.615c0-9.967-8.736-18.75-18.758-18.75 c-10.02,0-18.756,8.783-18.756,18.75v87.615C24.71,215.851,33.446,224.589,43.466,224.589z"></path>
+                                 <path id="XMLID_224_" d="M209.899,1.89c-2.504-2.52-6.232-2.52-8.736,0l-16.799,16.743l-0.775,0.774 c-9.961-4.988-21.129-7.479-33.566-7.503c-0.061,0-0.121-0.002-0.182-0.002h-0.002c-0.063,0-0.121,0.002-0.184,0.002 c-12.436,0.024-23.604,2.515-33.564,7.503l-0.777-0.774L98.516,1.89c-2.506-2.52-6.232-2.52-8.736,0 c-2.506,2.506-2.506,6.225,0,8.729l16.25,16.253c-5.236,3.496-9.984,7.774-14.113,12.667C82.032,51.256,75.727,66.505,74.86,83.027 c-0.008,0.172-0.025,0.342-0.033,0.514c-0.053,1.125-0.078,2.256-0.078,3.391H224.93c0-1.135-0.027-2.266-0.078-3.391 c-0.008-0.172-0.025-0.342-0.035-0.514c-0.865-16.522-7.172-31.772-17.057-43.487c-4.127-4.893-8.877-9.171-14.113-12.667 l16.252-16.253C212.405,8.115,212.405,4.396,209.899,1.89z M118.534,65.063c-5.182,0-9.383-4.201-9.383-9.383 c0-5.182,4.201-9.383,9.383-9.383c5.182,0,9.383,4.201,9.383,9.383C127.917,60.862,123.716,65.063,118.534,65.063z M181.145,65.063 c-5.182,0-9.383-4.201-9.383-9.383c0-5.182,4.201-9.383,9.383-9.383c5.182,0,9.383,4.201,9.383,9.383 C190.528,60.862,186.327,65.063,181.145,65.063z"></path>
+                              </g>
+                           </svg>
+                        </span>
+                     </a>
+                     <div class="ContentTriggerContainer">
+                        <div class="InstanceToggleMenu ContentTriggerWrapper ComponentContentTrigger Prerender">
+                           <button class="ToggleUserMenu ComponentButton InstanceOperatorShowusermenuButton ContentTrigger Button" onclick="openUserMenu()" type="button">
+                              <span class="ComponentIcon InstanceUserIcon ButtonIconStart Icon">
+                                 <span class="SvgIcon MainIcon CustomHtml">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                       <path d="M8.57 14.098A6.83 6.83 0 1118.63 8.08a6.83 6.83 0 01-3.47 5.946c5.084.87 8.03 3.96 8.03 8.25h-1.5c0-4.195-3.43-6.998-9.63-6.998-6.2 0-9.628 2.803-9.628 6.998h-1.5c0-4.18 2.795-7.218 7.64-8.178zm3.23-.69a5.33 5.33 0 100-10.66 5.33 5.33 0 000 10.66z"></path>
+                                    </svg>
+                                 </span>
+                              </span>
+                           </button>
+                           <div class="ContentTriggerContentWrapper">
+                              <div class="ContentTriggerContainer">
+                                 <div class="MyAccountMenuWrapper">
+                                    <div class="MyAccount TopWrapper">
+                                       <div class="MyAccount TopInnerWrapper">
+                                          <div class="MyAccountMenu UserContainer">
+                                             <div class="MyAccountMenuUsername"><?=$us['login']?></div>
+                                          </div>
+                                          <div class="MyAccountMenu SmsSecurityContainer">
+                                             <div class="Info">SMS GÜVENLİĞİ</div>
+                                             <div class="toggle-switch"><input type="checkbox" class="toggle-switch-checkbox" id="switch"><label class="toggle-switch-label" for="switch" tabindex="1"><span class="toggle-switch-inner" data-yes="AÇIK" data-no="KAPALI" tabindex="-1"></span><span class="toggle-switch-switch" tabindex="-1"></span></label></div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="MyAccountMenu BalanceContainer">
+                                       <div class="BalanceContainerItem">
+                                          <div class="BalanceWrapper">
+                                             <p class="GameChips ComponentText InstanceOperatorMenuCasinochips Text">Bakiyeniz</p>
+                                             <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
+                                          </div>
+                                       </div>
+                                       <div class="BalanceContainerItem">
+                                          <div class="TotalBonusesWrapper">
+                                             <p class="ComponentText InstanceOperatorTotalBonuses Text">Bonus Bakiyeniz</p>
+                                             <span class="Currency"><span class="FormattedAmount">0,00</span><span class="CurrencyPlaceholder"> ₺</span></span>
+                                          </div>
+                                       </div>
+                                       <div class="BalanceContainerItem">
+                                          <div class="TotalBalanceWrapper">
+                                             <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
+                                             <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <ul class="MyAccountMenu LinksContainer">
+                                       <li class="MenuItem ListItem">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/deposit">
+                                             <span class="MenuItemImg">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
+                                                   <defs>
+                                                      <style>.cls-1{fill:#fff;}.cls-2{fill:none;stroke:#234209;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+                                                   </defs>
+                                                   <title>Para Yatir</title>
+                                                   <g data-name="Layer 2">
+                                                      <rect class="cls-1" width="100" height="100"></rect>
+                                                   </g>
+                                                   <g id="Para_Yatır" data-name="Para Yatır">
+                                                      <path class="cls-2" d="M69.42,28.4H54.35c-5.18,0-7.69,2.88-10.05,5S25.58,50.18,25.58,50.18" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M44.3,68.6l5-5c5.59,0,10.5-.44,15.08-5,1.74-1.74,6.17-6.26,6.17-6.26" transform="translate(0 0)"></path>
+                                                      <rect class="cls-2" x="21.95" y="46.63" width="15.57" height="38.92" transform="translate(-38.02 40.38) rotate(-45)"></rect>
+                                                      <line class="cls-2" x1="21.48" y1="56.74" x2="25.15" y2="60.41"></line>
+                                                      <polyline class="cls-2" points="81.15 60.23 81.15 65.25 89.53 65.25 89.53 15 81.15 15 81.15 20.02"></polyline>
+                                                      <path class="cls-2" d="M52.67,38.45H71.1c3.52,0,5,1,5,3.35,0,4.19-4.34,6.7-8.37,6.7H63.19a3.38,3.38,0,0,0-3,1.8,12.4,12.4,0,0,1-10.91,6.58H46" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M64.49,38.45a15.07,15.07,0,0,1,25-9.56" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M89.53,51.36A15.08,15.08,0,0,1,66.94,48.5" transform="translate(0 0)"></path>
+                                                   </g>
+                                                </svg>
+                                             </span>
+                                             <span class="AnchorText">PARA YATIR</span>
+                                          </a>
+                                       </li>
+                                       <li class="MenuItem ListItem">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/withdraw">
+                                             <span class="MenuItemImg">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
+                                                   <defs>
+                                                      <style>.cls-1{fill:#fff;}.cls-2{fill:none;stroke:#234209;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-3{fill:#234209;}</style>
+                                                   </defs>
+                                                   <title>Para Çek</title>
+                                                   <g data-name="Layer 2">
+                                                      <rect class="cls-1" width="100" height="100"></rect>
+                                                   </g>
+                                                   <g id="Para_Çek" data-name="Para Çek">
+                                                      <polygon class="cls-2" points="45.67 71.1 11 71.1 36.55 32 71.22 32 45.67 71.1"></polygon>
+                                                      <polyline class="cls-2" points="74.86 39.45 49.32 78.55 12.82 78.55"></polyline>
+                                                      <polyline class="cls-2" points="78.51 46.9 52.97 86 18.3 86"></polyline>
+                                                      <path class="cls-2" d="M80.93,39.38a12.71,12.71,0,0,0-4.65-24.55H23.72a12.71,12.71,0,0,0-4.25,24.7" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M35.75,48.3,50.6,43.2l-1.91,3-14.92,5.1Zm-3.32,5.1,15-5.1-1.91,3.05-15,5.1ZM43.81,39.45H47L31.66,63.38H28.37ZM30.91,60.18h6.8a7.92,7.92,0,0,0,3.75-.83,6.73,6.73,0,0,0,2.63-2.49L45.86,54h3.23l-1.75,2.85a13.75,13.75,0,0,1-4.9,4.9,13.34,13.34,0,0,1-6.65,1.62H28.85Z" transform="translate(0 0)"></path>
+                                                   </g>
+                                                </svg>
+                                             </span>
+                                             <span class="AnchorText">PARA ÇEK</span>
+                                          </a>
+                                       </li>
+                                       <li class="MenuItem ListItem">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/active-bonuses">
+                                             <span class="MenuItemImg">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
+                                                   <defs>
+                                                      <style>.cls-1{fill:#fff;}.cls-2{fill:none;stroke:#234209;stroke-miterlimit:10;stroke-width:2px;}</style>
+                                                   </defs>
+                                                   <title>Aktif Bonuslar</title>
+                                                   <g data-name="Layer 2">
+                                                      <rect class="cls-1" width="100" height="100"></rect>
+                                                   </g>
+                                                   <g id="Aktif_Bonuslar" data-name="Aktif Bonuslar">
+                                                      <path class="cls-2" d="M50,37.5s1-13.89,7.73-19.77A10.16,10.16,0,0,1,72,18.22c3.44,3.75,2.8,9.08-1.83,13.09C63.4,37.19,50,37.5,50,37.5Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M50,37.5s-.35-12-6.29-16.8a9.38,9.38,0,0,0-12.52.39c-3,3.06-2.46,7.41,1.6,10.7C38.73,36.59,45.72,37.38,50,37.5Z" transform="translate(0 0)"></path>
+                                                      <polyline class="cls-2" points="55.18 85.86 84.55 85.86 84.55 51.32"></polyline>
+                                                      <polyline class="cls-2" points="15.46 51.32 15.46 85.86 44.82 85.86"></polyline>
+                                                      <polyline class="cls-2" points="55.18 51.32 88 51.32 88 37.5 12 37.5 12 51.32 44.82 51.32"></polyline>
+                                                      <rect class="cls-2" x="44.82" y="37.5" width="10.36" height="48.36"></rect>
+                                                   </g>
+                                                </svg>
+                                             </span>
+                                             <span class="AnchorText">AKTİF BONUSLAR</span>
+                                          </a>
+                                       </li>
+                                       <li class="MenuItem ListItem">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/bonus-history">
+                                             <span class="MenuItemImg">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
+                                                   <defs>
+                                                      <style>.cls-1{fill:#fff;}.cls-2{fill:none;stroke:#234209;stroke-miterlimit:10;stroke-width:2px;}</style>
+                                                   </defs>
+                                                   <title>Gecmis Bonuslar</title>
+                                                   <g data-name="Layer 2">
+                                                      <rect class="cls-1" width="100" height="100"></rect>
+                                                   </g>
+                                                   <g id="Gecmis_Bonuslar" data-name="Gecmis Bonuslar">
+                                                      <path class="cls-2" d="M33.82,82.91h3.09c2.63,0,2.5,3.09,6.19,3.09H55.46c1.81,0,4.21-1.06,4.64-3.09l1.14-10.77A4.17,4.17,0,0,0,57,67.45H53.92" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M44.08,78c3.89-1.45,6.75-5.14,6.75-9V65.49a23,23,0,0,0,.53-4.38,6.93,6.93,0,0,0-1.77-5.17c-1.16-1.51-3.4-1.23-3.4.22v1.17c0,3.24-3,6.43-4,7.34s-2.87,2.78-5.29,2.78H33.82" transform="translate(0 0)"></path>
+                                                      <rect class="cls-2" x="27.64" y="65.9" width="6.18" height="18.55"></rect>
+                                                      <path class="cls-2" d="M50.83,30.35s-.3-5.68-3.15-8.22A3.93,3.93,0,1,0,42.46,28C45.3,30.53,50.83,30.35,50.83,30.35Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M50.83,30.35s.71-5.68,3.56-8.22A3.93,3.93,0,1,1,59.61,28C56.77,30.53,50.83,30.35,50.83,30.35Z" transform="translate(0 0)"></path>
+                                                      <polyline class="cls-2" points="38.46 38.08 38.46 50.44 63.19 50.44 63.19 38.08"></polyline>
+                                                      <polyline class="cls-2" points="53.92 38.08 64.74 38.08 64.74 30.35 36.91 30.35 36.91 38.08 47.73 38.08"></polyline>
+                                                      <line class="cls-2" x1="53.92" y1="30.35" x2="53.92" y2="50.44"></line>
+                                                      <line class="cls-2" x1="47.73" y1="50.44" x2="47.73" y2="30.35"></line>
+                                                      <path class="cls-2" d="M40,59.72H26.09A3.09,3.09,0,0,1,23,56.62V18a3.09,3.09,0,0,1,3.09-3.09H75.56A3.09,3.09,0,0,1,78.65,18V56.62a3.09,3.09,0,0,1-3.09,3.1H70.92V65.9a1.55,1.55,0,0,1-2.78.93l-6.49-7.11H55.46" transform="translate(0 0)"></path>
+                                                   </g>
+                                                </svg>
+                                             </span>
+                                             <span class="AnchorText">GEÇMİŞ BONUSLARIM</span>
+                                          </a>
+                                       </li>
+                                       <li class="MenuItem ListItem">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/">
+                                             <span class="MenuItemImg">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
+                                                   <defs>
+                                                      <style>.cls-1{fill:#fff;}.cls-2,.cls-3{fill:#2a421c;}.cls-2{fill-rule:evenodd;}</style>
+                                                   </defs>
+                                                   <title>Spor Geçmişim</title>
+                                                   <g data-name="Layer 2">
+                                                      <rect class="cls-1" width="100" height="100"></rect>
+                                                   </g>
+                                                   <g id="Spor_Geçmişim" data-name="Spor Geçmişim">
+                                                      <path class="cls-2" d="M36.71,40.35a.91.91,0,0,0,.22-.33c.06-.19-.12-.48-.16-.55l-.15-.24a.65.65,0,0,1,0-.51,1.17,1.17,0,0,1,.74-.63c.25-.09.5-.17.74-.28A3.27,3.27,0,0,0,39.14,37a11.62,11.62,0,0,0,1.54-2.55,8.78,8.78,0,0,0,.55-1.48,5.06,5.06,0,0,0,.09-1.78A8.08,8.08,0,0,0,41,29.46a.79.79,0,0,0-1-.57l-.87.17c-.28.06-.56.1-.83.18a1.53,1.53,0,0,0-.94.84c-.23.47-.44,1-.68,1.42L36,32.86c-.25.44-.52.87-.76,1.32a1.52,1.52,0,0,0-.22.68,2.07,2.07,0,0,0,.14.78c.18.54.34,1.07.49,1.62a7,7,0,0,0,.23.78,2.53,2.53,0,0,0,.2.36,1,1,0,0,1,0,1.06,3.08,3.08,0,0,1-1.1.82c-.48.3-.94.63-1.42.92s-1,.57-1.55.82-1,.4-1.28.81a1.57,1.57,0,0,0-.05.3,1.33,1.33,0,0,1,0,.28c-.07.34-.55.47-.82.52h0a4.93,4.93,0,0,1-1.07.1c-.8,0-1.44-.12-2.19-.15a8.12,8.12,0,0,1-1.06-.11,12.64,12.64,0,0,1-1.86-.47,2.06,2.06,0,0,1-.77-.39.36.36,0,0,1,.16-.59,1.84,1.84,0,0,1,.72.16,15.52,15.52,0,0,0,2.16.53,9.07,9.07,0,0,0,1.59.2,7.13,7.13,0,0,0,.85,0,.72.72,0,0,0,.61-.48c.06-.21-.18-.41-.34-.55a2.06,2.06,0,0,0-.5-.28,13.72,13.72,0,0,1-2-1.1A4.28,4.28,0,0,0,25,40.25a5.63,5.63,0,0,0-1.42-.15,16.24,16.24,0,0,1-2.73-.43,1.1,1.1,0,0,0-.67,0,.51.51,0,0,0-.31.68,2,2,0,0,0,.35.44c.08.1.34.34.3.51a.43.43,0,0,1-.44.38,1.71,1.71,0,0,1-.53-.25,12,12,0,0,1-2.83-2.57,15.71,15.71,0,0,1-3.51-11.68,15.19,15.19,0,0,1,.56-2.53,14.94,14.94,0,0,1,5-7.32,14.29,14.29,0,0,1,6.28-3A20.35,20.35,0,0,1,27.81,14,14.76,14.76,0,0,1,38,17.72a15.77,15.77,0,0,1,3.16,3.81,7.85,7.85,0,0,1,.58,1.16,1.22,1.22,0,0,1,.11.71c-.1.46-.45.75-.46,1.29a10,10,0,0,0,.12,1.19,2.18,2.18,0,0,0,.05.38c.06.23.3.33.45.42s.06.07.1.08.12-.05.17-.05a.63.63,0,0,1,.45.18.79.79,0,0,1,.26.57,14.11,14.11,0,0,1,.1,1.56,15.24,15.24,0,0,1-1.06,5.61,15.16,15.16,0,0,1-7.79,8,2,2,0,0,1-.6.22.33.33,0,0,1-.36-.37c0-.19.22-.34.38-.42s.37-.18.53-.25a16.32,16.32,0,0,0,2-1.16l.48-.34ZM34.89,17.29c0,.13.19.29.28.39A7,7,0,0,0,36.57,19a8.47,8.47,0,0,0,.84.5.85.85,0,0,0,.54.12.43.43,0,0,0,.24-.33c0-.13-.17-.29-.27-.39a12,12,0,0,0-1.8-1.48,2.91,2.91,0,0,0-.81-.45.4.4,0,0,0-.19,0,.4.4,0,0,0-.23.33ZM24.2,16.23c0-.16-.23-.25-.38-.24a3.15,3.15,0,0,0-1.16.33c-.36.16-.7.34-1.05.53a12.22,12.22,0,0,0-3.54,2.72A11,11,0,0,0,17,20.88a.71.71,0,0,0-.14.42c0,.14.27.32.4.36a1.37,1.37,0,0,0,1-.22c.33-.2.63-.44,1-.66a23.85,23.85,0,0,1,2-1.28l.54-.28A3.34,3.34,0,0,0,23,18.14c.22-.34.4-.69.62-1,.11-.17.23-.33.34-.49a1,1,0,0,0,.2-.4Zm3.5-.14a6.63,6.63,0,0,0-1.09.14,2.38,2.38,0,0,0-1.31,1l-.53.72a4.35,4.35,0,0,0-.46.74.76.76,0,0,0,.06.73,3.28,3.28,0,0,0,.54.64c.44.42.88.83,1.3,1.27a3.5,3.5,0,0,0,1.29,1.07,1.93,1.93,0,0,0,.6,0,9.55,9.55,0,0,1,1.07,0,13.61,13.61,0,0,1,1.66.1.5.5,0,0,1,.41.62c-.1.48-.82.38-1.2.39a8,8,0,0,0-2.38.5,3.55,3.55,0,0,0-.73.77c-.43.7-.8,1.43-1.19,2.15a13.39,13.39,0,0,0-.81,1.66,1.92,1.92,0,0,1-.79,1.18,1.39,1.39,0,0,1-.9.07c-.49-.09-1-.12-1.49-.17l-1.53-.14a4.56,4.56,0,0,0-1.42-.06,1.51,1.51,0,0,0-.71.7,11.47,11.47,0,0,0-.51,1.13c-.16.4-.31.8-.44,1.21A2.66,2.66,0,0,0,17,33.82a4.51,4.51,0,0,0,.49,1.1,18,18,0,0,0,1.27,2,3.67,3.67,0,0,0,1.68,1.46,8.42,8.42,0,0,0,1.32.3c.48.09,1,.16,1.46.21a2.55,2.55,0,0,0,1.29-.1A4.31,4.31,0,0,0,25.8,37c.18-.38.37-.75.54-1.13a1.46,1.46,0,0,0,.09-1.14c-.15-.36-.28-.69-.47-1.08-.46-.92-.75-1.28-1.25-2.18a1.75,1.75,0,0,1-.27-.71c0-.43.33-.53.65-.24a1.23,1.23,0,0,1,.26.34c.29.45.42.6.71,1.06s.61,1,1,1.6a2.21,2.21,0,0,0,1.1.68,5.36,5.36,0,0,0,1.7.08c.61,0,1.22,0,1.83-.07l.9-.06a2.73,2.73,0,0,0,.7-.15,1.92,1.92,0,0,0,.88-.79A12.78,12.78,0,0,0,34.89,32c.22-.42.43-.84.63-1.27s.42-.85.58-1.29a2.08,2.08,0,0,0,.14-.7,1.85,1.85,0,0,0-.14-.69,8.84,8.84,0,0,0-.64-1.22c-.23-.4-.46-.8-.7-1.19A10.78,10.78,0,0,0,34,24.54c-.17-.22-.38-.39-.56-.6s-.81-.41-.9-.57a.6.6,0,0,1,0-.55c.07-.19.65-.36.91-.67a5.12,5.12,0,0,0,.4-.52c.26-.38.46-.8.68-1.2a1.79,1.79,0,0,0,.37-1.25,2.45,2.45,0,0,0-.72-1,10.64,10.64,0,0,0-2.06-1.66,3.71,3.71,0,0,0-1.34-.44,11.17,11.17,0,0,0-1.83,0c-.4,0-.82,0-1.22.05Zm7.91,4.51c-.33.51-.59,1-.89,1.58a1.58,1.58,0,0,0-.27.84,2,2,0,0,0,.45,1,30.51,30.51,0,0,1,1.86,3,3.64,3.64,0,0,0,.28.47,1.3,1.3,0,0,0,.75.59,1.89,1.89,0,0,0,.62-.06c.44-.08.89-.19,1.33-.28s.88-.3.93-.83a6.69,6.69,0,0,0-.06-1.34c0-.43-.11-.85-.2-1.27a5.18,5.18,0,0,0-.75-2,10.47,10.47,0,0,0-2.39-1.95,1.33,1.33,0,0,0-.93-.33.34.34,0,0,0-.2.06,1.85,1.85,0,0,0-.53.55ZM16.06,23a1.73,1.73,0,0,0-.6.76A11.41,11.41,0,0,0,14.4,27.4a13.59,13.59,0,0,0,0,3,4.1,4.1,0,0,0,.26,1.24,1.35,1.35,0,0,0,.62.71c.27.13.5-.19.6-.41s.23-.61.35-.91a16.32,16.32,0,0,1,.83-1.8,2.35,2.35,0,0,0,.31-.85,5.13,5.13,0,0,0-.11-1.1c-.12-.8-.14-1.62-.18-2.43a5.61,5.61,0,0,1,0-.58,2.25,2.25,0,0,0-.06-.82.87.87,0,0,0-.75-.52.76.76,0,0,0-.2.06Zm-.95,11a1.05,1.05,0,0,0,.08.34c.05.13.1.26.16.39a14.62,14.62,0,0,0,2.74,4.08c.08.09.35.37.48.37s.19-.14.2-.2a1.51,1.51,0,0,0-.1-.3,6.8,6.8,0,0,0-.67-1,22.79,22.79,0,0,1-1.35-2.15c-.14-.25-.26-.5-.4-.75a3.9,3.9,0,0,0-.46-.61c-.08-.08-.35-.37-.48-.35A.34.34,0,0,0,15.11,34Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M37.88,87.19V85.93H84a.78.78,0,0,0,.78-.78V48.23H37.09V85.15a.78.78,0,0,0,.79.78v1.26a2.06,2.06,0,0,1-2.05-2V47.6a.64.64,0,0,1,.19-.45.67.67,0,0,1,.44-.18H85.37a.64.64,0,0,1,.45.19.63.63,0,0,1,.18.44V85.15a2,2,0,0,1-2,2Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M70.73,39.66V34.08a3.43,3.43,0,1,1,6.84,0v5.58a3.43,3.43,0,1,1-6.84,0ZM72,34.08v5.58a2.18,2.18,0,1,0,4.32,0V34.08a2.18,2.18,0,1,0-4.32,0Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M44.27,39.66V34.08a3.43,3.43,0,1,1,6.83,0v5.58a3.43,3.43,0,1,1-6.83,0Zm1.25,0a2.18,2.18,0,1,0,4.32,0V34.08a2.18,2.18,0,1,0-4.32,0Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M53.51,60.72a1.45,1.45,0,0,1-1.44-1.44V54.71a1.45,1.45,0,0,1,1.44-1.44h4.56a1.45,1.45,0,0,1,1.44,1.44v4.57a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6v4.57a.18.18,0,0,0,.18.18h4.56a.2.2,0,0,0,.19-.18V54.71a.2.2,0,0,0-.19-.18H53.51A.19.19,0,0,0,53.33,54.71Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M63.76,60.72a1.45,1.45,0,0,1-1.44-1.44V54.72a1.43,1.43,0,0,1,1.44-1.44h4.56a1.43,1.43,0,0,1,1.44,1.44v4.56a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6v4.56a.18.18,0,0,0,.18.18h4.56a.2.2,0,0,0,.19-.18V54.72a.2.2,0,0,0-.19-.19H63.76A.19.19,0,0,0,63.58,54.72Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M74,60.72a1.45,1.45,0,0,1-1.44-1.44V54.71A1.43,1.43,0,0,1,74,53.28h4.56A1.43,1.43,0,0,1,80,54.71v4.57a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6v4.57a.18.18,0,0,0,.18.18h4.56a.19.19,0,0,0,.19-.18V54.71a.2.2,0,0,0-.19-.18H74A.19.19,0,0,0,73.83,54.71Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M53.51,70.57a1.43,1.43,0,0,1-1.44-1.44V64.57a1.44,1.44,0,0,1,1.44-1.44h4.56a1.43,1.43,0,0,1,1.44,1.44v4.56a1.43,1.43,0,0,1-1.44,1.44Zm-.18-6v4.56a.19.19,0,0,0,.18.19h4.56a.2.2,0,0,0,.19-.19V64.57a.19.19,0,0,0-.19-.18H53.51A.18.18,0,0,0,53.33,64.57Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M74,70.57a1.43,1.43,0,0,1-1.44-1.44V64.57A1.44,1.44,0,0,1,74,63.13h4.56A1.44,1.44,0,0,1,80,64.57v4.56a1.43,1.43,0,0,1-1.44,1.44Zm-.18-6v4.56a.19.19,0,0,0,.18.19h4.56a.2.2,0,0,0,.19-.19V64.57a.19.19,0,0,0-.19-.18H74A.18.18,0,0,0,73.83,64.57Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M63.76,70.57a1.44,1.44,0,0,1-1.44-1.44V64.57a1.45,1.45,0,0,1,1.44-1.44h4.56a1.44,1.44,0,0,1,1.44,1.44v4.56a1.43,1.43,0,0,1-1.44,1.44Zm-.18-6v4.56a.19.19,0,0,0,.18.19h4.56a.2.2,0,0,0,.19-.19V64.57a.19.19,0,0,0-.19-.18H63.76A.18.18,0,0,0,63.58,64.57Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M53.51,80.43A1.45,1.45,0,0,1,52.07,79V74.43A1.43,1.43,0,0,1,53.51,73h4.56a1.43,1.43,0,0,1,1.44,1.44V79a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6V79a.18.18,0,0,0,.18.18h4.56a.19.19,0,0,0,.19-.18V74.43a.2.2,0,0,0-.19-.19H53.51A.19.19,0,0,0,53.33,74.43Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M63.76,80.43A1.45,1.45,0,0,1,62.32,79V74.43A1.43,1.43,0,0,1,63.76,73h4.56a1.43,1.43,0,0,1,1.44,1.44V79a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6V79a.18.18,0,0,0,.18.18h4.56a.2.2,0,0,0,.19-.18V74.43a.2.2,0,0,0-.19-.19H63.76A.19.19,0,0,0,63.58,74.43Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M43.26,70.57a1.44,1.44,0,0,1-1.44-1.44V64.57a1.44,1.44,0,0,1,1.44-1.44h4.56a1.43,1.43,0,0,1,1.44,1.44v4.56a1.43,1.43,0,0,1-1.44,1.44Zm-.18-6v4.56a.2.2,0,0,0,.18.19h4.56a.2.2,0,0,0,.19-.19V64.57a.19.19,0,0,0-.19-.18H43.26A.19.19,0,0,0,43.08,64.57Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M43.26,80.43A1.45,1.45,0,0,1,41.82,79V74.43A1.45,1.45,0,0,1,43.26,73h4.56a1.43,1.43,0,0,1,1.44,1.44V79a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6V79a.19.19,0,0,0,.18.18h4.56A.19.19,0,0,0,48,79V74.43a.2.2,0,0,0-.19-.19H43.26A.19.19,0,0,0,43.08,74.43Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M50.47,37.5a.63.63,0,0,1,0-1.26H71.36a.63.63,0,1,1,0,1.26Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M43.13,37.5h1.76a.63.63,0,0,0,0-1.26H43.13Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M84,36.24h-7a.63.63,0,0,0,0,1.26h7a.78.78,0,0,1,.78.78V47H37.09V44.14H35.83V47.6A.61.61,0,0,0,36,48a.63.63,0,0,0,.44.19H85.37a.64.64,0,0,0,.45-.19A.65.65,0,0,0,86,47.6V38.28A2,2,0,0,0,84,36.24Z" transform="translate(0 0)"></path>
+                                                   </g>
+                                                </svg>
+                                             </span>
+                                             <span class="AnchorText">SPOR GEÇMİŞİM</span>
+                                          </a>
+                                       </li>
+                                       <li class="MenuItem ListItem">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/gaming-history">
+                                             <span class="MenuItemImg">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
+                                                   <defs>
+                                                      <style>.cls-1{fill:#fff;}.cls-2{fill:#2a421c;}.cls-3{fill:none;stroke:#2a421c;stroke-miterlimit:10;stroke-width:1.5px;}</style>
+                                                   </defs>
+                                                   <title>Oyun Geçmişim</title>
+                                                   <g data-name="Layer 2">
+                                                      <rect class="cls-1" width="100" height="100"></rect>
+                                                   </g>
+                                                   <g id="Oyun_Geçmişim" data-name="Oyun Geçmişim">
+                                                      <path class="cls-2" d="M38.37,87V85.75h46a.79.79,0,0,0,.78-.79V48.09H37.58V85a.8.8,0,0,0,.79.79V87a2,2,0,0,1-2-2V47.47a.62.62,0,0,1,.63-.63H85.8a.67.67,0,0,1,.44.18.64.64,0,0,1,.19.45V85a2,2,0,0,1-2,2Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M71.18,39.54V34A3.43,3.43,0,1,1,78,34v5.57a3.43,3.43,0,1,1-6.83,0ZM72.44,34v5.57a2.18,2.18,0,1,0,4.31,0V34a2.18,2.18,0,1,0-4.31,0Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M44.75,39.54V34a3.42,3.42,0,1,1,6.82,0v5.57a3.42,3.42,0,1,1-6.82,0Zm1.25,0a2.18,2.18,0,1,0,4.32,0V34A2.18,2.18,0,1,0,46,34Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M54,60.57a1.46,1.46,0,0,1-1.44-1.44V54.57A1.44,1.44,0,0,1,54,53.14h4.56A1.43,1.43,0,0,1,60,54.57v4.56a1.44,1.44,0,0,1-1.43,1.44Zm-.18-6v4.56a.19.19,0,0,0,.18.18h4.56a.19.19,0,0,0,.18-.18V54.57a.19.19,0,0,0-.18-.18H54A.19.19,0,0,0,53.8,54.57Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M64.22,60.57a1.45,1.45,0,0,1-1.44-1.44V54.57a1.43,1.43,0,0,1,1.44-1.43h4.55a1.43,1.43,0,0,1,1.44,1.43v4.56a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6v4.56a.18.18,0,0,0,.18.18h4.55a.19.19,0,0,0,.19-.18V54.57a.2.2,0,0,0-.19-.18H64.22A.19.19,0,0,0,64,54.57Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M74.45,60.57A1.46,1.46,0,0,1,73,59.13V54.57a1.44,1.44,0,0,1,1.44-1.43H79a1.44,1.44,0,0,1,1.44,1.43v4.56A1.46,1.46,0,0,1,79,60.57Zm-.18-6v4.56a.18.18,0,0,0,.18.18H79a.18.18,0,0,0,.18-.18V54.57a.19.19,0,0,0-.18-.18H74.45A.19.19,0,0,0,74.27,54.57Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M54,70.41A1.45,1.45,0,0,1,52.54,69V64.41A1.44,1.44,0,0,1,54,63h4.56A1.44,1.44,0,0,1,60,64.41V69a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6V69a.18.18,0,0,0,.18.18h4.56a.19.19,0,0,0,.18-.18V64.41a.19.19,0,0,0-.18-.18H54A.19.19,0,0,0,53.8,64.41Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M74.45,70.41A1.45,1.45,0,0,1,73,69V64.42A1.45,1.45,0,0,1,74.45,63H79a1.45,1.45,0,0,1,1.44,1.44V69A1.45,1.45,0,0,1,79,70.41Zm-.18-6V69a.18.18,0,0,0,.18.18H79a.18.18,0,0,0,.18-.18V64.42a.19.19,0,0,0-.18-.19H74.45A.19.19,0,0,0,74.27,64.42Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M64.22,70.41A1.44,1.44,0,0,1,62.78,69V64.41A1.43,1.43,0,0,1,64.22,63h4.55a1.43,1.43,0,0,1,1.44,1.43V69a1.44,1.44,0,0,1-1.44,1.44Zm-.18-6V69a.18.18,0,0,0,.18.18h4.55A.19.19,0,0,0,69,69V64.41a.2.2,0,0,0-.19-.18H64.22A.19.19,0,0,0,64,64.41Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M54,80.25a1.45,1.45,0,0,1-1.44-1.44V74.26A1.45,1.45,0,0,1,54,72.82h4.56A1.45,1.45,0,0,1,60,74.26v4.55a1.45,1.45,0,0,1-1.44,1.44Zm-.18-6v4.55A.19.19,0,0,0,54,79h4.56a.2.2,0,0,0,.18-.19V74.26a.2.2,0,0,0-.18-.19H54A.19.19,0,0,0,53.8,74.26Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M64.22,80.25a1.43,1.43,0,0,1-1.44-1.44V74.26a1.43,1.43,0,0,1,1.44-1.44h4.55a1.43,1.43,0,0,1,1.44,1.44v4.55a1.43,1.43,0,0,1-1.44,1.44Zm-.18-6v4.55a.2.2,0,0,0,.19.19h4.55a.2.2,0,0,0,.19-.19V74.26a.2.2,0,0,0-.19-.19H64.22A.19.19,0,0,0,64,74.26Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M43.75,70.41A1.43,1.43,0,0,1,42.31,69V64.41A1.43,1.43,0,0,1,43.75,63H48.3a1.43,1.43,0,0,1,1.44,1.43V69a1.43,1.43,0,0,1-1.44,1.44Zm-.19-6V69a.19.19,0,0,0,.19.18H48.3a.19.19,0,0,0,.19-.18V64.41a.2.2,0,0,0-.19-.18H43.75A.2.2,0,0,0,43.56,64.41Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M43.75,80.25a1.43,1.43,0,0,1-1.44-1.44V74.26a1.43,1.43,0,0,1,1.44-1.44H48.3a1.43,1.43,0,0,1,1.44,1.44v4.55a1.43,1.43,0,0,1-1.44,1.44Zm-.19-6v4.55a.2.2,0,0,0,.19.19H48.3a.2.2,0,0,0,.19-.19V74.26a.2.2,0,0,0-.19-.19H43.75A.2.2,0,0,0,43.56,74.26Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M51,37.38a.63.63,0,1,1,0-1.25H71.81a.63.63,0,0,1,0,1.25Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M43.62,37.38h1.76a.63.63,0,0,0,0-1.25H43.62Z" transform="translate(0 0)"></path>
+                                                      <path class="cls-2" d="M84.39,36.13h-7a.63.63,0,1,0,0,1.25h7a.78.78,0,0,1,.78.78v8.68H37.58V44H36.33v3.46a.67.67,0,0,0,.18.44.64.64,0,0,0,.45.19H85.8a.61.61,0,0,0,.44-.19.6.6,0,0,0,.18-.44V38.16A2,2,0,0,0,84.39,36.13Z" transform="translate(0 0)"></path>
+                                                      <rect class="cls-3" x="27.12" y="17.26" width="17.16" height="22.39" rx="0.75" transform="translate(57.14 68.75) rotate(-156.56)"></rect>
+                                                      <path class="cls-3" d="M20.92,22.09l-7,1.74a.75.75,0,0,0-.51.93l5.68,20.1a.75.75,0,0,0,.92.52l16.13-4.29" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M30.73,17.08l-8.95-.2a.75.75,0,0,0-.76.73L20.55,38.5a.74.74,0,0,0,.73.77l11.93.27" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M35.33,34a8.75,8.75,0,0,0-1.58-1,8.88,8.88,0,0,0-1.84-.44" transform="translate(0 0)"></path>
+                                                      <path class="cls-3" d="M34.75,30.64a3.14,3.14,0,0,1-2.64-.84,2.31,2.31,0,0,1-.35-2.59c.82-1.87,4.74-1.74,5.72-2.87-.15,1.49,2.63,4.26,1.81,6.14A2.27,2.27,0,0,1,37.17,32,3.11,3.11,0,0,1,34.75,30.64Z" transform="translate(0 0)"></path>
+                                                   </g>
+                                                </svg>
+                                             </span>
+                                             <span class="AnchorText">OYUN GEÇMİŞİM</span>
+                                          </a>
+                                       </li>
+                                       <li class="MenuItem ListItem">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/payment-history">
+                                             <span class="MenuItemImg">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
+                                                   <defs>
+                                                      <style>.cls-1{fill:#fff;}.cls-2{fill:none;stroke:#2a421c;stroke-linejoin:round;stroke-width:2px;}</style>
+                                                   </defs>
+                                                   <title>Hesap Özetim</title>
+                                                   <g data-name="Layer 2">
+                                                      <rect class="cls-1" width="100" height="100"></rect>
+                                                   </g>
+                                                   <g id="Hesap_Özetim" data-name="Hesap Özetim">
+                                                      <polyline class="cls-2" points="41.74 22.72 75.7 22.72 75.7 86 26.3 86 26.3 22.72 38.65 22.72"></polyline>
+                                                      <path class="cls-2" d="M46.37,32H66.43A1.54,1.54,0,0,1,68,33.52V55.13a1.54,1.54,0,0,1-1.55,1.54H35.57A1.54,1.54,0,0,1,34,55.13V39.7" transform="translate(0 0)"></path>
+                                                      <line class="cls-2" x1="35.57" y1="70.57" x2="66.43" y2="70.57"></line>
+                                                      <line class="cls-2" x1="35.57" y1="64.39" x2="66.43" y2="64.39"></line>
+                                                      <line class="cls-2" x1="35.57" y1="76.74" x2="51" y2="76.74"></line>
+                                                      <path class="cls-2" d="M44.83,53.59a6.17,6.17,0,1,1,12.34,0" transform="translate(0 0)"></path>
+                                                      <circle class="cls-2" cx="51" cy="42.78" r="4.63"></circle>
+                                                      <path class="cls-2" d="M34,27.35V32a3.09,3.09,0,0,0,3.09,3.09h1.54A3.09,3.09,0,0,0,41.74,32V18.09A3.09,3.09,0,0,0,38.65,15H35.57a3.09,3.09,0,0,0-3.09,3.09v4.63" transform="translate(0 0)"></path>
+                                                   </g>
+                                                </svg>
+                                             </span>
+                                             <span class="AnchorText">HESAP ÖZETİM</span>
+                                          </a>
+                                       </li>
+                                       <li class="MenuItem ListItem">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/">
+                                             <span class="MenuItemImg">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.4 100" alt="">
+                                                   <defs>
+                                                      <style>.cls-1{fill:#fff;}.cls-2{fill:none;stroke:#2a421c;stroke-miterlimit:10;stroke-width:3px;}</style>
+                                                   </defs>
+                                                   <title>Bahis Kurallari</title>
+                                                   <g data-name="Layer 2">
+                                                      <rect class="cls-1" width="100" height="100"></rect>
+                                                   </g>
+                                                   <g id="Bahis_Kurallari" data-name="Bahis Kurallari">
+                                                      <polyline class="cls-2" points="85.95 63.14 85.95 84 12 84 12 15.74 85.95 15.74 85.95 40.39"></polyline>
+                                                      <line class="cls-2" x1="12" y1="27.12" x2="85.95" y2="27.12"></line>
+                                                      <line class="cls-2" x1="17.69" y1="21.43" x2="21.48" y2="21.43"></line>
+                                                      <line class="cls-2" x1="23.38" y1="21.43" x2="27.17" y2="21.43"></line>
+                                                      <rect class="cls-2" x="19.58" y="34.7" width="20.86" height="22.75"></rect>
+                                                      <line class="cls-2" x1="17.69" y1="66.93" x2="42.34" y2="66.93"></line>
+                                                      <line class="cls-2" x1="17.69" y1="74.52" x2="42.34" y2="74.52"></line>
+                                                      <line class="cls-2" x1="48.03" y1="74.52" x2="68.88" y2="74.52"></line>
+                                                      <line class="cls-2" x1="48.03" y1="66.93" x2="68.88" y2="66.93"></line>
+                                                      <line class="cls-2" x1="48.03" y1="36.6" x2="68.88" y2="36.6"></line>
+                                                      <line class="cls-2" x1="48.03" y1="44.18" x2="61.3" y2="44.18"></line>
+                                                      <polyline class="cls-2" points="66.99 49.87 78.36 61.25 99.22 34.7"></polyline>
+                                                   </g>
+                                                </svg>
+                                             </span>
+                                             <span class="AnchorText">BAHİS KURALLARI</span>
+                                          </a>
+                                       </li>
+                                    </ul>
+                                    <div class="MyAccountMenu LastLoginDateContainer"><span><b class="LastLoginDateLabel">Son Giriş: </b><?php echo date("j.m.Y, g:i:s a");?></span></div>
+                                    <div class="MyAccountMenu FooterContainer">
+                                       <div class="LogOutButtonContainer"><button class="LogOutButton ComponentLogoutButton InstanceOperatorButtonLogout E2E-logout-button Button MyAccountLogoutButton" onclick="logOut()" title="Çıkış Yap" type="button"><span class="ButtonText">Çıkış Yap</span></button></div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="DropDownBackground ComponentLayout Layout Prerender"></div>
+                        </div>
+                     </div>
+                     <div class="ComponentSiteLanguageSelector LanguageSelectorContainer CustomSelect OperatorTopLanguage">
+                        <div class="CustomSelectTrigger">
+                           <div class="LanguageSelectorSVGFlag">
+                              <span class="Icon">
+                                 <span class="SvgIcon MainIcon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 87.51">
+                                       <defs>
+                                          <clipPath id="clip-path">
+                                             <path class="cls-1" d="M0 0h150v87.51H0z"></path>
+                                          </clipPath>
+                                          <style>#tr-layer .cls-1{fill:none}#tr-layer .cls-2{clip-path:url(#clip-path)}#tr-layer .cls-3{fill:#d00027}#tr-layer .cls-4{fill:#fff}</style>
+                                       </defs>
+                                       <g id="tr-layer" data-name="Layer 2">
+                                          <g class="cls-2" id="Layer_1-2" data-name="Layer 1">
+                                             <path class="cls-3" d="M0 0h150v87.51H0z"></path>
+                                             <g class="cls-2">
+                                                <path class="cls-4" d="M43.78 21.86a21.87 21.87 0 11-21.87 21.87 21.86 21.86 0 0121.87-21.87"></path>
+                                                <path class="cls-3" d="M49.22 26a17.71 17.71 0 11-17.44 17.73A17.51 17.51 0 0149.22 26"></path>
+                                                <path class="cls-4" d="M62.23 43.73l10.45 3.68 1.81-5.23-12.26 1.55z"></path>
+                                                <path class="cls-4" d="M62.23 43.73l10.45-3.1 1.81 5.18-12.26-2.08z"></path>
+                                                <path class="cls-4" d="M69.8 33.33v10.93h5.44L69.8 33.33z"></path>
+                                                <path class="cls-4" d="M69.8 33.33l6.5 8.85-4.42 3.15-2.08-12z"></path>
+                                                <path class="cls-4" d="M69.8 54.18l6.5-8.85-4.42-3.15-2.08 12z"></path>
+                                                <path class="cls-4" d="M69.8 54.18V43.25h5.44L69.8 54.18z"></path>
+                                                <path class="cls-4" d="M82.01 37.49l-10.4 3.14 1.81 5.18 8.59-8.32z"></path>
+                                                <path class="cls-4" d="M82.01 37.49l-6.24 8.85-4.69-3.09 10.93-5.76z"></path>
+                                                <path class="cls-4" d="M82.01 49.97l-6.24-8.86-4.69 3.68 10.93 5.18z"></path>
+                                                <path class="cls-4" d="M82.01 49.97l-10.4-3.1 1.81-5.22 8.59 8.32z"></path>
+                                             </g>
+                                          </g>
+                                       </g>
+                                    </svg>
+                                 </span>
+                              </span>
+                              <span class="LanguageSelectorSelectedText">Türkçe</span><span class="LanguageSelectorSelectedCode">tr</span>
+                           </div>
+                        </div>
+                        <ul class="CustomListContainer List ListUnordered HeaderLanguageSelector">
+                           <li class="CustomSelectOption ListItem" title="English">
+                              <div class="LanguageSelectorSVGFlag">
+                                 <span class="Icon">
+                                    <span class="SvgIcon MainIcon">
+                                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 21">
+                                          <image width="40" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAVCAYAAAA0GqweAAAAAXNSR0IArs4c6QAAAAlwSFlzAABeHgAAXh4BEjDbwAAAAVlpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KTMInWQAACU5JREFUSA2NVnlsVMcd/mbe213ver0+MDY+OBw7xoQAAQLhSDnapCLQqk1bkJqWVqUVpCglvf6IUI9Vm6j5g6hqWgKtKiBSi5SQSD0SKaVU5kjMfRlIymV8Y+P1ses93zX95hlT9b+ONZ638+bNfL/v+x0j8L9NbHxbyUObhDsfeLT+hQOvVVRV1TsenIQlZdgUIquEmFMmRCwoRc+4h1hQPyvRk3KhPE84riegIAJSIW87YijriE9Stsi7HhoCShRLT3hcEzGgggaCXmqkAx+8t+NwovV8PK5kPC4UIenuNzH5wFGyexO/v7njcy9/+zfzly5DxhUoCZlYPA1w+Fl9KcCfIGgsqgEMfnD1HvDmZRcF20UIrgaGwayFmPTwcAx4fHoRDJ57uTOJofECbMtGXzKHLvZ0gYb1dSDWcXHniWOv/2ri/DixxH0skwD16KN+5LO/+P1LO7dtXb+kCsUB2MmsawRNqWJhgf6kEsk8uCnQnVL4/ByB9j6Fa/ccfNjvYPU0hadnB0EWMTLuoKbMxNSyIKSYPIaG8Z0+KW85NIjdcr2/t3Ua+493iciN0wdb33v5axMgJwjTrCGulL/D6i+9sn/989u3zqybYh2/nlF52wtUlxqyvFgYXGCc6RVyalRIQwp5MynlG2eE3HddyrQbkKvqAnJBXYjCCjmjMiQfayiW1eUhSXDSU8rvPEqahpSmqaeFbL3QL++NZs2OuynIooBVtODJ51as+8khH6BSmjBhrIm3mgfWNrgrV/9g5/zN3/1RIBKxzvZkgqeGpXh6ZgAlYQlttCZhbjVP4NgzBnwyClicrwgC447AukaJlmqJsmItOn2F2yv+EciDruf1qfrsUMBAMp3Hq3+7geG0JeDaBsW2ApU186rMmnDvlnVH1qyJm0bn0Te9SrrTkhd2vVVSXesp1zI8GRDrZwWxvDHob6hBaYBdI8CBy8DFBBChH+r5rAM0lAAt3ORcj4sEgyUSAMJB+UBaMuiD9CkhQA2azOF69xgYLDjfl0ax9mvbodfCMyORT9UOhVtPtO++40u8dNsfdlU8NIdGFBiC+nOFkZznM6eJHqffdRLc3kvACP2vhABczhMf8txxapjBUyawsM5A1la40mfDYkRZjCQNTvug3kevn1AOyORstHelkGGQmEShGecCoTxXidIKYOHcXZyB2QAsrWiet9bR4JRnutJgcChcSLi41GOjsSqA3WcVpkUEogSmD9LRrC3TEtcQ3FNNdFBOTC0RWMsg0W2YQaLlvnWXkZpzsKgxhmzBIbMmPKIZz9o41pkiKQ4NlrAs977+nuk5lhuorFqyYu63Pm0s3vTqjmmLVq5UynXInUHf1RogxLC4NaoQNQUWVAvcpM9F+NyXBYooC/dEhvLOiiosna65mWguD9eMZYk+S3r/eWUML51I4NnmKPYd6UYmU0AsbOD7f/4YT9RGkGDaCTAF2a5L4GSco3Jtz2AkOVYmZzyy9us/K5neONNzbC2uji7t2sxbEzKeH/QwlPawaobAhhaJaSHmsyEPGUoZMfgu62JGlOBIrVYpRORa1uKQgcExC7tPjaA5AtzuT+NifwaZbAEZBkeQKXcKHe9SXwpXxgqYYvJ7RiN54sEWf3jSy6allKFInevaGrlwid51aAkX2Y4DDbrCsJlQbTRUCFAdLCbQrSwzD0VsJlzL73vOZLD9/STabuZ8GjWDBdvDB+2jKNK533NxbTCLAvfWbJWETXxlZb2f8De0lOPnq+qoChlRE2vph0KfTb+pl6xcQVeDISg9upMjn22dSG1bBw/SefoIm8PoaKwy8NzCAPIFyzfC8GiIdHCxN+u/1+tGxi385eY4Sk3PryxB4dFdgI+6x9F2fRjvftiF0x2jvqwPszw1TSlihPAMTzPo8pEAPS8mXauQ0br/F5zNcJ/smiFKz8X7To5hjE5nakvZehIWelMMb8eig1vIsQdZ5kie35IZGz9cVu4bqffXilg0mMUFJ3tSOM/+4obZ+N6XH/NBHr41gmK6jMk9PNdWDFgS6iSkM57s0LI6rsv5+8BI7yTIAg8Ow8HpgSxuMyJ1G007ePfiKMql7bNokcmQsnFlIIMc04Zufz13Dzf7xzGWs8jIhDpaJUd3gv3j9qWY31yN4kgQn1nWhC/OLsWlwRTPtSA95gkaJWyn08z3dh+1H80+I1hvqT34nws8SMlnKVm4mAKUAYMf0Aj/8COXh9FGh28uMVDQjs3I1ZeBu2mmjvYhrlH4x+0koix8xewWAWkWddfPFUxX1zsTaD3TgWeebMbQcAp/utCLNXVhjCbTuJexvCJu6eUKR8VsoKHhxYM3ozObDO6gpGEQk/EAHMsug0Pi3+Mufrq6Ci31UWw+eAdzSk2CY9zq6GXXuU0S2CDzW46K1PNywWsVpaX70PBJgDoQNRHtozn0D+fwy7U1OHNjADU0dtbUIvzrXAfzZk4Z6TTz3OA8YxgYq62eNzNc37iQecjmnc4glUwVmpmJ0eOGAf4u5G3EQhJX6T9Mt5SKh/NA3XnJY+f9kEFRTob0Oy0nkcGg808CVPcB1gUF5pZJnL2T4L55lAZcHLvSi0KhYIelMNzEyDsnz+3d7bt0LVDZsmXP7Wjz/BhzkEsG/YTNrMikK1HQ0U/hdAXRWT9P5kJkNcCvdczovJdgteglewWC5A0KKfZmFhWLgNo5T31QZmi5XaQZeC59rSuVwYpS7kP/HU1nUWKwNrq2dEdTVvDWcNPx2/t7TH1jOHo0nph+uPWrgVjF+0ZllRRWwaXOvBMZzEICdbEginn9tQisNBxAmCAXNZVjT2s3rqUKiNCQL7CUfWdGJUsZ/ZVVpiwaxKzaUiRZyO+NZNA0vRymSZQ0RrMb4q334xu92HPoI5bDDMF7yiZog+UQI9lvaHAam8/gfZDO8kVbt5WsemqvUVHpF3Ze3fzLwOYnavHsqiYESRlvSf67RMrGqat3/aCZXhXF/KYKf96f+D/+DQwlceCd4zhyvgN5SkzlIHiB8AaGf9x2+o3XJjH5APV+a+JkMh53lj/+/BZzdsuvZSCYJxFgRWPuk2rRrBJEi+h5fkwoPYdIkan0Gh21vBCoHK3XGwpBmvTIeSpAl2ZW4KB/07HJsFADiRTeautWTTEDvOYyAzkR1s9XTp363W83bnzbOHRok58y/gObIEnppUz/DwAAAABJRU5ErkJggg=="></image>
+                                       </svg>
+                                    </span>
+                                 </span>
+                                 <span class="LanguageSelectorSelectedText">English</span><span class="LanguageSelectorSelectedCode">en</span>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+                  <?php }else{?>
+                     <div class="OperatorAccountContainer ComponentLayout Layout">
+                        <a class="ComponentAnchor Button ButtonRegister ComponentAnchor Anchor  Anchor" id="RegisterButton-Header" href="/register"><span class="AnchorText" id="RegisterButton-Header-Text">Kayıt Ol</span></a><button type="button" onclick="openLoginModal()" class="Button ButtonLogin InstanceOperatorLoginLink" id="Header" data-disable-click="false"><span class="AnchorText" id="Header-Text">Giriş</span></button>
+                        <a class="ComponentAnchor IosAppPageLinkWrapper Anchor" href="/ios-app">
+                           <span class="IosAppPageLinkIcon">
+                              <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 814 1000" height="36" width="28">
+                                 <path d="M788.1 340.9c-5.8 4.5-108.2 62.2-108.2 190.5 0 148.4 130.3 200.9 134.2 202.2-.6 3.2-20.7 71.9-68.7 141.9-42.8 61.6-87.5 123.1-155.5 123.1s-85.5-39.5-164-39.5c-76.5 0-103.7 40.8-165.9 40.8s-105.6-57-155.5-127C46.7 790.7 0 663 0 541.8c0-194.4 126.4-297.5 250.8-297.5 66.1 0 121.2 43.4 162.7 43.4 39.5 0 101.1-46 176.3-46 28.5 0 130.9 2.6 198.3 99.2zm-234-181.5c31.1-36.9 53.1-88.1 53.1-139.3 0-7.1-.6-14.3-1.9-20.1-50.6 1.9-110.8 33.7-147.1 75.8-28.5 32.4-55.1 83.6-55.1 135.5 0 7.8 1.3 15.6 1.9 18.1 3.2.6 8.4 1.3 13.6 1.3 45.4 0 102.5-30.4 135.5-71.3z" fill="currentColor"></path>
+                              </svg>
+                           </span>
+                        </a>
+                        <a class="ComponentAnchor WhatsappIconWrapper Anchor" href="https://storage.googleapis.com/stateless-jojobet/2024/12/073fe9f3-jojobet-release-1.0.5.apk">
+                           <span class="CallIcon">
+                              <svg fill="currentColor" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 299.679 299.679" xml:space="preserve">
+                                 <g id="XMLID_197_">
+                                    <path id="XMLID_221_" d="M181.122,299.679c10.02,0,18.758-8.738,18.758-18.758v-43.808h12.525c7.516,0,12.525-5.011,12.525-12.525 V99.466H74.749v125.123c0,7.515,5.01,12.525,12.525,12.525H99.8v43.808c0,10.02,8.736,18.758,18.758,18.758 c10.019,0,18.756-8.738,18.756-18.758v-43.808h25.051v43.808C162.364,290.941,171.102,299.679,181.122,299.679z"></path>
+                                    <path id="XMLID_222_" d="M256.214,224.589c10.02,0,18.756-8.737,18.756-18.758v-87.615c0-9.967-8.736-18.75-18.756-18.75 c-10.021,0-18.758,8.783-18.758,18.75v87.615C237.456,215.851,246.192,224.589,256.214,224.589z"></path>
+                                    <path id="XMLID_223_" d="M43.466,224.589c10.021,0,18.758-8.737,18.758-18.758v-87.615c0-9.967-8.736-18.75-18.758-18.75 c-10.02,0-18.756,8.783-18.756,18.75v87.615C24.71,215.851,33.446,224.589,43.466,224.589z"></path>
+                                    <path id="XMLID_224_" d="M209.899,1.89c-2.504-2.52-6.232-2.52-8.736,0l-16.799,16.743l-0.775,0.774 c-9.961-4.988-21.129-7.479-33.566-7.503c-0.061,0-0.121-0.002-0.182-0.002h-0.002c-0.063,0-0.121,0.002-0.184,0.002 c-12.436,0.024-23.604,2.515-33.564,7.503l-0.777-0.774L98.516,1.89c-2.506-2.52-6.232-2.52-8.736,0 c-2.506,2.506-2.506,6.225,0,8.729l16.25,16.253c-5.236,3.496-9.984,7.774-14.113,12.667C82.032,51.256,75.727,66.505,74.86,83.027 c-0.008,0.172-0.025,0.342-0.033,0.514c-0.053,1.125-0.078,2.256-0.078,3.391H224.93c0-1.135-0.027-2.266-0.078-3.391 c-0.008-0.172-0.025-0.342-0.035-0.514c-0.865-16.522-7.172-31.772-17.057-43.487c-4.127-4.893-8.877-9.171-14.113-12.667 l16.252-16.253C212.405,8.115,212.405,4.396,209.899,1.89z M118.534,65.063c-5.182,0-9.383-4.201-9.383-9.383 c0-5.182,4.201-9.383,9.383-9.383c5.182,0,9.383,4.201,9.383,9.383C127.917,60.862,123.716,65.063,118.534,65.063z M181.145,65.063 c-5.182,0-9.383-4.201-9.383-9.383c0-5.182,4.201-9.383,9.383-9.383c5.182,0,9.383,4.201,9.383,9.383 C190.528,60.862,186.327,65.063,181.145,65.063z"></path>
+                                 </g>
+                              </svg>
+                           </span>
+                        </a>
+                        <div class="ComponentSiteLanguageSelector LanguageSelectorContainer CustomSelect OperatorTopLanguage">
+                           <div class="CustomSelectTrigger">
+                              <div class="LanguageSelectorSVGFlag">
+                                 <span class="Icon">
+                                    <span class="SvgIcon MainIcon">
+                                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 87.51">
+                                          <defs>
+                                             <clipPath id="clip-path">
+                                                <path class="cls-1" d="M0 0h150v87.51H0z"></path>
+                                             </clipPath>
+                                             <style>#tr-layer .cls-1{fill:none}#tr-layer .cls-2{clip-path:url(#clip-path)}#tr-layer .cls-3{fill:#d00027}#tr-layer .cls-4{fill:#fff}</style>
+                                          </defs>
+                                          <g id="tr-layer" data-name="Layer 2">
+                                             <g class="cls-2" id="Layer_1-2" data-name="Layer 1">
+                                                <path class="cls-3" d="M0 0h150v87.51H0z"></path>
+                                                <g class="cls-2">
+                                                   <path class="cls-4" d="M43.78 21.86a21.87 21.87 0 11-21.87 21.87 21.86 21.86 0 0121.87-21.87"></path>
+                                                   <path class="cls-3" d="M49.22 26a17.71 17.71 0 11-17.44 17.73A17.51 17.51 0 0149.22 26"></path>
+                                                   <path class="cls-4" d="M62.23 43.73l10.45 3.68 1.81-5.23-12.26 1.55z"></path>
+                                                   <path class="cls-4" d="M62.23 43.73l10.45-3.1 1.81 5.18-12.26-2.08z"></path>
+                                                   <path class="cls-4" d="M69.8 33.33v10.93h5.44L69.8 33.33z"></path>
+                                                   <path class="cls-4" d="M69.8 33.33l6.5 8.85-4.42 3.15-2.08-12z"></path>
+                                                   <path class="cls-4" d="M69.8 54.18l6.5-8.85-4.42-3.15-2.08 12z"></path>
+                                                   <path class="cls-4" d="M69.8 54.18V43.25h5.44L69.8 54.18z"></path>
+                                                   <path class="cls-4" d="M82.01 37.49l-10.4 3.14 1.81 5.18 8.59-8.32z"></path>
+                                                   <path class="cls-4" d="M82.01 37.49l-6.24 8.85-4.69-3.09 10.93-5.76z"></path>
+                                                   <path class="cls-4" d="M82.01 49.97l-6.24-8.86-4.69 3.68 10.93 5.18z"></path>
+                                                   <path class="cls-4" d="M82.01 49.97l-10.4-3.1 1.81-5.22 8.59 8.32z"></path>
+                                                </g>
+                                             </g>
+                                          </g>
+                                       </svg>
+                                    </span>
+                                 </span>
+                                 <span class="LanguageSelectorSelectedText">Türkçe</span><span class="LanguageSelectorSelectedCode">tr</span>
+                              </div>
+                           </div>
+                           <ul class="CustomListContainer List ListUnordered HeaderLanguageSelector">
+                              <li class="CustomSelectOption ListItem" title="English">
+                                 <div class="LanguageSelectorSVGFlag">
+                                    <span class="Icon">
+                                       <span class="SvgIcon MainIcon">
+                                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 21">
+                                             <image width="40" height="21" xlink:href="data:image/png;base64,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"></image>
+                                          </svg>
+                                       </span>
+                                    </span>
+                                    <span class="LanguageSelectorSelectedText">English</span><span class="LanguageSelectorSelectedCode">en</span>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                     <?php }?>
+                     <nav class="OperatorMainMenu ComponentMenu NavMenu">
+                        <button type="button" disabled="" class="MainNavScrollBtn LeftNavScrollBtn">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.63 55.06">
+                                    <g data-name="Layer 2">
+                                       <path d="M34.63 27.53L31.09 24l-24-24L0 7.06l20.47 20.47L0 48l7.09 7.06 24-24 3.54-3.53z" data-name="Layer 1"></path>
+                                    </g>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                        <ul class="Menu Vertical List ListUnordered">
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon" href="/"><span class="AnchorText" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon-Text">Özel Oranlar</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino/games/mobil-oyunlar:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fmobil-oyunlar" href="/aviator"><span class="AnchorText" id="DesktopNavButton-/casino/games/mobil-oyunlar:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fmobil-oyunlar-Text">Aviator</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas" href="/poker"><span class="AnchorText" id="DesktopNavButton-/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas-Text">Poker Klas</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  IsActive Anchor" id="DesktopNavButton-/sports/i" href="/"><span class="AnchorText" id="DesktopNavButton-/sports/i-Text">Bahis</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-sports/i" href="/"><span class="AnchorText" id="DesktopNavButton-/live-sports/i-Text">Canlı Bahis</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/cat/canlı-oyunlar" href="/canlioyun"><span class="AnchorText" id="DesktopNavButton-/live-casino/cat/canlı-oyunlar-Text">Canlı Oyunlar</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino" href="livecasino"><span class="AnchorText" id="DesktopNavButton-/live-casino-Text">Canlı Casino</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino" href="/casino"><span class="AnchorText" id="DesktopNavButton-/casino-Text">Casino</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/games/loto:canlı-loto-49160/?prevRoute=%2Flive-casino%2Fcat%2Floto" href="/loto"><span class="AnchorText" id="DesktopNavButton-/live-casino/games/loto:canlı-loto-49160/?prevRoute=%2Flive-casino%2Fcat%2Floto-Text">Canlı Loto</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/promotions" href="/promotions"><span class="AnchorText" id="DesktopNavButton-/promotions-Text">Promosyonlar</span></a></li>
+                           <li class="MenuItem ListItem"><a target="_blank" class="ComponentAnchor  Anchor" href="/" id="DesktopNavButton-https://dub.is/jojodiscount"><span class="AnchorText" id="DesktopNavButton-https://dub.is/jojodiscount-Text">Discount Talep Et</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/tournaments/all" href="/tournaments"><span class="AnchorText" id="DesktopNavButton-/tournaments/all-Text">Turnuvalar</span></a></li>
+                        </ul>
+                        <button type="button" class="MainNavScrollBtn RightNavScrollBtn">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.63 55.06">
+                                    <g data-name="Layer 2">
+                                       <path d="M34.63 27.53L31.09 24l-24-24L0 7.06l20.47 20.47L0 48l7.09 7.06 24-24 3.54-3.53z" data-name="Layer 1"></path>
+                                    </g>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </nav>
+                  </div>
+               </div>
+            </header>

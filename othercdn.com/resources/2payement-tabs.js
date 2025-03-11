@@ -1,0 +1,1 @@
+No Content: https://othercdn.com/resources/2payement-tabs.js
