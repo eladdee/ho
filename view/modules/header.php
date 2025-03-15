@@ -74,9 +74,9 @@
 }
 </style>
       
-      <title>Jojobet: Türkiye'nin En Güvenilir Bahis ve Casino Sitesi - Jojobet Giriş</title>
-      <meta name="description" content="Jojobet Türkiye'nin en iyi spor bahisleri ve casino sitesidir. Şimdi Jojobet giriş yapın ve en iyi şans oyunları deneyimini yaşayın.">
-      <meta name="keywords" content="Yüksek Bahis Oranları, Canlı Bahisler, Casino Oyunları">
+<title>Holiganbet Casino: Yüzlerce Casino Oyunu ve Holiganbet güvencesi ile sizlerle</title>
+    <meta name="description" content="Holiganbet casino oyunlarına giriş yaparak yüzlerce casino oyunu arasından dilediğinizi seçip eğlenirken Holiganbet güvencesi ile kazanmaya başlayabilirsiniz." />
+    <meta name="keywords" content="Casino, Casino Oyunları" />
       <link rel="shortcut icon" sizes="32x32" href="/static/img/favicon-32x32.png" type="image/png">
       <link rel="icon" sizes="16x16" href="/static/img/favicon-16x16.png" type="image/png">
       <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">
