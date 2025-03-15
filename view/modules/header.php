@@ -11,11 +11,7 @@
       <meta name="Application-Name" content="jojoBET">
       <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
       <link rel="preload" href="/static/css/common-d84be9782d9443a05473.css" as="style">
-      <link rel="preload" href="/static/css/bundle-939aff498c5cb56a60be.css" as="style">
-      <link rel="preload" href="/static/js/common-977487d3dce2d0c2f8a9.js" as="script">
-      <link rel="preload" href="/static/js/lang-tr-ef2766e66df10de3a740.js" as="script">
-      <link rel="preload" href="/static/js/bundle-890d9e62993833d629e8.js" as="script">
-      <link rel="preload" href="/static/js/svg-2535506528c285ba0ba0.js" as="script">
+      <link rel="preload" href="/static/css/bundle-8e36151425c49c5c9bfb.css" as="style">
       <script src="/assets/js/script.js"></script>
       <script src="/assets/js/app.js"></script>
       <script src="/assets/js/payment.js"></script>
