@@ -1,0 +1,2 @@
+(function(){'use strict';Polymer.telemetry={instanceCount:0,registrations:[],_regLog:function(prototype){console.log("["+prototype.is+"]: registered")},register:function(prototype){this.registrations.push(prototype);Polymer.log&&this._regLog(prototype)},dumpRegistrations:function(){this.registrations.forEach(this._regLog)}}})();
+//# sourceURL=https://bannermatrix.nwacdn.com/assets/widgets/0.22.8/index.html-13.js
