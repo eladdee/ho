@@ -13,27 +13,27 @@
          <ul class="footer-social-wrapper">
             <li class="footer-social-item">
                <a class="ComponentAnchor footer-social-icon Anchor" href="http://dub.pro/holiguncel">
-                  <figure class="Figure ComponentPicture "><img alt="Instagram" class="PictureImg LazyImage" src="https://www.holiganbet1086.com/stateless-holiganbet-one/2019/06/6829862b-instagram.png"></figure>
+                  <figure class="Figure ComponentPicture "><img alt="Instagram" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2019/06/6829862b-instagram.png"></figure>
                </a>
             </li>
             <li class="footer-social-item">
                <a class="ComponentAnchor footer-social-icon Anchor" href="https://holigancall4.com/">
-                  <figure class="Figure ComponentPicture "><img alt="Bizi Arayın" class="PictureImg LazyImage" src="https://www.holiganbet1086.com/stateless-holiganbet-one/2019/06/4aec2c4f-arama.png"></figure>
+                  <figure class="Figure ComponentPicture "><img alt="Bizi Arayın" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2019/06/4aec2c4f-arama.png"></figure>
                </a>
             </li>
             <li class="footer-social-item">
                <a class="ComponentAnchor footer-social-icon Anchor" href="https://siziarayalim2.co/holigan">
-                  <figure class="Figure ComponentPicture "><img alt="Sizi Arayalım" class="PictureImg LazyImage" src="https://www.holiganbet1086.com/stateless-holiganbet-one/2020/05/03279d5c-call.png"></figure>
+                  <figure class="Figure ComponentPicture "><img alt="Sizi Arayalım" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2020/05/03279d5c-call.png"></figure>
                </a>
             </li>
             <li class="footer-social-item">
                <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/holigantg">
-                  <figure class="Figure ComponentPicture "><img alt="Telegram" class="PictureImg LazyImage" src="https://www.holiganbet1086.com/stateless-holiganbet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03.png"></figure>
+                  <figure class="Figure ComponentPicture "><img alt="Telegram" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03.png"></figure>
                </a>
             </li>
             <li class="footer-social-item">
                <a class="ComponentAnchor footer-social-icon Anchor" href="https://twitter.com/holiganguncel">
-                  <figure class="Figure ComponentPicture "><img alt="Twitter" class="PictureImg LazyImage" src="https://www.holiganbet1086.com/stateless-holiganbet-one/2023/08/9c5d6c31-2283c056-twitter.png"></figure>
+                  <figure class="Figure ComponentPicture "><img alt="Twitter" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2023/08/9c5d6c31-2283c056-twitter.png"></figure>
                </a>
             </li>
          </ul>
@@ -74,17 +74,17 @@
          <ul class="footer-external-logo-list">
             <li class="footer-external-logo-item">
                <a target="_blank" class="ComponentAnchor  Anchor">
-                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.holiganbet1086.com/stateless-holiganbet-one/2022/11/52c864b5-holi-18.png"></figure>
+                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2022/11/52c864b5-holi-18.png"></figure>
                </a>
             </li>
             <li class="footer-external-logo-item">
                <a target="_blank" class="ComponentAnchor  Anchor" href="https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJbkpEYTJWSlRGSnJVVXhxZUZjNWVVdG1iRXRHVTJjOVBTSXNJblpoYkhWbElqb2lLMkZMY1RrNFMyNDRRalpJZEhKbVozUXhValkyZHowOUlpd2liV0ZqSWpvaU5qYzRaREF5WVdRMk9EZGhPVGN5WVRZNFpEWXpaVEV5T1ROaFlqUmpOVFkzWmpNMk5XRXpaV013TVdKaE9HRTFZemczT1dNMlpERmhNRE5tWVRjMVl5SXNJblJoWnlJNklpSjk=">
-                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.holiganbet1086.com/stateless-holiganbet-one/2024/10/cda60152-gcb-orange-seal-1.png"></figure>
+                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2024/10/cda60152-gcb-orange-seal-1.png"></figure>
                </a>
             </li>
             <li class="footer-external-logo-item">
                <a target="_blank" class="ComponentAnchor  Anchor" href="https://www.dmca.com/">
-                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="https://www.holiganbet1086.com/stateless-holiganbet-one/2019/06/05accf10-dmca_badge_grn_100w.png"></figure>
+                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2019/06/05accf10-dmca_badge_grn_100w.png"></figure>
                </a>
             </li>
             <li class="footer-external-logo-item">
