@@ -80,9 +80,9 @@ body.Page-Casino.Page-Sports .SectionContent {
          <div class="RegisterFormImage">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-holiganbet-one/2021/09/2adc7f16-uye-ol-1.jpg" media="(max-width: 1099px)">
-                  <source srcset="/stateless-holiganbet-one/2021/09/2adc7f16-uye-ol-1.jpg">
-                  <img alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2021/09/2adc7f16-uye-ol-1.jpg">
+                  <source srcset="/stateless-holiganbet-one/2021/09/2adc7f16-uye-ol-1.webp" media="(max-width: 1099px)">
+                  <source srcset="/stateless-holiganbet-one/2021/09/2adc7f16-uye-ol-1.webp">
+                  <img alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2021/09/2adc7f16-uye-ol-1.webp">
                </picture>
             </figure>
          </div>
