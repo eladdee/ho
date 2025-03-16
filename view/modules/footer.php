@@ -222,6 +222,20 @@ function loginorpay(){
    function closemodal5(){
       $('#logianeo').addClass('dnone');
    }
+                $(document).ready(function(){
+  // Mevcut sayfanın yolunu alıyoruz
+  var currentPath = window.location.pathname;
+  
+  // Her bir menü linkini kontrol ediyoruz
+  $('.MenuItem a').each(function(){
+    var linkPath = $(this).attr('href');
+    // Eğer href değeri ile sayfanın yolu eşleşiyorsa
+    if(currentPath === linkPath || currentPath === '/' + linkPath){
+      $(this).addClass('IsActive');
+    }
+  });
+});
+
 </script>
 <div class="ModalWindow LoginModal dnone">
    <div class="ModalOverlay"></div>
