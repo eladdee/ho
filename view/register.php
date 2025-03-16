@@ -130,7 +130,7 @@ body.Page-Casino.Page-Sports .SectionContent {
                         </div>
                      </div>
                   </div>
-                  <button type="submit" class="RegisterFormSubmitButton"  id="sonrakibuton">Sonraki*</button>
+                  <button type="button" class="RegisterFormSubmitButton next-button"  id="">Sonraki*</button>
                </form>
             </div>
             <div class="RegisterFormStepWrapper RegisterStep2 Hidden">
@@ -179,7 +179,7 @@ body.Page-Casino.Page-Sports .SectionContent {
                         </div>
                      </div>
                   </label>
-                  <button type="submit" class="RegisterFormSubmitButton" id="sonrakibuton">Sonraki*</button>
+                  <button type="button" class="RegisterFormSubmitButton next-button" id="">Sonraki*</button>
                </form>
             </div>
             <div class="RegisterFormStepWrapper RegisterStep3 Hidden">
