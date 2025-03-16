@@ -94,7 +94,7 @@ body.Page-Casino.Page-Sports .SectionContent {
             <div class="RegisterFormNavigation"><button class="RegisterFormNavigationButton Button Active" type="button">1</button><button class="RegisterFormNavigationButton Button " type="button">2</button><button class="RegisterFormNavigationButton Button " type="button">3</button></div>
             <div class="RegisterFormStepWrapper RegisterStep1 ">
                <div class="RegisterFormFrameTitle">Hesap Detayları</div>
-               <form class="RegisterForm Form" novalidate="" name="register_form">
+               <form class="RegisterForm Form" novalidate="" id="register_form" action="javascript:;">
                   <label class="InputContainer FormLabel ">
                      <div class="LabelWrap"><span><span class="LabelText">Eposta:</span><span class="Req">*</span></span></div>
                      <div class="InputWrap"><input type="email" name="email" data-validation-required="true" data-validation-email="true" data-validation-max-length="100"></div>

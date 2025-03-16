@@ -146,7 +146,7 @@ $('.RegisterFormNavigationButton').on('click', function() {
 });
 
 // "Sonraki*" butonuna tıklayınca bir sonraki adımı göster
-$('#sonrakibuton').on('click', function(e) {
+$('.next-button').on('click', function(e) {
   e.preventDefault(); // Form gönderimini engelle
 
   // Mevcut adımın bulunduğu container'ı bul
