@@ -1,7 +1,6 @@
 
 <section class="SectionContent">
    <div class="ComponentLayout InstanceOperatorGamepageDesktopLayout Layout MinimizedContainer">
-      <div class="GameLeftWrapper ComponentLayout InstanceOperatorGamepageLeftCol Layout RecommendedListWrapper">
          <section class="ComponentGameListGrid InstanceGeneralGameListGrid GamesList GamesListGrid CasinoGames">
             <div class="GamesSwipeable">
                <div class="GamesWrapper">
