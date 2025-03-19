@@ -15,7 +15,7 @@
                <li class="GmowGameColumn" style="width: auto;">
                   <div class="GmowGameWindow">
                      <h2 class="ComponentTitle InstanceCasinGameTitle Title">Aviator</h2>
-                     <div class="IframeContainer GmowGame GmowOperatorDesktop GmowGameFrame" style="width: 1236px; height: 736.34px;">
+                     <div class="IframeContainer GmowGame GmowOperatorDesktop GmowGameFrame" style="width: 1008px; height: 600.511px;">
                         <div class="BtnGroup LeftSide">
                            <button type="button" class="BtnGroupItem SwitchButton Button" title="Oyun Değiştir">
                               <span class="ComponentIcon Icon">
@@ -27,7 +27,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.holiganbet1086.com/Loader/Start/2218/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.holiganbet1086.com/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="1236" height="736.3404255319149"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.holiganbet1087.com/Loader/Start/2218/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.holiganbet1087.com/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="1008" height="600.5106382978723"></iframe></div>
                      </div>
                   </div>
                </li>
@@ -93,7 +93,7 @@
                   </div>
                </div>
                <div class="GmowDetailsClock">
-                  <div class="ComponentClock">14:09:09</div>
+                  <div class="ComponentClock">14:15:52</div>
                </div>
             </div>
          </div>
