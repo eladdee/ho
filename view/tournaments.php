@@ -8,7 +8,7 @@
                   <div class="v_header">
                      <div class="v_title">HoliganBet <span class="v_bold">Casino Turnuvalar</span></div>
                   </div>
-                  <p><a href="/ozel-turnuva"><img decoding="async" src="/stateless-holiganbet-one/2025/03/549ec04d-1020x250-tr.wbep"></a></p>
+                  <p><a href="/ozel-turnuva"><img decoding="async" src="/stateless-holiganbet-one/2025/03/549ec04d-1020x250-tr.png"></a></p>
                   <p><a href="/drop-races"><img decoding="async" src="/stateless-holiganbet-one/2024/07/78394b8e-1020x250-1.png"></a></p>
                   <p><a href="/drop-wins"><img decoding="async" src="/stateless-holiganbet-one/2025/03/73e7cfe1-tr-1.png"></a></p>
                   <p>&nbsp;</p>
