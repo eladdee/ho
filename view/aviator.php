@@ -27,7 +27,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.holiganbet1086.com/Loader/Start/2218/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.holiganbet1086.com/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="1236" height="736.3404255319149"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="/Loader/Start/2218/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="1236" height="736.3404255319149"></iframe></div>
                      </div>
                   </div>
                </li>
