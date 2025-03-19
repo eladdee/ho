@@ -4,7 +4,6 @@
          <section class="ComponentGameListGrid InstanceGeneralGameListGrid GamesList GamesListGrid CasinoGames">
             <div class="GamesSwipeable">
                <div class="GamesWrapper">
-                  <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
                      <li class="ListGame ListItem" data-game-id="70799">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
