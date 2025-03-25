@@ -10239,7 +10239,22 @@
                                        <style id="svelte-tx5qze">*,*::before,*::after{margin:0;padding:0;list-style:none;text-decoration:none;outline:none;box-sizing:border-box}.TournamentContentDetails{display:flex;flex-direction:column;gap:20px}.Thumbnail{display:flex;gap:20px}.CardImg{border-radius:5px;background:url("");background-repeat:no-repeat;background-position:center;background-size:auto;width:85px;height:60px}.CardImg.CardImgFinished{filter:grayscale(1)}.CardImg.Mobile{width:85px;height:60px;display:inline-block;margin-bottom:10px;margin-right:10px;font-size:12px;line-height:15px}
                                        .Thumbnail{cursor:pointer}.PrizeSec,.RankSec{background-color:#f9c408}.PrizeIcon svg path,.UserIcon svg path{fill:#294c0b}
                                        </style>
-                                       <div class="TournamentsPage"><div class="TournamentContentDetails"><div class="Thumbnail"><img class="Mobile CardImg " src="/static.glastcoper.com/bonus/img/1990/Turnuva_Sayfasi.png" width="65px" height="40px" title="Jojobet 35.000.000₺ Ödüllü 10-16 Mart Haftalık Slot Turnuvası"> <div class="MobileRight"><div class="Title">Jojobet 35.000.000₺ Ödüllü 10-16 Mart Haftalık Slot Turnuvası</div> <div>Başlangıç <?=date("d/m/Y")?> 00:00 Bitiş <?=date("d/m/Y", strtotime("+1 week"))?> 23:59</div></div></div> <casino-tournaments-rank translationurl=""></casino-tournaments-rank></div><style>.Thumbnail{cursor:pointer}.PrizeSec,.RankSec{background-color:#f9c408}.PrizeIcon svg path,.UserIcon svg path{fill:#294c0b}</style></div>
+                                       <div class="TournamentsPage"><div class="TournamentContentDetails"><div class="Thumbnail"><img class="Mobile CardImg " src="/static.glastcoper.com/bonus/img/2218/wetrsdfvnddgh.png" width="65px" height="40px" title="Holiganbet 24 Mart - 30 Mart 50.000.000₺ Ödüllü Holigan Turnuvası"> <div class="MobileRight"><div class="Title">Holiganbet <?php
+// Türkçe yerel ayarları kullanmak için:
+setlocale(LC_TIME, 'tr_TR.UTF-8');
+
+// Bir gün öncesi için zaman damgası oluşturuyoruz
+$yesterday = strtotime("-1 day");
+$oneweeklater = strtotime("+6 day");
+
+
+// Tarihi "gün ay" formatında yazdırıyoruz
+echo strftime("%d %B", $yesterday);
+echo '-';
+echo strftime("%d %B", $oneweeklater);
+
+?>
+50.000.000₺ Ödüllü Holigan Turnuvası</div> <div>Başlangıç <?=date("d/m/Y")?> 00:00 Bitiş <?=date("d/m/Y", strtotime("+1 week"))?> 23:59</div></div></div> <casino-tournaments-rank translationurl=""></casino-tournaments-rank></div><style>.Thumbnail{cursor:pointer}.PrizeSec,.RankSec{background-color:#f9c408}.PrizeIcon svg path,.UserIcon svg path{fill:#294c0b}</style></div>
                                        </casino-tournaments-player-rank>
                                     </div>
                                     <div class="MyAccountMenu LastLoginDateContainer"><span><b class="LastLoginDateLabel">Son Giriş: </b><?php echo date("j.m.Y, g:i:s a");?></span></div>
@@ -10315,7 +10330,7 @@
                               </svg>
                            </span>
                         </a>
-                        <a class="ComponentAnchor WhatsappIconWrapper Anchor" href="https://storage.googleapis.com/stateless-jojobet/2024/12/073fe9f3-jojobet-release-1.0.5.apk">
+                        <a class="ComponentAnchor WhatsappIconWrapper Anchor" href="/">
                            <span class="CallIcon">
                               <svg fill="currentColor" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 299.679 299.679" xml:space="preserve">
                                  <g id="XMLID_197_">
