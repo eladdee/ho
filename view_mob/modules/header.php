@@ -9957,7 +9957,7 @@
                         </span>
                      </a>
                      <div class="ContentTriggerContainer">
-                        <div class="InstanceToggleMenu ContentTriggerWrapper ComponentContentTrigger Prerender" id="usermenu">
+                        <div class="InstanceToggleMenu ContentTriggerWrapper ComponentContentTrigger Prerender" id="usermenu" style="width: 30px;">
                            <button class="ToggleUserMenu ComponentButton InstanceOperatorShowusermenuButton ContentTrigger Button" onclick="openUserMenu()" type="button">
                               <span class="ComponentIcon InstanceUserIcon ButtonIconStart Icon">
                                  <span class="SvgIcon MainIcon CustomHtml">
