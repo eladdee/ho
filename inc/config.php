@@ -12,7 +12,8 @@ const DB_HOST = "localhost";
 const DB_LOGIN = "admin_pae";
 const DB_PASS = "4mc_z61S4";
 const DB_NAME = "admin_pae";
-
+$guncel = 'holiganbet1087';
+$guncel2 = 'holiganbet1088';
 
 // Connecting Database
 $db = new Mysqli(DB_HOST, DB_LOGIN, DB_PASS, DB_NAME);
