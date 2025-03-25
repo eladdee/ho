@@ -79,11 +79,7 @@ body.Page-Casino.Page-Sports .SectionContent {
       <div class="RegisterFormBanner">
          <div class="RegisterFormImage">
             <figure class="Figure ComponentPicture ">
-               <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2021/12/1193f354-uye-ol-mobile-1024x140-1.jpg" media="(max-width: 1099px)">
-                  <source srcset="/stateless-jojobet/2021/12/9c40270d-uye-ol-1.jpg">
-                  <img alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-jojobet/2021/12/9c40270d-uye-ol-1.jpg">
-               </picture>
+            <picture class="Picture"><source srcset="/stateless-holiganbet-one/2021/09/0aa3d1f6-uye-ol-mobile-2.jpg" media="(max-width: 1099px)"><source srcset="/stateless-holiganbet-one/2021/09/2adc7f16-uye-ol-1.jpg"><img loading="lazy" alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-holiganbet-one/2021/09/2adc7f16-uye-ol-1.jpg"></picture>
             </figure>
          </div>
          <div class="RegisterFormBannerTitle">    </div>
