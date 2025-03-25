@@ -1,4 +1,4 @@
-<section class="SectionContent ">
+<section class="SectionContent " style="background: #fff">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
       <span id="ch_3229769240" class="">
          <p><strong>GENEL KURALLAR VE KOŞULLAR</strong></p>

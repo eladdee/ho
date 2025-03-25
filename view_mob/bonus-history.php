@@ -1,4 +1,4 @@
-<section class="SectionContent " style="background: #fff;">
+<section class="SectionContent " style="background: #fff">
    <div class="ComponentLayout InstanceBonusHistoryLayout Layout">
       <h1 class="ComponentTitle InstanceBonusHistoryTitle Title">Geçmiş Bonuslar</h1>
       <div class="TransactionHistoryNWAContainer TransactionHistoryContainer">
@@ -22,11 +22,18 @@
                <div class="TransHistoryTitle"><span class="TransHistoryBonusName">Bonus Adı</span><span class="TransHistoryAmount">Miktar</span><span class="TransHistoryType">Tip</span><span class="TransHistoryTitleStatus">Durum</span><span class="TransHistoryGrantedDate">Eklenme Tarihi</span></div>
                <ul class="List ListUnordered">
                   <li class="TransHistoryItem TransActive ListItem">
-                     <div class="TransHistoryBonusName"><span class="TransHistoryDescriptionTxt">JOJOBET - Kombine Ekstra Oran</span></div>
+                     <div class="TransHistoryBonusName"><span class="TransHistoryDescriptionTxt">Holiganbet - 1.50 Banko Oran Yükseltme</span></div>
                      <div class="TransHistoryAmount"><span class="TransHistoryAmountTxt"><span class="AmountSign"></span>-</span></div>
                      <div class="TransHistoryType"><span class="TransHistoryDescriptionTxt">oddsBoost</span></div>
                      <div class="TransHistoryStatus"><span class="TransHistoryStatusTxt">Aktif</span></div>
-                     <div class="TransHistoryGrantedDate"><span class="TransHistoryDateTxt">05/03/2025</span><span class="TransHistoryHours">13:38</span></div>
+                     <div class="TransHistoryGrantedDate"><span class="TransHistoryDateTxt">25/03/2025</span><span class="TransHistoryHours">12:56</span></div>
+                  </li>
+                  <li class="TransHistoryItem TransActive ListItem">
+                     <div class="TransHistoryBonusName"><span class="TransHistoryDescriptionTxt">Holiganbet - 2.0 Super Oran Yükseltme</span></div>
+                     <div class="TransHistoryAmount"><span class="TransHistoryAmountTxt"><span class="AmountSign"></span>-</span></div>
+                     <div class="TransHistoryType"><span class="TransHistoryDescriptionTxt">oddsBoost</span></div>
+                     <div class="TransHistoryStatus"><span class="TransHistoryStatusTxt">Aktif</span></div>
+                     <div class="TransHistoryGrantedDate"><span class="TransHistoryDateTxt">25/03/2025</span><span class="TransHistoryHours">12:56</span></div>
                   </li>
                </ul>
             </div>

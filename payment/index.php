@@ -1,5 +1,5 @@
 <!DOCTYPE html> 
-<html dir=LTR style=overflow-y:auto>
+<html dir=LTR style="overflow:hidden">
   
    <meta charset=utf-8>
    <title>MoneyMatrix Cashier</title>
