@@ -11,9 +11,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2025/01/ab66b4cb-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2025/01/26d599ab-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2025/01/f322457e-casinosliderdesktop.png">
+                              <source srcset="/stateless-holiganbet-one/2025/01/ab66b4cb-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2025/01/26d599ab-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2025/01/f322457e-casinosliderdesktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -28,9 +28,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/12/f7d15d6c-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/12/143d2066-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/12/06617a43-casinosliderdesktop.png">
+                              <source srcset="/stateless-holiganbet-one/2024/12/f7d15d6c-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2024/12/143d2066-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2024/12/06617a43-casinosliderdesktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -45,9 +45,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/10/8ff8ecb1-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/10/f11816d8-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/10/a3c14ee4-casinosliderdesktop.png">
+                              <source srcset="/stateless-holiganbet-one/2024/10/8ff8ecb1-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2024/10/f11816d8-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2024/10/a3c14ee4-casinosliderdesktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -62,9 +62,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/10/229cf64a-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/10/d50d7837-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/10/10fcc2f6-casinosliderdesktop.png">
+                              <source srcset="/stateless-holiganbet-one/2024/10/229cf64a-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2024/10/d50d7837-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2024/10/10fcc2f6-casinosliderdesktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -79,9 +79,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/1c12921b-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/3292f1a2-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/c7076efe-casinosliderdesktop.png">
+                              <source srcset="/stateless-holiganbet-one/2024/06/1c12921b-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2024/06/3292f1a2-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2024/06/c7076efe-casinosliderdesktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -96,9 +96,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/e5614d62-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/234264b0-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/e0e00fba-casinosliderdesktop.png">
+                              <source srcset="/stateless-holiganbet-one/2024/06/e5614d62-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2024/06/234264b0-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2024/06/e0e00fba-casinosliderdesktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -113,10 +113,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/18a57302-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/f528e250-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/94148317-casinosliderdesktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.holiganbet1087.com/stateless-holiganbet-one/2024/06/94148317-casinosliderdesktop.png" class="PictureImg LazyImage">
+                              <source srcset="/stateless-holiganbet-one/2024/06/18a57302-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2024/06/f528e250-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2024/06/94148317-casinosliderdesktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-holiganbet-one/2024/06/94148317-casinosliderdesktop.png" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -130,10 +130,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/11/b5cd2802-casinoslidermobile.jpg" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/11/5d396b19-casinoslidertablet.jpg" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/11/031acb2c-casinosliderdesktop-scaled.jpg">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/11/031acb2c-casinosliderdesktop-scaled.jpg" class="PictureImg LazyImage">
+                              <source srcset="/stateless-holiganbet-one/2023/11/b5cd2802-casinoslidermobile.jpg" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2023/11/5d396b19-casinoslidertablet.jpg" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2023/11/031acb2c-casinosliderdesktop-scaled.jpg">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-holiganbet-one/2023/11/031acb2c-casinosliderdesktop-scaled.jpg" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -147,10 +147,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/06/7530c40b-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/06/f29e58b8-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/06/ff8b1653-casinosliderdesktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/06/ff8b1653-casinosliderdesktop.png" class="PictureImg LazyImage">
+                              <source srcset="/stateless-holiganbet-one/2023/06/7530c40b-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2023/06/f29e58b8-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2023/06/ff8b1653-casinosliderdesktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-holiganbet-one/2023/06/ff8b1653-casinosliderdesktop.png" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -164,10 +164,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/04/f53276cd-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/04/13093fb8-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/04/7379f65b-casinosliderdesktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/04/7379f65b-casinosliderdesktop.png" class="PictureImg LazyImage">
+                              <source srcset="/stateless-holiganbet-one/2023/04/f53276cd-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2023/04/13093fb8-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2023/04/7379f65b-casinosliderdesktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-holiganbet-one/2023/04/7379f65b-casinosliderdesktop.png" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -181,9 +181,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/04/2693ad6b-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/04/44898356-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2023/04/28b3fc9d-casinosliderdesktop.png">
+                              <source srcset="/stateless-holiganbet-one/2023/04/2693ad6b-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2023/04/44898356-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2023/04/28b3fc9d-casinosliderdesktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -198,9 +198,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2022/11/68087583-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2022/11/e6a5fb26-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.holiganbet1087.com/stateless-holiganbet-one/2022/11/e5025904-casinosliderdesktop.png">
+                              <source srcset="/stateless-holiganbet-one/2022/11/68087583-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-holiganbet-one/2022/11/e6a5fb26-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-holiganbet-one/2022/11/e5025904-casinosliderdesktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -1119,7 +1119,7 @@
       <p>Holiganbet'ün Casino Lobisinde slot ve masa oyunları da dahil olmak üzere tüm oyunları görüntüleyebilirsiniz.</p>
    </div>
    <div class="RandomGameWrapper">
-      <casino-play-random-game endpoint="https://holiganbet.nwacdn.com" language="tr" datasource="holiganbet-casino" client-styling-url="https://www.holiganbet1087.com/static/css/widgets/play-random-game/style-1.0.664.css" icon-visible="true" icon-visible-on-anim="true" launch-by-game-card="true" class="RandomGameButton hydrated" translation-url="https://www.holiganbet1087.com/static/widgets/play-random-game/translations/data.json" specific-category="" client-styling=".GameContainerGradient{background:var(--game-container-gradient-bg)!important}.ButtonWrapper{z-index:1}.QustionMark{color:var(--question-mark-color,#fff)!important;text-shadow:0 .4rem 0 #000!important}.HexagonMark{background:var(--hexagon-mark-bg)!important}.HexagonMarkBorder{background:var(--hexagon-mark-border-bg)!important}.RandomGameImage{border-radius:.8rem}.RandomGameCard .RandomButton{padding:.5rem 1rem!important;white-space:nowrap;flex:1}.ButtonWrapper .RandomButton{margin-top:4rem}"></casino-play-random-game>
+      <casino-play-random-game endpoint="https://holiganbet.nwacdn.com" language="tr" datasource="holiganbet-casino" client-styling-url="/static/css/widgets/play-random-game/style-1.0.664.css" icon-visible="true" icon-visible-on-anim="true" launch-by-game-card="true" class="RandomGameButton hydrated" translation-url="/static/widgets/play-random-game/translations/data.json" specific-category="" client-styling=".GameContainerGradient{background:var(--game-container-gradient-bg)!important}.ButtonWrapper{z-index:1}.QustionMark{color:var(--question-mark-color,#fff)!important;text-shadow:0 .4rem 0 #000!important}.HexagonMark{background:var(--hexagon-mark-bg)!important}.HexagonMarkBorder{background:var(--hexagon-mark-border-bg)!important}.RandomGameImage{border-radius:.8rem}.RandomGameCard .RandomButton{padding:.5rem 1rem!important;white-space:nowrap;flex:1}.ButtonWrapper .RandomButton{margin-top:4rem}"></casino-play-random-game>
    </div>
    <div class="GameCategoriesWrapper">
       <section id="holiganbet-casino$top-30-casino" class="CasinoGames GamesList GamesListGrid MsnRow">
