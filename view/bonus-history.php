@@ -1,4 +1,4 @@
-<section class="SectionContent ">
+<section class="SectionContent " style="background: #fff">
    <div class="ComponentLayout InstanceBonusHistoryLayout Layout">
       <h1 class="ComponentTitle InstanceBonusHistoryTitle Title">Geçmiş Bonuslar</h1>
       <div class="TransactionHistoryNWAContainer TransactionHistoryContainer">

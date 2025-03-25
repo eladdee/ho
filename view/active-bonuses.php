@@ -1,4 +1,4 @@
-<section class="SectionContent ">
+<section class="SectionContent " style="background: #fff">
    <div class="ActiveBonusesWrapper">
       <h1 class="Title">Aktif Bonuslar</h1>
       <div class="BonusesContent">

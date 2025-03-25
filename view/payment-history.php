@@ -1,4 +1,4 @@
-<section class="SectionContent">
+<section class="SectionContent" style="background: #fff">
    <div class="TransactionHistoryContent ComponentLayout InstanceOperatorMyCasinoContent Layout">
       <ul class="ComponentTabsHeader InstanceOperatorMyCasinoTabsHeader TabsHeader List ListUnordered">
          <li class="ListItem">

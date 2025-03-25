@@ -29,7 +29,7 @@
                      </div>
                      <div class="footer-main-col">
                         <ul class="footer-nav-list">
-                           <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/tr/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
+                           <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
                         </ul>
                      </div>
                      <div class="footer-main-col footer-externalPaymentMethods">
@@ -42,27 +42,27 @@
                         <h3 class="footer-external-logo-title">Sponsorluklar</h3>
                         <ul class="footer-external-logo-list">
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/e72318b1-tysonlogo-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/0d767366-11382-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/2814122e-30291-300x163-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/d3b3ba6d-30292-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/72f83b7c-31103-300x150-1.png"></figure>
                               </a>
                            </li>
@@ -110,11 +110,343 @@
                      </div>
                   </div>
                </section>
-               <div class="MobileBottomNavigationWrapper">
-                  <mobile-bottom-navigation cmsendpoint="/apijson" lang="tr" env="prod" userroles="everyone" class="MobileBottomNavigation"></mobile-bottom-navigation>
+                <style><style>
+                                :host {
+                                    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"
+                                }
+
+                                .NavigationWrapper {
+                                    background: #212529;
+                                    );width: 100%;
+                                    height: 20px
+                                }
+
+                                .NavigationPanel {
+                                    position: fixed;
+                                    bottom: -0;
+                                    left: 50%;
+                                    transform: translateX(-50%);
+                                    width: 100%;
+                                    height: 54px;
+                                    z-index: 30;
+                                    background: #212121;
+                                }
+
+                                .NavigationWindow {
+                                    display: flex;
+                                    flex-direction: column;
+                                    background: var(--emfe-w-color-white, #FFFFFF);
+                                    position: absolute;
+                                    bottom: 27px;
+                                    left: 0;
+                                    opacity: 0;
+                                    transform: translateY(100%);
+                                    border-radius: 5px 5px 0 0;
+                                    transition: 0.25s ease;
+                                    width: 100%;
+                                    background: #151516;
+                                }
+
+                                .NavigationWindow.NavigationWindowOpened {
+                                    opacity: 1;
+                                    padding-bottom: 40px;
+                                    transform: translateY(5px)
+                                }
+
+                                .NavigationWindow .ModalCloseBtn {
+                                    position: absolute;
+                                    top: 10px;
+                                    right: 10px;
+                                    width: 24px;
+                                    height: 24px;
+                                    border-radius: 100%;
+                                    color: var(--emfe-w-color-secondary, #FD2839);
+                                    background: rgba(255, 255, 255, 0.1);
+                                    cursor: pointer;
+                                    transition: all 150ms ease-in-out;
+                                    z-index: 1
+                                }
+
+                                .NavigationWindow .ModalCloseBtn svg {
+                                    width: 24px;
+                                    height: 24px;
+                                    margin: 50%;
+                                    transform: translate(-50%, -50%)
+                                }
+
+                                .NavigationWindow .ModalCloseBtn:hover {
+                                    background: rgba(255, 255, 255, 0.2)
+                                }
+
+                                .NavigationWindow .NavigationWindowTitle {
+                                    padding: 16px 10px;
+                                    margin: 0;
+                                    color: var(--emfe-w-color-contrast, #07072A);
+                                    font-size: 12px;
+                                    flex-grow: 0
+                                }
+
+                                .NavigationWindow .NavigationSecondaryWrapper {
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    padding: 0 10px;
+                                    flex-grow: 1;
+                                    overflow-y: auto;
+                                    -webkit-overflow-scrolling: touch
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem0 {
+                                    grid-area: item0
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem1 {
+                                    grid-area: item1
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem2 {
+                                    grid-area: item2
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem3 {
+                                    grid-area: item3
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem4 {
+                                    grid-area: item4
+                                }
+
+                                .NavigationBar {
+                                    background: var(--emfe-w-color-white, #FFFFFF);
+                                    display: grid;
+                                    grid-auto-flow: column;
+                                    grid-template-columns: 1fr 1fr 20% 1fr 1fr;
+                                    grid-template-areas: "item0 item1 . item2 item3";
+                                    height: 52px;
+                                    border-radius: 5px;
+                                    position: relative;
+                                    background: #151516;
+                                }
+
+                                .NavigationBar.NavigationBarSimple {
+                                    grid-template-columns: repeat(5, 20%);
+                                    grid-template-areas: "item0 item1 item2 item3 item4"
+                                }
+
+                                .NavigationBar.NavigationBarOpened {
+                                    box-shadow: 0 0 11px rgba(0, 0, 0, 0.09)
+                                }
+
+                                .NavigationPrimaryItemAnchor,.NavigationSecondaryItemAnchor {
+                                    display: flex;
+                                    flex-direction: column;
+                                    align-items: center;
+                                    justify-content: center;
+                                    text-decoration: none;
+                                    color: #fff;
+                                    font-size: 9px;
+                                    overflow: hidden;
+                                    white-space: nowrap
+                                }
+
+                                .NavigationPrimaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationSecondaryItemImg {
+                                    width: 31px;
+                                }
+
+                                .NavigationPrimaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationSecondaryItemLabel {
+                                    margin: 0;
+                                    overflow: hidden;
+                                    white-space: nowrap;
+                                    text-overflow: ellipsis;
+                                    width: 100%;
+                                    text-align: center
+                                }
+
+                                .NavigationSecondaryItemAnchor {
+                                    width: 25%;
+                                    padding: 10px 0
+                                }
+
+                                .ActiveItem {
+                                    background-color: var(--emfe-w-color-primary, #D0046C)
+                                }
+
+                                .NavigationButton {
+                                    background: #151516;
+                                    border: none;
+                                    width: 20%;
+                                    height: 100%;
+                                    position: absolute;
+                                    top: 50%;
+                                    left: 50%;
+                                    transform: translate(-50%, -50%);
+                                    padding: 0
+                                }
+
+                                .NavigationButton .middleIcon {
+                                    width: 32px;
+                                    height: 32px
+                                }
+
+                                .NavigationButton:before {
+                                    border-left: 8px solid transparent;
+                                    border-right: 8px solid transparent;
+                                    border-top: 8px solid #F4F4F4;
+                                    content: "";
+                                    height: 0;
+                                    left: 50%;
+                                    opacity: 0;
+                                    position: absolute;
+                                    top: 0;
+                                    transform: translateX(-50%);
+                                    width: 0
+                                }
+
+                                .NavigationButton.NavigationButtonActive:before {
+                                    opacity: 1;
+                                    transition: 0.7s ease
+                                }
+
+                                body.HasNavigation>#chat-widget-container {
+                                    z-index: 12!important;
+                                    bottom: calc(6.5rem + env(safe-area-inset-bottom))!important;
+                                    max-height: calc(100% - 6.5rem - env(safe-area-inset-bottom))!important
+                                }
+
+                                .NavigationWrapper {
+                                    z-index: 13;
+                                    min-height: -webkit-fill-available;
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWrapper) {
+                                    height: 7.5rem
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationBar),.NavigationWrapper mobile-bottom-navigation::part(NavigationButton) {
+                                    background: #151516
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationPrimaryItemImgWrapper),.NavigationWrapper mobile-bottom-navigation::part(NavigationSecondaryItemImgWrapper) {
+                                    display: flex;
+                                    flex-direction: column;
+                                    justify-content: center
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationButton NavigationButtonActive):before {
+                                    content: none
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWindow NavigationWindowOpened) {
+                                    border-bottom: none;
+                                    box-sizing: border-box
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWindowTitle) {
+                                    display: none
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(ModalCloseBtn) {
+                                    width: 1.4rem;
+                                    height: 1.4rem;
+                                    background: none;
+                                    top: .5rem;
+                                    right: .5rem;
+                                    color: #f9c408
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(w-6 h-6) {
+                                    width: 1.4rem
+                                }
+
+
+                     </style>
+                    
+                     
+                     <div class="NavigationWrapper" part="NavigationWrapper">
+   <div class="NavigationPanel" part="NavigationPanel">
+      <div class="NavigationWindow " part="NavigationWindow ">
+         <span class="ModalCloseBtn" part="ModalCloseBtn" role="button">
+            <slot name="close" part="ModalCloseBtnSlot" onclick="openbottommenu()">
+               <svg class="w-6 h-6" part="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path part="ModalCloseBtnPath" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+               </svg>
+            </slot>
+         </span>
+         <h3 class="NavigationWindowTitle" part="NavigationWindowTitle">secondaryMenuTitle</h3>
+         <div class="NavigationSecondaryWrapper" part="NavigationSecondaryWrapper">
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/955ce019-sweet-bonanza.svg" alt="Sweet Bonanza"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Sweet Bonanza</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/f054503a-gates-of-olympus-1.svg" alt="Gates"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/9e362761-gates-of-olympus-1000.svg" alt="Gates 1000"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates 1000</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/c1904bb6-aviator.svg" alt="Aviator"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Aviator</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/76990805-jojo-bonanza.svg" alt="Jojo Bonanza"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Jojo Bonanza</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/0ac66e63-gates-of-jojobet.svg" alt="Gates of Jojo"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates of Jojo</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/fe1dd5c4-auto-roulette-live.svg" alt="Auto Roulette"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Auto Roulette</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/2677e8fd-immersive-roulette-live.svg" alt="Immersive"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Immersive</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/342b0fa6-jojo-turkce-rulet.svg" alt="Türkçe Rulet"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Türkçe Rulet</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/01b8cffd-poker2.svg" alt="Poker Klas"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Poker Klas</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/fb5a9ae4-xxxtreme-roulette-live.svg" alt="XXXTREME"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">XXXTREME</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/dbb133e9-lightning-roulette.svg" alt="Lightning"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Lightning</p>
+            </div>
+         </div>
+      </div>
+      <div class="NavigationBar  " part="NavigationBar  ">
+         <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor " onclick="window.top.location.href = 'https://direct.lc.chat/16139457/';">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2023/02/4adec39e-canli-destek-jojo.svg" alt="Canlı Destek"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Destek</p>
+         </div>
+         <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/casino'">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/09/01efa9c7-jojo-casino-buton2.svg" alt="Casino"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Casino</p>
+         </div>
+         <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/livecasino'">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/09/95cf08ed-canli-casino-sari.svg" alt="Canlı Casino"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Casino</p>
+         </div>
+         <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/tournaments'">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/10/d7323f32-jojo-ozl-tur-ham-ico-clr-2.svg" alt="35.000.000"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">35.000.000</p>
+         </div>
+         <button class="NavigationButton " onclick="openbottommenu()" type="button" part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg" class="middleIcon" alt="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg"></span></button>
+      </div>
+   </div>
+</div>
                   <span id="ch_1114113586" class=""> </span>
                   
-               </div>
+               
             </footer>
             <style>
                .dnone{
@@ -122,6 +454,29 @@
                }
             </style>
              <script>
+               // jQuery kodu
+$(document).ready(function(){
+  $('.HamburgerHeaderItem').click(function(){
+    // Tüm submenüleri gizle
+    $('.HamburgerSubMenu').addClass('dnone');
+
+    // Tüm item’lardan IsSelected’ı kaldır
+    $('.HamburgerHeaderItem').removeClass('IsSelected');
+
+    // Tıklanan item’a IsSelected ekle
+    $(this).addClass('IsSelected');
+
+    // Tıklanan item’ın ID’sini al (örn: "m3")
+    var clickedId = $(this).attr('id');
+
+    // Submenü ID’sini oluştur (örn: "hm3")
+    var submenuId = 'h' + clickedId;
+
+    // İlgili submenüyü göster
+    $('#' + submenuId).removeClass('dnone');
+  });
+});
+
    function openLoginModal(){
       $(".LoginModal").toggleClass("dnone");
    }
@@ -202,6 +557,13 @@ function loginorpay(){
       $('#menu').toggleClass('IsActive');
       $('#menublurbg').toggleClass('dnone');
    }
+   function openbottommenu(){
+      $('.NavigationWindow').toggleClass('NavigationWindowOpened');
+      $('.NavigationBar').toggleClass('NavigationBarOpened');
+      $('.NavigationButton').toggleClass('NavigationButtonActive');
+
+
+   }
 </script>
 <div class="ModalWindow LoginModal dnone">
    <div class="ModalOverlay"></div>
@@ -218,7 +580,7 @@ function loginorpay(){
       <div class="LoginFormWrapper">
          <div class="LoginFormMobileHeader">
             <h2>Hoşgeldiniz</h2>
-            <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
+            <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
          </div>
          <form class="Form" novalidate="" id="login_form" onsubmit="logIn()">
             <label class="InputContainer FormLabel ">
@@ -230,11 +592,13 @@ function loginorpay(){
                <div class="InputWrap"><input type="password" placeholder="Lütfen şifrenizi girin." name="password" data-validation-required="true"><span class="PasswordToggleIcon OpenEye"></span></div>
             </label>
             <div class="CustomLoginContent">
-               <p>Güncel adresimiz <strong>www.jojobet1011</strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.jojobet1012</strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="/">https://dub.pro/jojoyagit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
+               <p>Güncel adresimiz <strong>www.<?=$guncel?></strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.<?=$guncel2?></strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="/">https://dub.pro/jojoyagit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
                   <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="/stateless-jojobet/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="/stateless-jojobet/2019/06/61911974-telegram.png" alt="" width="35" height="35"></a>
                </p>
             </div>
-            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
+            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button>
+            <p class="Message Error dnone" id="errmsg">Giriş başarısız, lütfen kullanıcı adı ve şifrenizi kontrol ediniz</p>
+            <a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
             <div class="LoginFormForgot"><button type="button" class="Link">Şifremi Unuttum</button></div>
          </form>
       </div>
@@ -316,6 +680,47 @@ function loginorpay(){
          </div>
       </div>
       <div class="MRIExpand Hidden"></div>
-      
+     <!-- LiveChat Kodunuz -->
+<script>
+    window.__lc = window.__lc || {};
+    window.__lc.license = 16139457;
+    window.__lc.integration_name = "manual_channels";
+    window.__lc.product_name = "livechat";
+    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}
+        var e={_q:[],_h:null,_v:"2.0",
+            on:function(){i(["on",c.call(arguments)])},
+            once:function(){i(["once",c.call(arguments)])},
+            off:function(){i(["off",c.call(arguments)])},
+            get:function(){
+                if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");
+                return i(["get",c.call(arguments)])
+            },
+            call:function(){i(["call",c.call(arguments)])},
+            init:function(){
+                var n=t.createElement("script");
+                n.async=!0;
+                n.type="text/javascript";
+                n.src="https://cdn.livechatinc.com/tracking.js";
+                t.head.appendChild(n)
+            }
+        };
+        !n.__lc.asyncInit && e.init();
+        n.LiveChatWidget = n.LiveChatWidget || e
+    }(window,document,[].slice));
+</script>
+<noscript>
+    <a href="https://www.livechat.com/chat-with/16139457/" rel="nofollow">Chat with us</a>,
+    powered by <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+</noscript>
+<!-- LiveChat Kodunuz Sonu -->
+
+<!-- Widget hazır olduğunda gizlemek için ek kod -->
+<script>
+    window.LiveChatWidget && window.LiveChatWidget.on('ready', function(){
+        window.LiveChatWidget.call('hide');
+    });
+</script>
+
+
    </body>
 </html>
