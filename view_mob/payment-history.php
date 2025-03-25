@@ -2,10 +2,10 @@
    <div class="TransactionHistoryContent ComponentLayout InstanceOperatorMyCasinoContent Layout">
       <ul class="ComponentTabsHeader InstanceOperatorMyCasinoTabsHeader TabsHeader List ListUnordered">
          <li class="ListItem">
-            <div class="ComponentTabsItemHeader InstanceOperatorMyCasinoTabsLimitsItem TabItem"><a class="ComponentAnchor ComponentButton InstanceOperatorMyCasinoTabsLimitsButton Button Anchor" href="/tr/my-casino/gaming-history"><span class="AnchorText">Oyun Geçmişi</span></a></div>
+            <div class="ComponentTabsItemHeader InstanceOperatorMyCasinoTabsLimitsItem TabItem"><a class="ComponentAnchor ComponentButton InstanceOperatorMyCasinoTabsLimitsButton Button Anchor" href="javascript:;" onclick=""><span class="AnchorText">Oyun Geçmişi</span></a></div>
          </li>
          <li class="ListItem">
-            <div class="ComponentTabsItemHeader InstanceOperatorMyCasinoTabsLimitsItem TabItem"><a class="ComponentAnchor IsActive ComponentButton InstanceOperatorMyCasinoTabsLimitsButton Button Anchor" href="/tr/my-casino/payment-history/deposit"><span class="AnchorText">Ödeme Geçmişi</span></a></div>
+            <div class="ComponentTabsItemHeader InstanceOperatorMyCasinoTabsLimitsItem TabItem"><a class="ComponentAnchor IsActive ComponentButton InstanceOperatorMyCasinoTabsLimitsButton Button Anchor" href="javascript:;" onclick=""><span class="AnchorText">Ödeme Geçmişi</span></a></div>
          </li>
       </ul>
       <div class="ComponentTabsContent">
@@ -13,8 +13,8 @@
             <div class="PaymentHistoryTabContent ComponentLayout InstanceMycasinoPaymentHistoryLayout Layout">
                <div class="paymentHistorySubmenu">
                   <ul class="TransactionHistoryNavigator List ListUnordered">
-                     <li class="NavigatorItem NavigatorDeposit ListItem"><a class="ComponentAnchor IsActive ComponentButton Button Anchor" href="/tr/my-casino/payment-history/deposit"><span class="AnchorText">Ödeme Geçmişi</span></a></li>
-                     <li class="NavigatorItem NavigatorDeposit ListItem"><a class="ComponentAnchor ComponentButton Button Anchor" href="/tr/my-casino/payment-history/withdraw"><span class="AnchorText">Çekim Geçmişi</span></a></li>
+                     <li class="NavigatorItem NavigatorDeposit ListItem"><a class="ComponentAnchor IsActive ComponentButton Button Anchor" href="javascript:;" onclick=""><span class="AnchorText">Ödeme Geçmişi</span></a></li>
+                     <li class="NavigatorItem NavigatorDeposit ListItem"><a class="ComponentAnchor ComponentButton Button Anchor" href="javascript:;" onclick=""><span class="AnchorText">Çekim Geçmişi</span></a></li>
                   </ul>
                   <h1 class="ComponentTitle InstancePaymentHistoryTitle Title">Ödeme Geçmişi</h1>
                </div>
