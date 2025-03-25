@@ -268,6 +268,7 @@ function loginorpay(){
                </p>
             </div>
             <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
+            <p class="Message Error dnone" id="errmsg">Giriş başarısız, lütfen kullanıcı adı ve şifrenizi kontrol ediniz</p>
             <div class="LoginFormForgot"><button type="button" class="Link">Şifremi Unuttum</button></div>
          </form>
       </div>
