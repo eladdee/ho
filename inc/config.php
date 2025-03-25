@@ -1,7 +1,7 @@
 <?php
 
 require_once 'mobile.class.php';
-$title = " MeritKing 1615 Meritking1615 com Meritking1616 com Meritking 1616 https://meritking1615.com";
+$title = "holiganbet 1087 - holiganbet1087.com - Holiganbet 1087 com giriş - holiganbet1087 com";
 ob_start();
 session_start();
 error_reporting(0);
