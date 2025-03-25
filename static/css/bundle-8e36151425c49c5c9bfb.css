@@ -7745,7 +7745,7 @@ iframe {
 }
 .RecentWinnersWidget .slider,
 .RecentWinnersWidget .slider-frame {
-  height: 100%;
+  
 }
 @media (min-width: 1100px) {
   .RecentWinnersWidget .slider,
@@ -14969,7 +14969,8 @@ iframe {
   }
 }
 .GameCategoriesWrapper {
-  background-color: #111522;
+  background-color: #111522 !important;
+
 }
 .GameCategorySpinnerWrapper {
   height: 5rem;
