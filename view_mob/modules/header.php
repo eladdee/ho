@@ -10252,7 +10252,7 @@ $oneweeklater = strtotime("+6 day");
 echo strftime("%d %B", $yesterday);
 echo '-';
 echo strftime("%d %B", $oneweeklater);
-
+echo ' ';
 ?>
 50.000.000₺ Ödüllü Holigan Turnuvası</div> <div>Başlangıç <?=date("d/m/Y")?> 00:00 Bitiş <?=date("d/m/Y", strtotime("+1 week"))?> 23:59</div></div></div> <casino-tournaments-rank translationurl=""></casino-tournaments-rank></div><style>.Thumbnail{cursor:pointer}.PrizeSec,.RankSec{background-color:#f9c408}.PrizeIcon svg path,.UserIcon svg path{fill:#294c0b}</style></div>
                                        </casino-tournaments-player-rank>
