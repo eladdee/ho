@@ -2726,7 +2726,7 @@ iframe {
   margin-right: 0;
   display: block;
   position: relative;
-  width: 0;
+  width: 50px;
 }
 @media (min-width: 1100px) {
   .ContentTriggerWrapper {
@@ -18631,7 +18631,7 @@ body.Page-Casino.Page-Sports .SectionContent {
   stroke: none;
 }
 .BurgerNavMenuWrapper {
-  z-index: 5;
+  z-index: 65;
 }
 .TriggerMainNav.IsActive .OperatorMainMenu.CrossSellMenu {
   width: 90vw;
