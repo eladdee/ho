@@ -8,7 +8,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/pokerklas:poker-klas-37036/?prevRoute=%2Flive-casino">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2025/01/bc3a0d0e-casinoslidermobile.png" media="(max-width:450px)">
@@ -25,7 +25,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:crazy-time-35744071237/?prevRoute=%2Flive-casino">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2024/12/f7d15d6c-casinoslidermobile.png" media="(max-width:450px)">
@@ -42,7 +42,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/bigtimegaming:bonanza-62241/?prevRoute=%2Fcasino%2Fcat%2Fbigtimegaming">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2024/11/2b0bcdb0-casinoslidermobile.png" media="(max-width:450px)">
@@ -59,7 +59,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic-casino:holigan-rush-1000-69164/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2024/10/8ff8ecb1-casinoslidermobile.png" media="(max-width:450px)">
@@ -76,7 +76,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic-casino:holigan-bonanza-63980/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2024/10/229cf64a-casinoslidermobile.png" media="(max-width:450px)">
@@ -93,7 +93,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2024/06/1c12921b-casinoslidermobile.png" media="(max-width:450px)">
@@ -110,7 +110,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic-casino:holigan-bonanza-1000-70584/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-casino">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2024/06/e5614d62-casinoslidermobile.png" media="(max-width:450px)">
@@ -127,7 +127,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#32438">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2024/06/18a57302-casinoslidermobile.png" media="(max-width:450px)">
@@ -144,7 +144,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic-casino:holigan-princess-1000-68005/?prevRoute=%2Fcasino">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2023/11/b5cd2802-casinoslidermobile.jpg" media="(max-width:450px)">
@@ -161,7 +161,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/ozel-turnuva">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2023/06/cec2b3ef-casinoslidermobile.png" media="(max-width:450px)">
@@ -178,7 +178,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/pokerklas:poker-klas-37036/?prevRoute=%2Flive-casino">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2023/04/f53276cd-casinoslidermobile.png" media="(max-width:450px)">
@@ -195,7 +195,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/evolution:casino-hold-em-8340067024/?prevRoute=%2Flive-casino%2Fcat%2Fevolution">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2023/04/2693ad6b-casinoslidermobile.png" media="(max-width:450px)">
@@ -212,7 +212,7 @@
                      <div class="Description">
                         <div></div>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#22005">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="/stateless-holiganbet-one/2022/11/68087583-casinoslidermobile.png" media="(max-width:450px)">
@@ -296,798 +296,798 @@
                   </button>
                   <div class="HorizontalScrollBar ComponentLayout NewCatScroll">
                      <ul class="ExtraCategories ComponentList InstanceOperatorHomeExtraList List ListUnordered">
-                        <li class="ListItem"><a class="ComponentAnchor IsActive Anchor" href="/tr/casino"><span class="AnchorText">Lobi</span></a></li>
+                        <li class="ListItem"><a class="ComponentAnchor IsActive Anchor" href="javascript:;" onclick="loginorpay()"><span class="AnchorText">Lobi</span></a></li>
                      </ul>
                      <nav class="OperatorCasinoCategories ComponentGameCategories InstanceCasino GameNavContainer OperatorCasino">
                         <div class="GameCategoriesSwipe">
                            <ul class="GameCategories Loaded CategoriesList HorizontalScrollBar List ListUnordered">
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Top 30 Casino" id="CategoryList-Top-30-Casino" href="/tr/casino/cat/top-30-casino">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Top 30 Casino" id="CategoryList-Top-30-Casino" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Top-30-Casino-Text">Top 30 Casino</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Holigan Turnuva" id="CategoryList-Holigan-Turnuva" href="/tr/casino/cat/holigan-turnuva">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Holigan Turnuva" id="CategoryList-Holigan-Turnuva" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Holigan-Turnuva-Text">Holigan Turnuva</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Holiganbet'e Özel" id="CategoryList-Holiganbet'e-Özel" href="/tr/casino/cat/holiganbet'e-özel">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Holiganbet'e Özel" id="CategoryList-Holiganbet'e-Özel" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Holiganbet'e-Özel-Text">Holiganbet'e Özel</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Turnuva Oyunları" id="CategoryList-Turnuva-Oyunları" href="/tr/casino/cat/turnuva-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Turnuva Oyunları" id="CategoryList-Turnuva-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Turnuva-Oyunları-Text">Turnuva Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yılbaşı Slotlar" id="CategoryList-Yılbaşı-Slotlar" href="/tr/casino/cat/yılbaşı-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yılbaşı Slotlar" id="CategoryList-Yılbaşı-Slotlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Yılbaşı-Slotlar-Text">Yılbaşı Slotlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Casino" id="CategoryList-Pragmatic-Casino" href="/tr/casino/cat/pragmatic-casino">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Casino" id="CategoryList-Pragmatic-Casino" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Pragmatic-Casino-Text">Pragmatic Casino</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Amusnet" id="CategoryList-EGT-Amusnet" href="/tr/casino/cat/egt-amusnet">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Amusnet" id="CategoryList-EGT-Amusnet" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-EGT-Amusnet-Text">EGT Amusnet</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Digital" id="CategoryList-EGT-Digital" href="/tr/casino/cat/egt-digital">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Digital" id="CategoryList-EGT-Digital" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-EGT-Digital-Text">EGT Digital</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Play'n GO" id="CategoryList-Play'n-GO" href="/tr/casino/cat/play'n-go">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Play'n GO" id="CategoryList-Play'n-GO" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Play'n-GO-Text">Play'n GO</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Aperion" id="CategoryList-Aperion" href="/tr/casino/cat/aperion">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Aperion" id="CategoryList-Aperion" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Aperion-Text">Aperion</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Apollo Games" id="CategoryList-Apollo-Games" href="/tr/casino/cat/apollo-games">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Apollo Games" id="CategoryList-Apollo-Games" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Apollo-Games-Text">Apollo Games</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Atari Oyunlari" id="CategoryList-Atari-Oyunlari" href="/tr/casino/cat/atari-oyunlari">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Atari Oyunlari" id="CategoryList-Atari-Oyunlari" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Atari-Oyunlari-Text">Atari Oyunlari</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AMATİC" id="CategoryList-AMATİC" href="/tr/casino/cat/amati̇c">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AMATİC" id="CategoryList-AMATİC" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-AMATİC-Text">AMATİC</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Antik Mısır Oyunları" id="CategoryList-Antik-Mısır-Oyunları" href="/tr/casino/cat/antik-mısır-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Antik Mısır Oyunları" id="CategoryList-Antik-Mısır-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Antik-Mısır-Oyunları-Text">Antik Mısır Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AleaPlay" id="CategoryList-AleaPlay" href="/tr/casino/cat/aleaplay">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AleaPlay" id="CategoryList-AleaPlay" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-AleaPlay-Text">AleaPlay</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Arcadem" id="CategoryList-Arcadem" href="/tr/casino/cat/arcadem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Arcadem" id="CategoryList-Arcadem" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Arcadem-Text">Arcadem</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AspectGames" id="CategoryList-AspectGames" href="/tr/casino/cat/aspectgames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AspectGames" id="CategoryList-AspectGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-AspectGames-Text">AspectGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AvatarUx" id="CategoryList-AvatarUx" href="/tr/casino/cat/avatarux">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AvatarUx" id="CategoryList-AvatarUx" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-AvatarUx-Text">AvatarUx</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Balıkçılık ve Avcılık" id="CategoryList-Balıkçılık-ve-Avcılık" href="/tr/casino/cat/balıkçılık-ve-avcılık">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Balıkçılık ve Avcılık" id="CategoryList-Balıkçılık-ve-Avcılık" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Balıkçılık-ve-Avcılık-Text">Balıkçılık ve Avcılık</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Betixon" id="CategoryList-Betixon" href="/tr/casino/cat/betixon">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Betixon" id="CategoryList-Betixon" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Betixon-Text">Betixon</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BetSoft" id="CategoryList-BetSoft" href="/tr/casino/cat/betsoft">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BetSoft" id="CategoryList-BetSoft" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-BetSoft-Text">BetSoft</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BF Games" id="CategoryList-BF-Games" href="/tr/casino/cat/bf-games">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BF Games" id="CategoryList-BF-Games" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-BF-Games-Text">BF Games</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BGaming" id="CategoryList-BGaming" href="/tr/casino/cat/bgaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BGaming" id="CategoryList-BGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-BGaming-Text">BGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BigTimeGaming" id="CategoryList-BigTimeGaming" href="/tr/casino/cat/bigtimegaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BigTimeGaming" id="CategoryList-BigTimeGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-BigTimeGaming-Text">BigTimeGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BinGORDO" id="CategoryList-BinGORDO" href="/tr/casino/cat/bingordo">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BinGORDO" id="CategoryList-BinGORDO" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-BinGORDO-Text">BinGORDO</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Boldplay" id="CategoryList-Boldplay" href="/tr/casino/cat/boldplay">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Boldplay" id="CategoryList-Boldplay" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Boldplay-Text">Boldplay</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BoomingGames" id="CategoryList-BoomingGames" href="/tr/casino/cat/boominggames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BoomingGames" id="CategoryList-BoomingGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-BoomingGames-Text">BoomingGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Cadılar Bayramı" id="CategoryList-Cadılar-Bayramı" href="/tr/casino/cat/cadılar-bayramı">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Cadılar Bayramı" id="CategoryList-Cadılar-Bayramı" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Cadılar-Bayramı-Text">Cadılar Bayramı</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Caleta" id="CategoryList-Caleta" href="/tr/casino/cat/caleta">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Caleta" id="CategoryList-Caleta" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Caleta-Text">Caleta</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="CT Gaming" id="CategoryList-CT-Gaming" href="/tr/casino/cat/ct-gaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="CT Gaming" id="CategoryList-CT-Gaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-CT-Gaming-Text">CT Gaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Cüce Cin Oyunları" id="CategoryList-Cüce-Cin-Oyunları" href="/tr/casino/cat/cüce-cin-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Cüce Cin Oyunları" id="CategoryList-Cüce-Cin-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Cüce-Cin-Oyunları-Text">Cüce Cin Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Değerli taşlar" id="CategoryList-Değerli-taşlar" href="/tr/casino/cat/değerli-taşlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Değerli taşlar" id="CategoryList-Değerli-taşlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Değerli-taşlar-Text">Değerli taşlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Denizcilik Oyunları" id="CategoryList-Denizcilik-Oyunları" href="/tr/casino/cat/denizcilik-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Denizcilik Oyunları" id="CategoryList-Denizcilik-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Denizcilik-Oyunları-Text">Denizcilik Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Dövüş Oyunları" id="CategoryList-Dövüş-Oyunları" href="/tr/casino/cat/dövüş-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Dövüş Oyunları" id="CategoryList-Dövüş-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Dövüş-Oyunları-Text">Dövüş Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Drops&amp;Wins" id="CategoryList-Drops&amp;Wins" href="/tr/casino/cat/drops&amp;wins">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Drops&amp;Wins" id="CategoryList-Drops&amp;Wins" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Drops&amp;Wins-Text">Drops&amp;Wins</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jackpot Play" id="CategoryList-Jackpot-Play" href="/tr/casino/cat/jackpot-play">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jackpot Play" id="CategoryList-Jackpot-Play" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Jackpot-Play-Text">Jackpot Play</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Edict" id="CategoryList-Edict" href="/tr/casino/cat/edict">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Edict" id="CategoryList-Edict" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Edict-Text">Edict</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Endorphina" id="CategoryList-Endorphina" href="/tr/casino/cat/endorphina">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Endorphina" id="CategoryList-Endorphina" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Endorphina-Text">Endorphina</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Erkekler Kulubu" id="CategoryList-Erkekler-Kulubu" href="/tr/casino/cat/erkekler-kulubu">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Erkekler Kulubu" id="CategoryList-Erkekler-Kulubu" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Erkekler-Kulubu-Text">Erkekler Kulubu</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EspressoGames" id="CategoryList-EspressoGames" href="/tr/casino/cat/espressogames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EspressoGames" id="CategoryList-EspressoGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-EspressoGames-Text">EspressoGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Etnik Oyunlar" id="CategoryList-Etnik-Oyunlar" href="/tr/casino/cat/etnik-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Etnik Oyunlar" id="CategoryList-Etnik-Oyunlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Etnik-Oyunlar-Text">Etnik Oyunlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EurasianGaming" id="CategoryList-EurasianGaming" href="/tr/casino/cat/eurasiangaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EurasianGaming" id="CategoryList-EurasianGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-EurasianGaming-Text">EurasianGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evoplay" id="CategoryList-Evoplay" href="/tr/casino/cat/evoplay">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evoplay" id="CategoryList-Evoplay" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Evoplay-Text">Evoplay</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FantasmaGames" id="CategoryList-FantasmaGames" href="/tr/casino/cat/fantasmagames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FantasmaGames" id="CategoryList-FantasmaGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-FantasmaGames-Text">FantasmaGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Fazi" id="CategoryList-Fazi" href="/tr/casino/cat/fazi">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Fazi" id="CategoryList-Fazi" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Fazi-Text">Fazi</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FlipLuck" id="CategoryList-FlipLuck" href="/tr/casino/cat/flipluck">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FlipLuck" id="CategoryList-FlipLuck" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-FlipLuck-Text">FlipLuck</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FREESPIN SATIN AL" id="CategoryList-FREESPIN-SATIN-AL" href="/tr/casino/cat/freespin-satin-al">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FREESPIN SATIN AL" id="CategoryList-FREESPIN-SATIN-AL" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-FREESPIN-SATIN-AL-Text">FREESPIN SATIN AL</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Fugaso" id="CategoryList-Fugaso" href="/tr/casino/cat/fugaso">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Fugaso" id="CategoryList-Fugaso" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Fugaso-Text">Fugaso</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GameArt" id="CategoryList-GameArt" href="/tr/casino/cat/gameart">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GameArt" id="CategoryList-GameArt" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-GameArt-Text">GameArt</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GamesKingdom" id="CategoryList-GamesKingdom" href="/tr/casino/cat/gameskingdom">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GamesKingdom" id="CategoryList-GamesKingdom" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-GamesKingdom-Text">GamesKingdom</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamevy" id="CategoryList-Gamevy" href="/tr/casino/cat/gamevy">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamevy" id="CategoryList-Gamevy" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Gamevy-Text">Gamevy</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GamingCorps" id="CategoryList-GamingCorps" href="/tr/casino/cat/gamingcorps">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GamingCorps" id="CategoryList-GamingCorps" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-GamingCorps-Text">GamingCorps</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamomat" id="CategoryList-Gamomat" href="/tr/casino/cat/gamomat">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamomat" id="CategoryList-Gamomat" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Gamomat-Text">Gamomat</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamzix" id="CategoryList-Gamzix" href="/tr/casino/cat/gamzix">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamzix" id="CategoryList-Gamzix" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Gamzix-Text">Gamzix</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Genii" id="CategoryList-Genii" href="/tr/casino/cat/genii">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Genii" id="CategoryList-Genii" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Genii-Text">Genii</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Goblin Oyunları" id="CategoryList-Goblin-Oyunları" href="/tr/casino/cat/goblin-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Goblin Oyunları" id="CategoryList-Goblin-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Goblin-Oyunları-Text">Goblin Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GoldenHero" id="CategoryList-GoldenHero" href="/tr/casino/cat/goldenhero">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GoldenHero" id="CategoryList-GoldenHero" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-GoldenHero-Text">GoldenHero</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Habanero" id="CategoryList-Habanero" href="/tr/casino/cat/habanero">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Habanero" id="CategoryList-Habanero" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Habanero-Text">Habanero</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hacksaw" id="CategoryList-Hacksaw" href="/tr/casino/cat/hacksaw">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hacksaw" id="CategoryList-Hacksaw" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Hacksaw-Text">Hacksaw</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hayvanlar Alemi Oyunları" id="CategoryList-Hayvanlar-Alemi-Oyunları" href="/tr/casino/cat/hayvanlar-alemi-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hayvanlar Alemi Oyunları" id="CategoryList-Hayvanlar-Alemi-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Hayvanlar-Alemi-Oyunları-Text">Hayvanlar Alemi Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hazine Oyunları" id="CategoryList-Hazine-Oyunları" href="/tr/casino/cat/hazine-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hazine Oyunları" id="CategoryList-Hazine-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Hazine-Oyunları-Text">Hazine Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="High5Games" id="CategoryList-High5Games" href="/tr/casino/cat/high5games">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="High5Games" id="CategoryList-High5Games" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-High5Games-Text">High5Games</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hoelle Games" id="CategoryList-Hoelle-Games" href="/tr/casino/cat/hoelle-games">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hoelle Games" id="CategoryList-Hoelle-Games" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Hoelle-Games-Text">Hoelle Games</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="IronDogStudio" id="CategoryList-IronDogStudio" href="/tr/casino/cat/irondogstudio">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="IronDogStudio" id="CategoryList-IronDogStudio" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-IronDogStudio-Text">IronDogStudio</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="iMoon" id="CategoryList-iMoon" href="/tr/casino/cat/imoon">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="iMoon" id="CategoryList-iMoon" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-iMoon-Text">iMoon</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jackpot Slotlar" id="CategoryList-Jackpot-Slotlar" href="/tr/casino/cat/jackpot-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jackpot Slotlar" id="CategoryList-Jackpot-Slotlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Jackpot-Slotlar-Text">Jackpot Slotlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Joker Oyunları" id="CategoryList-Joker-Oyunları" href="/tr/casino/cat/joker-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Joker Oyunları" id="CategoryList-Joker-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Joker-Oyunları-Text">Joker Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="JVL" id="CategoryList-JVL" href="/tr/casino/cat/jvl">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="JVL" id="CategoryList-JVL" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-JVL-Text">JVL</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="KA Gaming" id="CategoryList-KA-Gaming" href="/tr/casino/cat/ka-gaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="KA Gaming" id="CategoryList-KA-Gaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-KA-Gaming-Text">KA Gaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kadınlar Kulubu" id="CategoryList-Kadınlar-Kulubu" href="/tr/casino/cat/kadınlar-kulubu">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kadınlar Kulubu" id="CategoryList-Kadınlar-Kulubu" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Kadınlar-Kulubu-Text">Kadınlar Kulubu</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kajot" id="CategoryList-Kajot" href="/tr/casino/cat/kajot">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kajot" id="CategoryList-Kajot" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Kajot-Text">Kajot</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kalamba" id="CategoryList-Kalamba" href="/tr/casino/cat/kalamba">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kalamba" id="CategoryList-Kalamba" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Kalamba-Text">Kalamba</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kazı Kazan Oyunları" id="CategoryList-Kazı-Kazan-Oyunları" href="/tr/casino/cat/kazı-kazan-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kazı Kazan Oyunları" id="CategoryList-Kazı-Kazan-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Kazı-Kazan-Oyunları-Text">Kazı Kazan Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kış Oyunları" id="CategoryList-Kış-Oyunları" href="/tr/casino/cat/kış-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kış Oyunları" id="CategoryList-Kış-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Kış-Oyunları-Text">Kış Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kitap Oyunları" id="CategoryList-Kitap-Oyunları" href="/tr/casino/cat/kitap-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kitap Oyunları" id="CategoryList-Kitap-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Kitap-Oyunları-Text">Kitap Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kiron" id="CategoryList-Kiron" href="/tr/casino/cat/kiron">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kiron" id="CategoryList-Kiron" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Kiron-Text">Kiron</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Korku Oyunları" id="CategoryList-Korku-Oyunları" href="/tr/casino/cat/korku-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Korku Oyunları" id="CategoryList-Korku-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Korku-Oyunları-Text">Korku Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Leap" id="CategoryList-Leap" href="/tr/casino/cat/leap">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Leap" id="CategoryList-Leap" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Leap-Text">Leap</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Macera Oyunları" id="CategoryList-Macera-Oyunları" href="/tr/casino/cat/macera-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Macera Oyunları" id="CategoryList-Macera-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Macera-Oyunları-Text">Macera Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MaxWinGaming" id="CategoryList-MaxWinGaming" href="/tr/casino/cat/maxwingaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MaxWinGaming" id="CategoryList-MaxWinGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-MaxWinGaming-Text">MaxWinGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Meyveli Oyunlar" id="CategoryList-Meyveli-Oyunlar" href="/tr/casino/cat/meyveli-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Meyveli Oyunlar" id="CategoryList-Meyveli-Oyunlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Meyveli-Oyunlar-Text">Meyveli Oyunlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MGA" id="CategoryList-MGA" href="/tr/casino/cat/mga">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MGA" id="CategoryList-MGA" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-MGA-Text">MGA</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mistik Oyunlar" id="CategoryList-Mistik-Oyunlar" href="/tr/casino/cat/mistik-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mistik Oyunlar" id="CategoryList-Mistik-Oyunlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Mistik-Oyunlar-Text">Mistik Oyunlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mitolojik Oyunlar" id="CategoryList-Mitolojik-Oyunlar" href="/tr/casino/cat/mitolojik-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mitolojik Oyunlar" id="CategoryList-Mitolojik-Oyunlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Mitolojik-Oyunlar-Text">Mitolojik Oyunlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Megaways™ Slotlar" id="CategoryList-Megaways™-Slotlar" href="/tr/casino/cat/megaways™-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Megaways™ Slotlar" id="CategoryList-Megaways™-Slotlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Megaways™-Slotlar-Text">Megaways™ Slotlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming" id="CategoryList-Microgaming" href="/tr/casino/cat/microgaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming" id="CategoryList-Microgaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Microgaming-Text">Microgaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mobil Oyunlar" id="CategoryList-Mobil-Oyunlar" href="/tr/casino/cat/mobil-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mobil Oyunlar" id="CategoryList-Mobil-Oyunlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Mobil-Oyunlar-Text">Mobil Oyunlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Netent" id="CategoryList-Netent" href="/tr/casino/cat/netent">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Netent" id="CategoryList-Netent" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Netent-Text">Netent</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NetGaming" id="CategoryList-NetGaming" href="/tr/casino/cat/netgaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NetGaming" id="CategoryList-NetGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-NetGaming-Text">NetGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NolimitCity" id="CategoryList-NolimitCity" href="/tr/casino/cat/nolimitcity">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NolimitCity" id="CategoryList-NolimitCity" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-NolimitCity-Text">NolimitCity</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Novomatic" id="CategoryList-Novomatic" href="/tr/casino/cat/novomatic">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Novomatic" id="CategoryList-Novomatic" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Novomatic-Text">Novomatic</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneSpin4Win" id="CategoryList-OneSpin4Win" href="/tr/casino/cat/onespin4win">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneSpin4Win" id="CategoryList-OneSpin4Win" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-OneSpin4Win-Text">OneSpin4Win</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneTouch" id="CategoryList-OneTouch" href="/tr/casino/cat/onetouch">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneTouch" id="CategoryList-OneTouch" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-OneTouch-Text">OneTouch</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Onlyplay" id="CategoryList-Onlyplay" href="/tr/casino/cat/onlyplay">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Onlyplay" id="CategoryList-Onlyplay" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Onlyplay-Text">Onlyplay</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OpenRGS" id="CategoryList-OpenRGS" href="/tr/casino/cat/openrgs">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OpenRGS" id="CategoryList-OpenRGS" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-OpenRGS-Text">OpenRGS</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Orman Oyunları" id="CategoryList-Orman-Oyunları" href="/tr/casino/cat/orman-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Orman Oyunları" id="CategoryList-Orman-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Orman-Oyunları-Text">Orman Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ORYXGaming" id="CategoryList-ORYXGaming" href="/tr/casino/cat/oryxgaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ORYXGaming" id="CategoryList-ORYXGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-ORYXGaming-Text">ORYXGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Paskalya Oyunları" id="CategoryList-Paskalya-Oyunları" href="/tr/casino/cat/paskalya-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Paskalya Oyunları" id="CategoryList-Paskalya-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Paskalya-Oyunları-Text">Paskalya Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PGSoft" id="CategoryList-PGSoft" href="/tr/casino/cat/pgsoft">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PGSoft" id="CategoryList-PGSoft" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-PGSoft-Text">PGSoft</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Platipus" id="CategoryList-Platipus" href="/tr/casino/cat/platipus">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Platipus" id="CategoryList-Platipus" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Platipus-Text">Platipus</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Playson" id="CategoryList-Playson" href="/tr/casino/cat/playson">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Playson" id="CategoryList-Playson" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Playson-Text">Playson</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PeterSons" id="CategoryList-PeterSons" href="/tr/casino/cat/petersons">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PeterSons" id="CategoryList-PeterSons" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-PeterSons-Text">PeterSons</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PascalGaming" id="CategoryList-PascalGaming" href="/tr/casino/cat/pascalgaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PascalGaming" id="CategoryList-PascalGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-PascalGaming-Text">PascalGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK" id="CategoryList-PopOK" href="/tr/casino/cat/popok">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK" id="CategoryList-PopOK" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-PopOK-Text">PopOK</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Quickspin" id="CategoryList-Quickspin" href="/tr/casino/cat/quickspin">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Quickspin" id="CategoryList-Quickspin" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Quickspin-Text">Quickspin</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedRake" id="CategoryList-RedRake" href="/tr/casino/cat/redrake">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedRake" id="CategoryList-RedRake" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-RedRake-Text">RedRake</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedTigerGaming" id="CategoryList-RedTigerGaming" href="/tr/casino/cat/redtigergaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedTigerGaming" id="CategoryList-RedTigerGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-RedTigerGaming-Text">RedTigerGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Reflex Gaming" id="CategoryList-Reflex-Gaming" href="/tr/casino/cat/reflex-gaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Reflex Gaming" id="CategoryList-Reflex-Gaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Reflex-Gaming-Text">Reflex Gaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Relax Gaming" id="CategoryList-Relax-Gaming" href="/tr/casino/cat/relax-gaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Relax Gaming" id="CategoryList-Relax-Gaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Relax-Gaming-Text">Relax Gaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ReelPlay" id="CategoryList-ReelPlay" href="/tr/casino/cat/reelplay">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ReelPlay" id="CategoryList-ReelPlay" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-ReelPlay-Text">ReelPlay</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RetroGaming" id="CategoryList-RetroGaming" href="/tr/casino/cat/retrogaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RetroGaming" id="CategoryList-RetroGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-RetroGaming-Text">RetroGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TigerGames" id="CategoryList-TigerGames" href="/tr/casino/cat/tigergames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TigerGames" id="CategoryList-TigerGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-TigerGames-Text">TigerGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Orbital" id="CategoryList-Orbital" href="/tr/casino/cat/orbital">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Orbital" id="CategoryList-Orbital" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Orbital-Text">Orbital</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TurboGames" id="CategoryList-TurboGames" href="/tr/casino/cat/turbogames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TurboGames" id="CategoryList-TurboGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-TurboGames-Text">TurboGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rival" id="CategoryList-Rival" href="/tr/casino/cat/rival">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rival" id="CategoryList-Rival" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Rival-Text">Rival</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RevolverGaming" id="CategoryList-RevolverGaming" href="/tr/casino/cat/revolvergaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RevolverGaming" id="CategoryList-RevolverGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-RevolverGaming-Text">RevolverGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="S7777Gaming" id="CategoryList-S7777Gaming" href="/tr/casino/cat/s7777gaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="S7777Gaming" id="CategoryList-S7777Gaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-S7777Gaming-Text">S7777Gaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SalsaTech" id="CategoryList-SalsaTech" href="/tr/casino/cat/salsatech">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SalsaTech" id="CategoryList-SalsaTech" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-SalsaTech-Text">SalsaTech</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SmartSoft" id="CategoryList-SmartSoft" href="/tr/casino/cat/smartsoft">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SmartSoft" id="CategoryList-SmartSoft" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-SmartSoft-Text">SmartSoft</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Slotmill" id="CategoryList-Slotmill" href="/tr/casino/cat/slotmill">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Slotmill" id="CategoryList-Slotmill" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Slotmill-Text">Slotmill</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spade Gaming" id="CategoryList-Spade-Gaming" href="/tr/casino/cat/spade-gaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spade Gaming" id="CategoryList-Spade-Gaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Spade-Gaming-Text">Spade Gaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spearhead" id="CategoryList-Spearhead" href="/tr/casino/cat/spearhead">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spearhead" id="CategoryList-Spearhead" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Spearhead-Text">Spearhead</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spinomenal" id="CategoryList-Spinomenal" href="/tr/casino/cat/spinomenal">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spinomenal" id="CategoryList-Spinomenal" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Spinomenal-Text">Spinomenal</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spor Slotlar" id="CategoryList-Spor-Slotlar" href="/tr/casino/cat/spor-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spor Slotlar" id="CategoryList-Spor-Slotlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Spor-Slotlar-Text">Spor Slotlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spribe" id="CategoryList-Spribe" href="/tr/casino/cat/spribe">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spribe" id="CategoryList-Spribe" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Spribe-Text">Spribe</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Survivor Slotlar" id="CategoryList-Survivor-Slotlar" href="/tr/casino/cat/survivor-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Survivor Slotlar" id="CategoryList-Survivor-Slotlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Survivor-Slotlar-Text">Survivor Slotlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Şekerleme ve Pastacılık Oyunları" id="CategoryList-Şekerleme-ve-Pastacılık-Oyunları" href="/tr/casino/cat/şekerleme-ve-pastacılık-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Şekerleme ve Pastacılık Oyunları" id="CategoryList-Şekerleme-ve-Pastacılık-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Şekerleme-ve-Pastacılık-Oyunları-Text">Şekerleme ve Pastacılık Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TaDaGaming" id="CategoryList-TaDaGaming" href="/tr/casino/cat/tadagaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TaDaGaming" id="CategoryList-TaDaGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-TaDaGaming-Text">TaDaGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Swintt" id="CategoryList-Swintt" href="/tr/casino/cat/swintt">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Swintt" id="CategoryList-Swintt" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Swintt-Text">Swintt</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sanal Bahisler" id="CategoryList-Sanal-Bahisler" href="/tr/casino/cat/sanal-bahisler">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sanal Bahisler" id="CategoryList-Sanal-Bahisler" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Sanal-Bahisler-Text">Sanal Bahisler</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ThreeOaks" id="CategoryList-ThreeOaks" href="/tr/casino/cat/threeoaks">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ThreeOaks" id="CategoryList-ThreeOaks" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-ThreeOaks-Text">ThreeOaks</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Thunderkick" id="CategoryList-Thunderkick" href="/tr/casino/cat/thunderkick">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Thunderkick" id="CategoryList-Thunderkick" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Thunderkick-Text">Thunderkick</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TripleCherry" id="CategoryList-TripleCherry" href="/tr/casino/cat/triplecherry">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TripleCherry" id="CategoryList-TripleCherry" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-TripleCherry-Text">TripleCherry</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tombala &amp; Sanal" id="CategoryList-Tombala-&amp;-Sanal" href="/tr/casino/cat/tombala-&amp;-sanal">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tombala &amp; Sanal" id="CategoryList-Tombala-&amp;-Sanal" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Tombala-&amp;-Sanal-Text">Tombala &amp; Sanal</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tomhorn" id="CategoryList-Tomhorn" href="/tr/casino/cat/tomhorn">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tomhorn" id="CategoryList-Tomhorn" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Tomhorn-Text">Tomhorn</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tropikal Oyunlar" id="CategoryList-Tropikal-Oyunlar" href="/tr/casino/cat/tropikal-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tropikal Oyunlar" id="CategoryList-Tropikal-Oyunlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Tropikal-Oyunlar-Text">Tropikal Oyunlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="UrgentGames" id="CategoryList-UrgentGames" href="/tr/casino/cat/urgentgames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="UrgentGames" id="CategoryList-UrgentGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-UrgentGames-Text">UrgentGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Uzak Doğu Oyunları" id="CategoryList-Uzak-Doğu-Oyunları" href="/tr/casino/cat/uzak-doğu-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Uzak Doğu Oyunları" id="CategoryList-Uzak-Doğu-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Uzak-Doğu-Oyunları-Text">Uzak Doğu Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Uzay Oyunları" id="CategoryList-Uzay-Oyunları" href="/tr/casino/cat/uzay-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Uzay Oyunları" id="CategoryList-Uzay-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Uzay-Oyunları-Text">Uzay Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vahşi Batı Oyunları" id="CategoryList-Vahşi-Batı-Oyunları" href="/tr/casino/cat/vahşi-batı-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vahşi Batı Oyunları" id="CategoryList-Vahşi-Batı-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Vahşi-Batı-Oyunları-Text">Vahşi Batı Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vahşi Doğa Oyunları" id="CategoryList-Vahşi-Doğa-Oyunları" href="/tr/casino/cat/vahşi-doğa-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vahşi Doğa Oyunları" id="CategoryList-Vahşi-Doğa-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Vahşi-Doğa-Oyunları-Text">Vahşi Doğa Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vampir Oyunları" id="CategoryList-Vampir-Oyunları" href="/tr/casino/cat/vampir-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vampir Oyunları" id="CategoryList-Vampir-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Vampir-Oyunları-Text">Vampir Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="VibraGaming" id="CategoryList-VibraGaming" href="/tr/casino/cat/vibragaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="VibraGaming" id="CategoryList-VibraGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-VibraGaming-Text">VibraGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Viking Oyunları" id="CategoryList-Viking-Oyunları" href="/tr/casino/cat/viking-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Viking Oyunları" id="CategoryList-Viking-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Viking-Oyunları-Text">Viking Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Video Poker" id="CategoryList-Video-Poker" href="/tr/casino/cat/video-poker">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Video Poker" id="CategoryList-Video-Poker" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Video-Poker-Text">Video Poker</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="WorldMatch" id="CategoryList-WorldMatch" href="/tr/casino/cat/worldmatch">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="WorldMatch" id="CategoryList-WorldMatch" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-WorldMatch-Text">WorldMatch</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yggdrasil" id="CategoryList-Yggdrasil" href="/tr/casino/cat/yggdrasil">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yggdrasil" id="CategoryList-Yggdrasil" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Yggdrasil-Text">Yggdrasil</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Zitro" id="CategoryList-Zitro" href="/tr/casino/cat/zitro">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Zitro" id="CategoryList-Zitro" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Zitro-Text">Zitro</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Wazdan" id="CategoryList-Wazdan" href="/tr/casino/cat/wazdan">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Wazdan" id="CategoryList-Wazdan" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Wazdan-Text">Wazdan</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="WinFast" id="CategoryList-WinFast" href="/tr/casino/cat/winfast">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="WinFast" id="CategoryList-WinFast" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-WinFast-Text">WinFast</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yaz Oyunları" id="CategoryList-Yaz-Oyunları" href="/tr/casino/cat/yaz-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yaz Oyunları" id="CategoryList-Yaz-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Yaz-Oyunları-Text">Yaz Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="10 Kuruş Slotlar" id="CategoryList-10-Kuruş-Slotlar" href="/tr/casino/cat/10-kuruş-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="10 Kuruş Slotlar" id="CategoryList-10-Kuruş-Slotlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-10-Kuruş-Slotlar-Text">10 Kuruş Slotlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="4ThePlayer" id="CategoryList-4ThePlayer" href="/tr/casino/cat/4theplayer">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="4ThePlayer" id="CategoryList-4ThePlayer" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-4ThePlayer-Text">4ThePlayer</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="7Mojos" id="CategoryList-7Mojos" href="/tr/casino/cat/7mojos">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="7Mojos" id="CategoryList-7Mojos" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-7Mojos-Text">7Mojos</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="3D Slotlar" id="CategoryList-3D-Slotlar" href="/tr/casino/cat/3d-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="3D Slotlar" id="CategoryList-3D-Slotlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-3D-Slotlar-Text">3D Slotlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Popüler Slotlar" id="CategoryList-Popüler-Slotlar" href="/tr/casino/cat/popüler-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Popüler Slotlar" id="CategoryList-Popüler-Slotlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Popüler-Slotlar-Text">Popüler Slotlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneXTwoGaming" id="CategoryList-OneXTwoGaming" href="/tr/casino/cat/onextwogaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneXTwoGaming" id="CategoryList-OneXTwoGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-OneXTwoGaming-Text">OneXTwoGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yeni Oyunlar" id="CategoryList-Yeni-Oyunlar" href="/tr/casino/cat/yeni-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yeni Oyunlar" id="CategoryList-Yeni-Oyunlar" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Yeni-Oyunlar-Text">Yeni Oyunlar</div>
                                  </a>
                               </li>
@@ -1141,7 +1141,7 @@
    </div>
    <div class="GameCategoriesWrapper">
       <section id="holiganbet-casino$top-30-casino" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Top 30 Casino" id="CategoryGameList-Top-30-Casino" href="/tr/casino/cat/top-30-casino">Top 30 Casino</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Top 30 Casino" id="CategoryGameList-Top-30-Casino" href="javascript:;" onclick="loginorpay()">Top 30 Casino</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -1150,7 +1150,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="UFO Galaxy" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/22F57C9A709058E74413E21CE73777FB.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna UFO Galaxy !" href="/tr/casino/games/top-30-casino:ufo-galaxy-55682/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna UFO Galaxy !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1165,7 +1165,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Aviator" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Spribe</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Aviator !" href="/tr/casino/games/top-30-casino:aviator-32430/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Aviator !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1180,7 +1180,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza™ !" href="/tr/casino/games/top-30-casino:sweet-bonanza™-31038/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1195,7 +1195,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Olympus™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus™ !" href="/tr/casino/games/top-30-casino:gates-of-olympus™-39095/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1210,7 +1210,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A024331E87AEEFD31E1BE59095E0F771.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 !" href="/tr/casino/games/top-30-casino:sweet-bonanza-1000-64667/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1225,7 +1225,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Bonanza" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/7/7133FC5F6CCE616CDB770C0D6D72AB5B.optimized.png"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bonanza !" href="/tr/casino/games/top-30-casino:bonanza-62241/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bonanza !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1240,7 +1240,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/EF23461CB9137FA68C6F9F1D30AC2AF5.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza 1000 !" href="/tr/casino/games/top-30-casino:holigan-bonanza-1000-70584/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1255,7 +1255,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Olympus 1000™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus 1000™ !" href="/tr/casino/games/top-30-casino:gates-of-olympus-1000™-61019/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus 1000™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1270,7 +1270,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sugar Rush 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/46EB98185E990F15570193907928D5DD.optimized.png"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sugar Rush 1000 !" href="/tr/casino/games/top-30-casino:sugar-rush-1000-63306/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sugar Rush 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1285,7 +1285,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Bonanza" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/70D302EBB275A4E28065F187848D3003.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza !" href="/tr/casino/games/top-30-casino:holigan-bonanza-63980/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1300,7 +1300,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Starlight Princess 1000™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/05629EF564B6BA1F7E1D86BFBFF06AF9.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starlight Princess 1000™ !" href="/tr/casino/games/top-30-casino:starlight-princess-1000™-59725/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starlight Princess 1000™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1315,7 +1315,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Starlight Princess™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/2F958A4767D5322B3E6B0467A0D26206.png"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starlight Princess™ !" href="/tr/casino/games/top-30-casino:starlight-princess™-43055/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starlight Princess™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1326,7 +1326,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Top-30-Casino" href="/tr/casino/cat/top-30-casino">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Top-30-Casino" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Top-30-Casino-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Top-30-Casino-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Top-30-Casino-Total">30</span><span class="NoOfGames Difference" id="ViewAllGames-Top-30-Casino-Diff">18</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Top-30-Casino-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Top-30-Casino-Icon">
@@ -1340,7 +1340,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$holigan-turnuva" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Holigan Turnuva" id="CategoryGameList-Holigan-Turnuva" href="/tr/casino/cat/holigan-turnuva">Holigan Turnuva</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Holigan Turnuva" id="CategoryGameList-Holigan-Turnuva" href="javascript:;" onclick="loginorpay()">Holigan Turnuva</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -1349,7 +1349,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza™ !" href="/tr/casino/games/holigan-turnuva:sweet-bonanza™-31038/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1364,7 +1364,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="100 Super Hot" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/B/B001B0F9A494FB2A4BA9A3131FF022C0.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 100 Super Hot !" href="/tr/casino/games/holigan-turnuva:100-super-hot-14273/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 100 Super Hot !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1379,7 +1379,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Wanted Dead or a Wild" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/C/CB771BC34D1314F768D41EB8C82327FB.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Hacksaw</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wanted Dead or a Wild !" href="/tr/casino/games/holigan-turnuva:wanted-dead-or-a-wild-43791/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wanted Dead or a Wild !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1394,7 +1394,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Cake Factory" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/8394972382E668C5420428BCCA36F726.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Cake Factory !" href="/tr/casino/games/holigan-turnuva:cake-factory-61569/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Cake Factory !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1409,7 +1409,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Anubis' Dream" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/243152BDDDC8DA19BB54161D2624BE45.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Anubis' Dream !" href="/tr/casino/games/holigan-turnuva:anubis--dream-61572/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Anubis' Dream !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1424,7 +1424,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Supercharged Clovers: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/704ECADD722386F574F6D8027DE810E2.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Supercharged Clovers: Hold and Win !" href="/tr/casino/games/holigan-turnuva:supercharged-clovers--hold-and-win-66670/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Supercharged Clovers: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1439,7 +1439,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Olympus™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus™ !" href="/tr/casino/games/holigan-turnuva:gates-of-olympus™-39095/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1454,7 +1454,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Rush 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7BF9E91626E1B93DC5147B281B254277.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Rush 1000 !" href="/tr/casino/games/holigan-turnuva:holigan-rush-1000-69164/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Rush 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1469,7 +1469,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A024331E87AEEFD31E1BE59095E0F771.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 !" href="/tr/casino/games/holigan-turnuva:sweet-bonanza-1000-64667/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1484,7 +1484,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Might of Freya Megaways™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/1/10F88446BF35E1A59BFC62640DC48AB3.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Might of Freya Megaways™ !" href="/tr/casino/games/holigan-turnuva:might-of-freya-megaways™-70117/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Might of Freya Megaways™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1499,7 +1499,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Penguins Christmas Party Time" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/2A8C2F5CF54F03974E08EEE92375DDE1.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Penguins Christmas Party Time !" href="/tr/casino/games/holigan-turnuva:penguins-christmas-party-time-70129/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Penguins Christmas Party Time !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1514,7 +1514,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="888 Gold" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/5/5695DACE7222DC365103B9476C57A7BC.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 888 Gold !" href="/tr/casino/games/holigan-turnuva:888-gold-69216/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 888 Gold !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1525,7 +1525,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Holigan-Turnuva" href="/tr/casino/cat/holigan-turnuva">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Holigan-Turnuva" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Holigan-Turnuva-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Holigan-Turnuva-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Holigan-Turnuva-Total">1189</span><span class="NoOfGames Difference" id="ViewAllGames-Holigan-Turnuva-Diff">1177</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Holigan-Turnuva-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Holigan-Turnuva-Icon">
@@ -1539,7 +1539,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$holiganbet'e-özel" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Holiganbet'e Özel" id="CategoryGameList-Holiganbet'e-Özel" href="/tr/casino/cat/holiganbet'e-özel">Holiganbet'e Özel</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Holiganbet'e Özel" id="CategoryGameList-Holiganbet'e-Özel" href="javascript:;" onclick="loginorpay()">Holiganbet'e Özel</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -1548,7 +1548,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Bonanza" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/70D302EBB275A4E28065F187848D3003.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza !" href="/tr/casino/games/holiganbet'e-özel:holigan-bonanza-63980/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1563,7 +1563,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Princess 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/3401EC38CD614C2A7F9E0BAFC32A746B.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Princess 1000 !" href="/tr/casino/games/holiganbet'e-özel:holigan-princess-1000-68005/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Princess 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1578,7 +1578,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Rush 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7BF9E91626E1B93DC5147B281B254277.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Rush 1000 !" href="/tr/casino/games/holiganbet'e-özel:holigan-rush-1000-69164/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Rush 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1593,7 +1593,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/EF23461CB9137FA68C6F9F1D30AC2AF5.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza 1000 !" href="/tr/casino/games/holiganbet'e-özel:holigan-bonanza-1000-70584/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1608,7 +1608,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Starburst Holiganbet" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/E144A52F6A11786963056D61A54B8C09.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starburst Holiganbet !" href="/tr/casino/games/holiganbet'e-özel:starburst-holiganbet-71356/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starburst Holiganbet !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1623,7 +1623,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$turnuva-oyunları" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Turnuva Oyunları" id="CategoryGameList-Turnuva-Oyunları" href="/tr/casino/cat/turnuva-oyunları">Turnuva Oyunları</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Turnuva Oyunları" id="CategoryGameList-Turnuva-Oyunları" href="javascript:;" onclick="loginorpay()">Turnuva Oyunları</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -1632,7 +1632,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Supercharged Clovers: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/704ECADD722386F574F6D8027DE810E2.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Supercharged Clovers: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:supercharged-clovers--hold-and-win-66670/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Supercharged Clovers: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1647,7 +1647,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Buffalo Power: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/5/5D97AB8657A3E4DBB3583D07EDCB5271.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Buffalo Power: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:buffalo-power--hold-and-win-36040/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Buffalo Power: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1662,7 +1662,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Buffalo Power 2: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7948A6744F6A5B3DD0653BF8FEF91F80.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Buffalo Power 2: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:buffalo-power-2--hold-and-win-56082/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Buffalo Power 2: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1677,7 +1677,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="3 Carts of Gold: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/DE1425E15393CA5050A599C2467250F2.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Carts of Gold: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:3-carts-of-gold--hold-and-win-65422/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Carts of Gold: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1692,7 +1692,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Book of Gold: Multichance" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/762192ACD7E752977CD44CD84BEE56AA.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book of Gold: Multichance !" href="/tr/casino/games/turnuva-oyunları:book-of-gold--multichance-36399/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book of Gold: Multichance !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1707,7 +1707,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Clover Charm: Hit the Bonus™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/BB25643B2CBBE0C4590620EED5747765.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Clover Charm: Hit the Bonus™ !" href="/tr/casino/games/turnuva-oyunları:clover-charm--hit-the-bonus™-63355/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Clover Charm: Hit the Bonus™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1722,7 +1722,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Arizona Heist: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/06E395B32CDFAA61949472506D80FC0A.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Arizona Heist: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:arizona-heist--hold-and-win-63549/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Arizona Heist: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1737,7 +1737,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="3 Pots Riches Extra: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/5/5E91613DC4FC4761304B084F02F8E0AE.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Pots Riches Extra: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:3-pots-riches-extra--hold-and-win-62396/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Pots Riches Extra: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1752,7 +1752,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="3 Magic Lamps: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/4604AD0A0BA23DEDBAF091C76729B804.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Magic Lamps: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:3-magic-lamps--hold-and-win-62837/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Magic Lamps: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1767,7 +1767,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Book del Sol" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/FA37B2D29BC86587885E8FD530917218.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book del Sol !" href="/tr/casino/games/turnuva-oyunları:book-del-sol-48221/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book del Sol !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1782,7 +1782,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Joker's Coins: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/D54E02401B5CD278FCFB841D294B5D36.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Joker's Coins: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:joker-s-coins--hold-and-win-46067/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Joker's Coins: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1797,7 +1797,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Fire Temple: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C897F1557638E98F328596A8D61A8315.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fire Temple: Hold and Win !" href="/tr/casino/games/turnuva-oyunları:fire-temple--hold-and-win-60018/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fire Temple: Hold and Win !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1808,7 +1808,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Turnuva-Oyunları" href="/tr/casino/cat/turnuva-oyunları">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Turnuva-Oyunları" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Turnuva-Oyunları-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Turnuva-Oyunları-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Turnuva-Oyunları-Total">35</span><span class="NoOfGames Difference" id="ViewAllGames-Turnuva-Oyunları-Diff">23</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Turnuva-Oyunları-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Turnuva-Oyunları-Icon">
@@ -1822,7 +1822,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$yılbaşı-slotlar" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Yılbaşı Slotlar" id="CategoryGameList-Yılbaşı-Slotlar" href="/tr/casino/cat/yılbaşı-slotlar">Yılbaşı Slotlar</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Yılbaşı Slotlar" id="CategoryGameList-Yılbaşı-Slotlar" href="javascript:;" onclick="loginorpay()">Yılbaşı Slotlar</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -1831,7 +1831,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sugar Rush Xmas™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/3/3C890C535154C20BB2F82FAFE14F05E5.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sugar Rush Xmas™ !" href="/tr/casino/games/yılbaşı-slotlar:sugar-rush-xmas™-60631/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sugar Rush Xmas™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1846,7 +1846,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Big Bass Christmas Bash™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/1/1D631B0FEB68F8275A789F248665123B.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Big Bass Christmas Bash™ !" href="/tr/casino/games/yılbaşı-slotlar:big-bass-christmas-bash™-60459/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Big Bass Christmas Bash™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1861,7 +1861,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Ding Dong Christmas Bells™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/FA9386F518CF82AA6A46D9C67316046F.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Ding Dong Christmas Bells™ !" href="/tr/casino/games/yılbaşı-slotlar:ding-dong-christmas-bells™-60677/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Ding Dong Christmas Bells™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1876,7 +1876,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Christmas Big Bass Bonanza™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/3/3E8D36DEEEB95C0630CCF92E8BBB32A2.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Christmas Big Bass Bonanza™ !" href="/tr/casino/games/yılbaşı-slotlar:christmas-big-bass-bonanza™-45089/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Christmas Big Bass Bonanza™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1891,7 +1891,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Bigger Bass Blizzard - Christmas Catch™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/2D6C6AB135C9B07418DD1D7798E4D0EC.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bigger Bass Blizzard - Christmas Catch™ !" href="/tr/casino/games/yılbaşı-slotlar:bigger-bass-blizzard---christmas-catch™-51171/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bigger Bass Blizzard - Christmas Catch™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1906,7 +1906,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="New Year's Celebration" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/6/606F7CD80561B7170DC1419A5E37E465.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna New Year's Celebration !" href="/tr/casino/games/yılbaşı-slotlar:new-year-s-celebration-61289/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna New Year's Celebration !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1921,7 +1921,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza Xmas™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A154771D530C5CB057C6C41E9B55774A.optimized.png"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza Xmas™ !" href="/tr/casino/games/yılbaşı-slotlar:sweet-bonanza-xmas™-32982/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza Xmas™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1936,7 +1936,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Santa's Wild Reels" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/6/6E0CCE524363C54A6A43BFE558CF7024.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">NetGaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Santa's Wild Reels !" href="/tr/casino/games/yılbaşı-slotlar:santa-s-wild-reels-60708/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Santa's Wild Reels !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1951,7 +1951,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Wild Forties Xmas" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/E/E8078929FE1D4B5FD1D302BE63EC3FDA.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Fazi</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wild Forties Xmas !" href="/tr/casino/games/yılbaşı-slotlar:wild-forties-xmas-70950/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wild Forties Xmas !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1966,7 +1966,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Pine of Plinko 2" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/E/E4CAFF18A1A7879B85EF587A0A5409E9.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">RelaxGaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pine of Plinko 2 !" href="/tr/casino/games/yılbaşı-slotlar:pine-of-plinko-2-60839/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pine of Plinko 2 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1981,7 +1981,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Mr. Jingle Bells" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/C/CCBA2FE928441AA88D45885E23C2B984.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Endorphina</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mr. Jingle Bells !" href="/tr/casino/games/yılbaşı-slotlar:mr.-jingle-bells-70931/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mr. Jingle Bells !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -1996,7 +1996,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="X-mas Express" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/7/75473D7BC0F4ED402970FBA1E46DA5C1.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">GameArt</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna X-mas Express !" href="/tr/casino/games/yılbaşı-slotlar:x-mas-express-60703/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna X-mas Express !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2007,7 +2007,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Yılbaşı-Slotlar" href="/tr/casino/cat/yılbaşı-slotlar">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Yılbaşı-Slotlar" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Yılbaşı-Slotlar-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Yılbaşı-Slotlar-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Yılbaşı-Slotlar-Total">346</span><span class="NoOfGames Difference" id="ViewAllGames-Yılbaşı-Slotlar-Diff">334</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Yılbaşı-Slotlar-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Yılbaşı-Slotlar-Icon">
@@ -2021,7 +2021,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$pragmatic-casino" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Pragmatic Casino" id="CategoryGameList-Pragmatic-Casino" href="/tr/casino/cat/pragmatic-casino">Pragmatic Casino</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Pragmatic Casino" id="CategoryGameList-Pragmatic-Casino" href="javascript:;" onclick="loginorpay()">Pragmatic Casino</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -2030,7 +2030,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Olympus Xmas 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus Xmas 1000 !" href="/tr/casino/games/pragmatic-casino:gates-of-olympus-xmas-1000-70416/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus Xmas 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2045,7 +2045,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A024331E87AEEFD31E1BE59095E0F771.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 !" href="/tr/casino/games/pragmatic-casino:sweet-bonanza-1000-64667/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2060,7 +2060,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Olympus 1000™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus 1000™ !" href="/tr/casino/games/pragmatic-casino:gates-of-olympus-1000™-61019/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus 1000™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2075,7 +2075,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sugar Rush 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/46EB98185E990F15570193907928D5DD.optimized.png"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sugar Rush 1000 !" href="/tr/casino/games/pragmatic-casino:sugar-rush-1000-63306/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sugar Rush 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2090,7 +2090,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Starlight Princess 1000™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/05629EF564B6BA1F7E1D86BFBFF06AF9.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starlight Princess 1000™ !" href="/tr/casino/games/pragmatic-casino:starlight-princess-1000™-59725/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starlight Princess 1000™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2105,7 +2105,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Rush 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7BF9E91626E1B93DC5147B281B254277.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Rush 1000 !" href="/tr/casino/games/pragmatic-casino:holigan-rush-1000-69164/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Rush 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2120,7 +2120,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Holigan Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/EF23461CB9137FA68C6F9F1D30AC2AF5.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza 1000 !" href="/tr/casino/games/pragmatic-casino:holigan-bonanza-1000-70584/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Holigan Bonanza 1000 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2135,7 +2135,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza 1000 Dice" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/3/3995E212D3E9EF4A1B86FD7E54855F21.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 Dice !" href="/tr/casino/games/pragmatic-casino:sweet-bonanza-1000-dice-72878/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 Dice !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2152,7 +2152,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Olympus 1000 Dice" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/B/BA6397B55F93C2089646B38F9D5DF5D0.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus 1000 Dice !" href="/tr/casino/games/pragmatic-casino:gates-of-olympus-1000-dice-73016/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus 1000 Dice !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2169,7 +2169,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Volcano Goddess" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/207E65C2F2AE2D08195D5984614994D1.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Volcano Goddess !" href="/tr/casino/games/pragmatic-casino:volcano-goddess-73004/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Volcano Goddess !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2186,7 +2186,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Triple Pot Gold" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/8FA9693E374929CAB99C19AFE2528FC2.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Triple Pot Gold !" href="/tr/casino/games/pragmatic-casino:triple-pot-gold-72862/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Triple Pot Gold !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2203,7 +2203,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Lucky’s Wild Pub" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/5/50615A0DC2FEF71AF2190E752D3283A0.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky’s Wild Pub !" href="/tr/casino/games/pragmatic-casino:lucky’s-wild-pub-72760/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky’s Wild Pub !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2216,7 +2216,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Pragmatic-Casino" href="/tr/casino/cat/pragmatic-casino">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Pragmatic-Casino" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Pragmatic-Casino-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Pragmatic-Casino-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Pragmatic-Casino-Total">519</span><span class="NoOfGames Difference" id="ViewAllGames-Pragmatic-Casino-Diff">507</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Pragmatic-Casino-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Pragmatic-Casino-Icon">
@@ -2230,7 +2230,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$egt-amusnet" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="EGT Amusnet" id="CategoryGameList-EGT-Amusnet" href="/tr/casino/cat/egt-amusnet">EGT Amusnet</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="EGT Amusnet" id="CategoryGameList-EGT-Amusnet" href="javascript:;" onclick="loginorpay()">EGT Amusnet</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -2239,7 +2239,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="100 Super Hot" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/B/B001B0F9A494FB2A4BA9A3131FF022C0.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 100 Super Hot !" href="/tr/casino/games/egt-amusnet:100-super-hot-14273/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 100 Super Hot !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2254,7 +2254,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Flaming Hot Extreme" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/C/C1C084B7F32F6221112D8ADE88597482.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Flaming Hot Extreme !" href="/tr/casino/games/egt-amusnet:flaming-hot-extreme-33952/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Flaming Hot Extreme !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2269,7 +2269,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Hot Deco" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/C/C6D2F16A7BA0E8030C92A2513DC6D767.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Deco !" href="/tr/casino/games/egt-amusnet:hot-deco-44959/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Deco !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2284,7 +2284,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="40 Burning Hot 6 Reels" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Burning Hot 6 Reels !" href="/tr/casino/games/egt-amusnet:40-burning-hot-6-reels-31749/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Burning Hot 6 Reels !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2299,7 +2299,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="20 Vampire Bites" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/4/47C41057A5B0A9BBB315BA8D8C25256A.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 20 Vampire Bites !" href="/tr/casino/games/egt-amusnet:20-vampire-bites-72461/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 20 Vampire Bites !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2316,7 +2316,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="40 Extra Crown" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/0/08214C5877B388C18E3ACC0BC8A5503F.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Extra Crown !" href="/tr/casino/games/egt-amusnet:40-extra-crown-71834/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Extra Crown !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2331,7 +2331,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="100 Golden Coins Dice Edition" data-src="/static.emcdncf.com/cms2/base/_casino/5/5F0E1F461A8708FECB714AE90712F694.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 100 Golden Coins Dice Edition !" href="/tr/casino/games/egt-amusnet:100-golden-coins-dice-edition-71944/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 100 Golden Coins Dice Edition !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2346,7 +2346,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Diamond Plus Valentine's Edition" data-src="/static.emcdncf.com/cms2/base/_casino/E/E1CA21E1832B5FB20B3BCFB22A37BBC6.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Diamond Plus Valentine's Edition !" href="/tr/casino/games/egt-amusnet:diamond-plus-valentine-s-edition-71618/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Diamond Plus Valentine's Edition !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2361,7 +2361,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="20 Diamond Plus" data-src="/static.emcdncf.com/cms2/base/_casino/4/4D39DCCFFF9A787E235A53BFD6CB861F.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 20 Diamond Plus !" href="/tr/casino/games/egt-amusnet:20-diamond-plus-71154/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 20 Diamond Plus !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2376,7 +2376,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="40 Bulky Dice 6 reels" data-src="/static.emcdncf.com/cms2/base/_casino/9/927762E378EBD03250A8388EA682D16D.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Bulky Dice 6 reels !" href="/tr/casino/games/egt-amusnet:40-bulky-dice-6-reels-71371/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Bulky Dice 6 reels !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2391,7 +2391,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="40 Golden Coins Dice Edition" data-src="/static.emcdncf.com/cms2/base/_casino/0/0CB0BD317557D5BC00152C6979ADA1AE.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Golden Coins Dice Edition !" href="/tr/casino/games/egt-amusnet:40-golden-coins-dice-edition-70879/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Golden Coins Dice Edition !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2406,7 +2406,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Caramel Dice Christmas Edition" data-src="/static.emcdncf.com/cms2/base/_casino/2/2C97E687076ED374882E7217E8E0197E.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Caramel Dice Christmas Edition !" href="/tr/casino/games/egt-amusnet:caramel-dice-christmas-edition-70214/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Caramel Dice Christmas Edition !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2417,7 +2417,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-EGT-Amusnet" href="/tr/casino/cat/egt-amusnet">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-EGT-Amusnet" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-EGT-Amusnet-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-EGT-Amusnet-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-EGT-Amusnet-Total">272</span><span class="NoOfGames Difference" id="ViewAllGames-EGT-Amusnet-Diff">260</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-EGT-Amusnet-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-EGT-Amusnet-Icon">
@@ -2431,7 +2431,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$egt-digital" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="EGT Digital" id="CategoryGameList-EGT-Digital" href="/tr/casino/cat/egt-digital">EGT Digital</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="EGT Digital" id="CategoryGameList-EGT-Digital" href="javascript:;" onclick="loginorpay()">EGT Digital</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -2440,7 +2440,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP 20 Super Hot Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/0/0D692DD3F3DAFFBCE2A218676CBA3843.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 20 Super Hot Bell Link !" href="/tr/casino/games/egt-digital:vip-20-super-hot-bell-link-72386/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 20 Super Hot Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2457,7 +2457,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP 40 Super Hot Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/1/1AA3AE564FA107AA68524D48B0EC7D18.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Super Hot Bell Link !" href="/tr/casino/games/egt-digital:vip-40-super-hot-bell-link-72379/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Super Hot Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2474,7 +2474,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP Flaming Hot Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/5/5B78B73338F4144BB35F8E76465C48FE.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Flaming Hot Bell Link !" href="/tr/casino/games/egt-digital:vip-flaming-hot-bell-link-72390/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Flaming Hot Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2491,7 +2491,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP Flaming Hot Extreme Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BCE53A32BF43E94386C14D32FF5FB2CC.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Flaming Hot Extreme Bell Link !" href="/tr/casino/games/egt-digital:vip-flaming-hot-extreme-bell-link-72388/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Flaming Hot Extreme Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2508,7 +2508,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP Shining Crown Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9DC6949900388EB4E1D0678992B6C903.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Shining Crown Bell Link !" href="/tr/casino/games/egt-digital:vip-shining-crown-bell-link-72395/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Shining Crown Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2525,7 +2525,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP 40 Shining Crown Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C1F3D1818F92A7F4906163F398F170F8.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Shining Crown Bell Link !" href="/tr/casino/games/egt-digital:vip-40-shining-crown-bell-link-72393/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Shining Crown Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2542,7 +2542,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP Burning Hot Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/7/74B692732F814FB63E75D398208869F2.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Burning Hot Bell Link !" href="/tr/casino/games/egt-digital:vip-burning-hot-bell-link-72398/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Burning Hot Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2559,7 +2559,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP 40 Burning Hot Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/8/844DF1DFFC29F9C1F527D87F2001D694.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Burning Hot Bell Link !" href="/tr/casino/games/egt-digital:vip-40-burning-hot-bell-link-72397/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Burning Hot Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2576,7 +2576,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP Zodiac Wheel Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49E69EB8EF74B7A84174886890D70AA3.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Zodiac Wheel Bell Link !" href="/tr/casino/games/egt-digital:vip-zodiac-wheel-bell-link-72406/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP Zodiac Wheel Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2593,7 +2593,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP 40 Zodiac Wheel Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/9/9DEDA4AD89923944753595302C4805CE.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Zodiac Wheel Bell Link !" href="/tr/casino/games/egt-digital:vip-40-zodiac-wheel-bell-link-72407/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Zodiac Wheel Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2610,7 +2610,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP 40 Lucky King Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/1/1D5033148D38F10BE0FBE1EBBCCDFB69.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Lucky King Bell Link !" href="/tr/casino/games/egt-digital:vip-40-lucky-king-bell-link-72408/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Lucky King Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2627,7 +2627,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="VIP 40 Lucky King Extreme Bell Link" data-src="/static.emcdncf.com/cms2/unique/_casino/1/12CA5130B99AD9BEEE3A8E0A129C356B.optimized.png" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Lucky King Extreme Bell Link !" href="/tr/casino/games/egt-digital:vip-40-lucky-king-extreme-bell-link-72409/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna VIP 40 Lucky King Extreme Bell Link !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2640,7 +2640,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-EGT-Digital" href="/tr/casino/cat/egt-digital">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-EGT-Digital" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-EGT-Digital-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-EGT-Digital-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-EGT-Digital-Total">147</span><span class="NoOfGames Difference" id="ViewAllGames-EGT-Digital-Diff">135</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-EGT-Digital-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-EGT-Digital-Icon">
@@ -2654,7 +2654,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$play'n-go" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Play'n GO" id="CategoryGameList-Play'n-GO" href="/tr/casino/cat/play'n-go">Play'n GO</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Play'n GO" id="CategoryGameList-Play'n-GO" href="javascript:;" onclick="loginorpay()">Play'n GO</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -2663,7 +2663,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Legion Gold Victory!" data-src="/static.emcdncf.com/cms2/base/_casino/F/FCA597C5DCDD7F8ADC430FEEA26CF84B.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Legion Gold Victory! !" href="/tr/casino/games/play'n-go:legion-gold-victory--72563/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Legion Gold Victory! !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2680,7 +2680,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Myth of Dead" data-src="/static.emcdncf.com/cms2/base/_casino/E/E9B10802D486159CFE9D57DB63B0EFB6.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Myth of Dead !" href="/tr/casino/games/play'n-go:myth-of-dead-72313/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Myth of Dead !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2697,7 +2697,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Medusa's Madness" data-src="/static.emcdncf.com/cms2/base/_casino/C/CD52F624B6E4D6C460280F2BAE0D210F.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Medusa's Madness !" href="/tr/casino/games/play'n-go:medusa-s-madness-72754/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Medusa's Madness !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2714,7 +2714,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Invading Vegas Revenge on Mars" data-src="/static.emcdncf.com/cms2/base/_casino/1/109E5B9CB629C9000E8E0D68F8C0264F.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Invading Vegas Revenge on Mars !" href="/tr/casino/games/play'n-go:invading-vegas-revenge-on-mars-71899/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Invading Vegas Revenge on Mars !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2729,7 +2729,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Legacy of Gems Blitzways" data-src="/static.emcdncf.com/cms2/base/_casino/6/6CBD7D504D64B62655C5DACBB9F165DF.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Legacy of Gems Blitzways !" href="/tr/casino/games/play'n-go:legacy-of-gems-blitzways-71576/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Legacy of Gems Blitzways !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2744,7 +2744,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Crystal Hall" data-src="/static.emcdncf.com/cms2/base/_casino/2/2704FF872D8BF3EEF56D305CE34BD64F.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crystal Hall !" href="/tr/casino/games/play'n-go:crystal-hall-72118/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crystal Hall !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2759,7 +2759,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Tower Quest Legacy" data-src="/static.emcdncf.com/cms2/base/_casino/B/BA60CA59A4D0160DAA12454F28904BA4.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tower Quest Legacy !" href="/tr/casino/games/play'n-go:tower-quest-legacy-71428/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tower Quest Legacy !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2774,7 +2774,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Midnight Gold" data-src="/static.emcdncf.com/cms2/base/_casino/F/FA138FCFA208A58BB826EAB4511DE590.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Midnight Gold !" href="/tr/casino/games/play'n-go:midnight-gold-71135/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Midnight Gold !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2789,7 +2789,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Potion of Madness" data-src="/static.emcdncf.com/cms2/base/_casino/8/802BC0B866FB4103FF12E75A1F8C3C97.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Potion of Madness !" href="/tr/casino/games/play'n-go:potion-of-madness-71727/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Potion of Madness !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2804,7 +2804,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="King’s Mask: Eclipse of Gods" data-src="/static.emcdncf.com/cms2/base/_casino/0/0F81CC8678DC379DE4283CBF0DD12F5A.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna King’s Mask: Eclipse of Gods !" href="/tr/casino/games/play'n-go:king’s-mask--eclipse-of-gods-66428/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna King’s Mask: Eclipse of Gods !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2819,7 +2819,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Beasts of Fire Maximum" data-src="/static.emcdncf.com/cms2/base/_casino/6/6268C29F568F627D9BE8B2465E2144ED.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Beasts of Fire Maximum !" href="/tr/casino/games/play'n-go:beasts-of-fire-maximum-68774/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Beasts of Fire Maximum !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2834,7 +2834,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Hot Dog Heist" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">PlaynGO</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Dog Heist !" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Dog Heist !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2845,7 +2845,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Play'n-GO" href="/tr/casino/cat/play'n-go">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Play'n-GO" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Play'n-GO-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Play'n-GO-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Play'n-GO-Total">398</span><span class="NoOfGames Difference" id="ViewAllGames-Play'n-GO-Diff">386</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Play'n-GO-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Play'n-GO-Icon">
@@ -2859,7 +2859,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$aperion" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Aperion" id="CategoryGameList-Aperion" href="/tr/casino/cat/aperion">Aperion</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Aperion" id="CategoryGameList-Aperion" href="javascript:;" onclick="loginorpay()">Aperion</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -2868,7 +2868,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="UFO Galaxy" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/22F57C9A709058E74413E21CE73777FB.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna UFO Galaxy !" href="/tr/casino/games/aperion:ufo-galaxy-55682/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna UFO Galaxy !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2883,7 +2883,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Anubis' Dream" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/243152BDDDC8DA19BB54161D2624BE45.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Anubis' Dream !" href="/tr/casino/games/aperion:anubis--dream-61572/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Anubis' Dream !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2898,7 +2898,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Xmas Penguin" data-src="/static.emcdncf.com/cms2/base/_casino/9/9263C0E1FE186208C0F9EA4EF261FE4B.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Xmas Penguin !" href="/tr/casino/games/aperion:xmas-penguin-70552/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Xmas Penguin !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2913,7 +2913,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Cake Factory" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/8394972382E668C5420428BCCA36F726.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Cake Factory !" href="/tr/casino/games/aperion:cake-factory-61569/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Cake Factory !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2928,7 +2928,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Cake Factory Xmas" data-src="/static.emcdncf.com/cms2/base/_casino/D/DD77575C606586A8F5701DE30B3F632E.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Cake Factory Xmas !" href="/tr/casino/games/aperion:cake-factory-xmas-70172/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Cake Factory Xmas !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2943,7 +2943,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="TNT Scratch" data-src="/static.emcdncf.com/cms2/base/_casino/F/F74E81A997CF5D6C8593BC86AB28F574.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna TNT Scratch !" href="/tr/casino/games/aperion:tnt-scratch-69844/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna TNT Scratch !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2958,7 +2958,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Pelican Scratch" data-src="/static.emcdncf.com/cms2/base/_casino/B/BC0BD60E6C67878DBD6823D5572172E6.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pelican Scratch !" href="/tr/casino/games/aperion:pelican-scratch-65869/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pelican Scratch !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2973,7 +2973,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Galactic Scratch" data-src="/static.emcdncf.com/cms2/base/_casino/2/2ADB90D3247C0B947E8FAFAB505D6A73.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Galactic Scratch !" href="/tr/casino/games/aperion:galactic-scratch-69423/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Galactic Scratch !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -2988,7 +2988,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jungle Rumble" data-src="/static.emcdncf.com/cms2/base/_casino/5/557B0E7B936CD2E2370B622882E619FF.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jungle Rumble !" href="/tr/casino/games/aperion:jungle-rumble-68733/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jungle Rumble !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3003,7 +3003,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Mine Vaults" data-src="/static.emcdncf.com/cms2/base/_casino/0/08724F2FCD77D577D0A1741854B51A7E.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mine Vaults !" href="/tr/casino/games/aperion:mine-vaults-67938/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mine Vaults !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3018,7 +3018,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Star Sparkle" data-src="/static.emcdncf.com/cms2/base/_casino/1/1D6403EA51FC664FE03D3627287DCC35.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Star Sparkle !" href="/tr/casino/games/aperion:star-sparkle-67943/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Star Sparkle !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3033,7 +3033,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Pearl Mines" data-src="/static.emcdncf.com/cms2/base/_casino/8/82F005961E61A3BE1BB1A402F7D48521.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pearl Mines !" href="/tr/casino/games/aperion:pearl-mines-67224/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pearl Mines !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3044,7 +3044,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Aperion" href="/tr/casino/cat/aperion">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Aperion" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Aperion-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Aperion-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Aperion-Total">17</span><span class="NoOfGames Difference" id="ViewAllGames-Aperion-Diff">5</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Aperion-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Aperion-Icon">
@@ -3058,7 +3058,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$apollo-games" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Apollo Games" id="CategoryGameList-Apollo-Games" href="/tr/casino/cat/apollo-games">Apollo Games</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Apollo Games" id="CategoryGameList-Apollo-Games" href="javascript:;" onclick="loginorpay()">Apollo Games</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -3067,7 +3067,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Atlantis" data-src="/static.emcdncf.com/cms2/base/_casino/1/152BF59A431E51FEECA57F80F5D613BF.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Atlantis !" href="/tr/casino/games/apollo-games:atlantis-47382/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Atlantis !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3082,7 +3082,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="European Roulette" data-src="/static.emcdncf.com/cms2/base/_casino/4/46FC7911391DF86C4FA31021D3083754.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna European Roulette !" href="/tr/casino/games/apollo-games:european-roulette-48118/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna European Roulette !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3097,7 +3097,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Blood" data-src="/static.emcdncf.com/cms2/base/_casino/3/36D2E687D310CCCD3A27802549EACB5A.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blood !" href="/tr/casino/games/apollo-games:blood-51576/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blood !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3112,7 +3112,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Blood Revival" data-src="/static.emcdncf.com/cms2/base/_casino/5/510FAB199FDA04410E85B48C0A291D67.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blood Revival !" href="/tr/casino/games/apollo-games:blood-revival-51577/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blood Revival !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3127,7 +3127,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Bonus Joker II" data-src="/static.emcdncf.com/cms2/base/_casino/3/3D94C143733BF5451EB98D52751C10E3.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bonus Joker II !" href="/tr/casino/games/apollo-games:bonus-joker-ii-51580/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bonus Joker II !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3142,7 +3142,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Boofa" data-src="/static.emcdncf.com/cms2/base/_casino/4/4C3092DEEA5AF5393D4B929668F56EFA.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Boofa !" href="/tr/casino/games/apollo-games:boofa-51583/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Boofa !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3157,7 +3157,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Burning Dice" data-src="/static.emcdncf.com/cms2/base/_casino/1/13AD32C65E2C3877AD85E99E85C3935F.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Burning Dice !" href="/tr/casino/games/apollo-games:burning-dice-51586/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Burning Dice !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3172,7 +3172,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Crystal Miners" data-src="/static.emcdncf.com/cms2/base/_casino/A/A671F7F98EBFA652A6455073C682A7B8.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crystal Miners !" href="/tr/casino/games/apollo-games:crystal-miners-51587/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crystal Miners !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3187,7 +3187,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Dice 81" data-src="/static.emcdncf.com/cms2/base/_casino/1/128F59D277D495EF35FD5DC3E899587E.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Dice 81 !" href="/tr/casino/games/apollo-games:dice-81-51588/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Dice 81 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3202,7 +3202,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Lucky 81" data-src="/static.emcdncf.com/cms2/base/_casino/D/D8EDA54385270458485F9C0337E6B28F.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky 81 !" href="/tr/casino/games/apollo-games:lucky-81-51604/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky 81 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3217,7 +3217,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Mad Mechanic Deluxe" data-src="/static.emcdncf.com/cms2/base/_casino/F/FE5069820469B071ECE12AB27030F8F8.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mad Mechanic Deluxe !" href="/tr/casino/games/apollo-games:mad-mechanic-deluxe-51605/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mad Mechanic Deluxe !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3232,7 +3232,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Midnight Fruits 81" data-src="/static.emcdncf.com/cms2/base/_casino/C/C8AB053AC631C8812C6715D9AD2E1D00.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">ApolloGames</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Midnight Fruits 81 !" href="/tr/casino/games/apollo-games:midnight-fruits-81-51607/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Midnight Fruits 81 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3243,7 +3243,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Apollo-Games" href="/tr/casino/cat/apollo-games">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Apollo-Games" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Apollo-Games-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Apollo-Games-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Apollo-Games-Total">47</span><span class="NoOfGames Difference" id="ViewAllGames-Apollo-Games-Diff">35</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Apollo-Games-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Apollo-Games-Icon">
@@ -3257,7 +3257,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$atari-oyunlari" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Atari Oyunlari" id="CategoryGameList-Atari-Oyunlari" href="/tr/casino/cat/atari-oyunlari">Atari Oyunlari</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Atari Oyunlari" id="CategoryGameList-Atari-Oyunlari" href="javascript:;" onclick="loginorpay()">Atari Oyunlari</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -3266,7 +3266,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Pixel Invaders" data-src="/static.emcdncf.com/cms2/base/_casino/0/037B594D0A55373A0A7C27D87789FDB4.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">GameArt</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pixel Invaders !" href="/tr/casino/games/atari-oyunlari:pixel-invaders-56446/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pixel Invaders !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3281,7 +3281,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Hellcatraz 2" data-src="/static.emcdncf.com/cms2/base/_casino/4/4332BA28A580EC588227D5E079182DE9.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">RelaxGaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hellcatraz 2 !" href="/tr/casino/games/atari-oyunlari:hellcatraz-2-57674/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hellcatraz 2 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3296,7 +3296,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Space Donkey" data-src="/static.emcdncf.com/cms2/base/_casino/E/E50B7C073F28CF667ECAEB7A00839B35.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">NolimitCity</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Space Donkey !" href="/tr/casino/games/atari-oyunlari:space-donkey-59214/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Space Donkey !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3311,7 +3311,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Hockey Shootout" data-src="/static.emcdncf.com/cms2/base/_casino/E/ECF5A2981348531A4A4C44ED7E5922C8.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Evoplay_Entertainment</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hockey Shootout !" href="/tr/casino/games/atari-oyunlari:hockey-shootout-62221/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hockey Shootout !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3326,7 +3326,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Santa's Stack" data-src="/static.emcdncf.com/cms2/base/_casino/E/E613838C2F001577B047029C7A9E008D.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">RelaxGaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Santa's Stack !" href="/tr/casino/games/atari-oyunlari:santa-s-stack-44930/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Santa's Stack !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3341,7 +3341,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Brute Force Scratch" data-src="/static.emcdncf.com/cms2/base/_casino/6/66875BE88033710166E191C8775FF468.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Boldplay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Brute Force Scratch !" href="/tr/casino/games/atari-oyunlari:brute-force-scratch-60310/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Brute Force Scratch !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3356,7 +3356,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Brute Force" data-src="/static.emcdncf.com/cms2/base/_casino/4/46C34454116B776B691363524F76B9AA.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Boldplay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Brute Force !" href="/tr/casino/games/atari-oyunlari:brute-force-60311/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Brute Force !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3371,7 +3371,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Brute Force" data-src="/static.emcdncf.com/cms2/base/_casino/4/4C115EB7DA0166BBD02AE677BE89E510.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">NolimitCity</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Brute Force !" href="/tr/casino/games/atari-oyunlari:brute-force-68578/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Brute Force !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3386,7 +3386,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Slotcade" data-src="/static.emcdncf.com/cms2/base/_casino/A/AE692F7CB35C62C72AB8DF3C914EB66A.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Platipus</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Slotcade !" href="/tr/casino/games/atari-oyunlari:slotcade-66641/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Slotcade !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3401,7 +3401,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Casino Punks" data-src="/static.emcdncf.com/cms2/base/_casino/C/C51626A697AB6F91AB17C95D07084B0C.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">NetGaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Casino Punks !" href="/tr/casino/games/atari-oyunlari:casino-punks-50214/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Casino Punks !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3416,7 +3416,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Penalty Shoot Out" data-src="/static.emcdncf.com/cms2/base/_casino/6/6FED8142BD7D2B3873CD8432ADE367A2.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Evoplay_Entertainment</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Penalty Shoot Out !" href="/tr/casino/games/atari-oyunlari:penalty-shoot-out-38086/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Penalty Shoot Out !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3431,7 +3431,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Penaltı Serisi" data-src="/static.emcdncf.com/cms2/base/_casino/6/6888BD83B4B59181A379E3B1A95143F3.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Evoplay_Entertainment</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Penaltı Serisi !" href="/tr/casino/games/atari-oyunlari:penaltı-serisi-45398/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Penaltı Serisi !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3442,7 +3442,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Atari-Oyunlari" href="/tr/casino/cat/atari-oyunlari">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Atari-Oyunlari" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Atari-Oyunlari-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Atari-Oyunlari-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Atari-Oyunlari-Total">43</span><span class="NoOfGames Difference" id="ViewAllGames-Atari-Oyunlari-Diff">31</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Atari-Oyunlari-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Atari-Oyunlari-Icon">
@@ -3456,7 +3456,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$amati̇c" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="AMATİC" id="CategoryGameList-AMATİC" href="/tr/casino/cat/amati̇c">AMATİC</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="AMATİC" id="CategoryGameList-AMATİC" href="javascript:;" onclick="loginorpay()">AMATİC</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -3465,7 +3465,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Lucky Fishing" data-src="/static.emcdncf.com/cms2/base/_casino/0/073FCA6EE9A866674E4BFF435F26C30D.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky Fishing !" href="/tr/casino/games/amati̇c:lucky-fishing-71699/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky Fishing !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3480,7 +3480,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Blazing Coins 27" data-src="/static.emcdncf.com/cms2/base/_casino/8/80B756BFF8BF840618022084EE16F317.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blazing Coins 27 !" href="/tr/casino/games/amati̇c:blazing-coins-27-71045/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blazing Coins 27 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3495,7 +3495,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sizzling Wilds 10" data-src="/static.emcdncf.com/cms2/base/_casino/4/43EFBCBAD11A67B92502C67514307D91.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sizzling Wilds 10 !" href="/tr/casino/games/amati̇c:sizzling-wilds-10-72785/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sizzling Wilds 10 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3512,7 +3512,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Hot Fruits 40 Extra Chillis" data-src="/static.emcdncf.com/cms2/base/_casino/D/D11B601CD3CFB60E0B6C649751784C1D.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Fruits 40 Extra Chillis !" href="/tr/casino/games/amati̇c:hot-fruits-40-extra-chillis-69743/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Fruits 40 Extra Chillis !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3527,7 +3527,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Wild 7 Boost" data-src="/static.emcdncf.com/cms2/base/_casino/B/B21C431A71B8BFDCEC327784B330C768.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wild 7 Boost !" href="/tr/casino/games/amati̇c:wild-7-boost-72088/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wild 7 Boost !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3542,7 +3542,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Hot Fruits Xmas" data-src="/static.emcdncf.com/cms2/base/_casino/2/2D87D7CC8AC50BCDC282C651F03C316B.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Fruits Xmas !" href="/tr/casino/games/amati̇c:hot-fruits-xmas-70521/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Fruits Xmas !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3557,7 +3557,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Blazing Wilds 20" data-src="/static.emcdncf.com/cms2/base/_casino/F/FD5246F5C2BA4DB735A80A63D3DF8F3A.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blazing Wilds 20 !" href="/tr/casino/games/amati̇c:blazing-wilds-20-71416/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blazing Wilds 20 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3572,7 +3572,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Fruit Biters" data-src="/static.emcdncf.com/cms2/base/_casino/8/8C3D520B74C931776531EDBA28B2AF15.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fruit Biters !" href="/tr/casino/games/amati̇c:fruit-biters-69324/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fruit Biters !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3587,7 +3587,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Blazing Coins 243" data-src="/static.emcdncf.com/cms2/base/_casino/1/164E3BC410EB3A530D9B3607AE66E91A.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blazing Coins 243 !" href="/tr/casino/games/amati̇c:blazing-coins-243-66636/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Blazing Coins 243 !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3602,7 +3602,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Fiery 7's" data-src="/static.emcdncf.com/cms2/base/_casino/5/5FDBA7BBD602E2BF2C70284535A96E61.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fiery 7's !" href="/tr/casino/games/amati̇c:fiery-7-s-65976/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fiery 7's !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3617,7 +3617,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Hot Fruits 20 Extra Chillis" data-src="/static.emcdncf.com/cms2/base/_casino/3/30FFAAB1B97A8189996B6D398BC94B3D.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Fruits 20 Extra Chillis !" href="/tr/casino/games/amati̇c:hot-fruits-20-extra-chillis-68543/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hot Fruits 20 Extra Chillis !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3632,7 +3632,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sharky's Gang" data-src="/static.emcdncf.com/cms2/base/_casino/2/224DE0F02C9A2E20CC62E5AB03A71C0B.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amatic</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sharky's Gang !" href="/tr/casino/games/amati̇c:sharky-s-gang-64480/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sharky's Gang !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3643,7 +3643,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-AMATİC" href="/tr/casino/cat/amati̇c">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-AMATİC" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-AMATİC-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-AMATİC-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-AMATİC-Total">210</span><span class="NoOfGames Difference" id="ViewAllGames-AMATİC-Diff">198</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-AMATİC-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-AMATİC-Icon">
@@ -3657,7 +3657,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$antik-mısır-oyunları" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Antik Mısır Oyunları" id="CategoryGameList-Antik-Mısır-Oyunları" href="/tr/casino/cat/antik-mısır-oyunları">Antik Mısır Oyunları</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Antik Mısır Oyunları" id="CategoryGameList-Antik-Mısır-Oyunları" href="javascript:;" onclick="loginorpay()">Antik Mısır Oyunları</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -3666,7 +3666,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Babylon Mini-Max" data-src="/static.emcdncf.com/cms2/base/_casino/1/1EA2E2C4AB762F630132B4D43EA07464.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Kalamba</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Babylon Mini-Max !" href="/tr/casino/games/antik-mısır-oyunları:gates-of-babylon-mini-max-54880/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Babylon Mini-Max !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3681,7 +3681,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Book Of Power" data-src="/static.emcdncf.com/cms2/base/_casino/D/D54041DE7A5A741F99E3EEA86C4560E2.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">RelaxGaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book Of Power !" href="/tr/casino/games/antik-mısır-oyunları:book-of-power-54221/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book Of Power !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3696,7 +3696,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Mummy™ Megaways™" data-src="/static.emcdncf.com/cms2/base/_casino/6/6505EBFF6912E613C745093420AF605E.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">RedTigerGaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mummy™ Megaways™ !" href="/tr/casino/games/antik-mısır-oyunları:mummy™-megaways™-69461/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mummy™ Megaways™ !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3711,7 +3711,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Egyptian Marvel" data-src="/static.emcdncf.com/cms2/base/_casino/E/E522D6E0099315E861F8F4BCB822976C.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Egyptian Marvel !" href="/tr/casino/games/antik-mısır-oyunları:egyptian-marvel-71137/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Egyptian Marvel !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3726,7 +3726,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gifts of Horus" data-src="/static.emcdncf.com/cms2/base/_casino/8/8F66D19449A0940725778D06CD83D279.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">OneTouch</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gifts of Horus !" href="/tr/casino/games/antik-mısır-oyunları:gifts-of-horus-56924/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gifts of Horus !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3741,7 +3741,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Wings of Horus" data-src="/static.emcdncf.com/cms2/base/_casino/E/EDAF4A92268542C00DCE4B6546720BD0.jpg" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Hacksaw</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wings of Horus !" href="/tr/casino/games/antik-mısır-oyunları:wings-of-horus-69311/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wings of Horus !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3756,7 +3756,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Book of Power" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">CT_Gaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book of Power !" href="/tr/casino/games/antik-mısır-oyunları:book-of-power-70861/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book of Power !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3771,7 +3771,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Scale of Anubis" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">7777 Gaming</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Scale of Anubis !" href="/tr/casino/games/antik-mısır-oyunları:scale-of-anubis-69224/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Scale of Anubis !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3786,7 +3786,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Trial of the Gods" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Caleta</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Trial of the Gods !" href="/tr/casino/games/antik-mısır-oyunları:trial-of-the-gods-68440/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Trial of the Gods !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3801,7 +3801,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Immortal Treasures" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Evoplay_Entertainment</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Immortal Treasures !" href="/tr/casino/games/antik-mısır-oyunları:immortal-treasures-68300/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Immortal Treasures !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3816,7 +3816,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Secrets of Cairo" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Secrets of Cairo !" href="/tr/casino/games/antik-mısır-oyunları:secrets-of-cairo-69236/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Secrets of Cairo !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3831,7 +3831,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Lucky Scarab" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">TomHorn</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky Scarab !" href="/tr/casino/games/antik-mısır-oyunları:lucky-scarab-68298/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky Scarab !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3842,7 +3842,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Antik-Mısır-Oyunları" href="/tr/casino/cat/antik-mısır-oyunları">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-Antik-Mısır-Oyunları" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-Antik-Mısır-Oyunları-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-Antik-Mısır-Oyunları-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-Antik-Mısır-Oyunları-Total">309</span><span class="NoOfGames Difference" id="ViewAllGames-Antik-Mısır-Oyunları-Diff">297</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-Antik-Mısır-Oyunları-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-Antik-Mısır-Oyunları-Icon">
@@ -3856,7 +3856,7 @@
          </div>
       </section>
       <section id="holiganbet-casino$aleaplay" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="AleaPlay" id="CategoryGameList-AleaPlay" href="/tr/casino/cat/aleaplay">AleaPlay</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="AleaPlay" id="CategoryGameList-AleaPlay" href="javascript:;" onclick="loginorpay()">AleaPlay</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -3865,7 +3865,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Fruity Mania" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fruity Mania !" href="/tr/casino/games/aleaplay:fruity-mania-46817/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fruity Mania !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3880,7 +3880,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Lines of Magic" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lines of Magic !" href="/tr/casino/games/aleaplay:lines-of-magic-50979/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lines of Magic !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3895,7 +3895,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Pharaohs Temple" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pharaohs Temple !" href="/tr/casino/games/aleaplay:pharaohs-temple-50981/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pharaohs Temple !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3910,7 +3910,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Mr. Luck" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mr. Luck !" href="/tr/casino/games/aleaplay:mr.-luck-50999/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mr. Luck !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3925,7 +3925,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Dark Mystic" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Dark Mystic !" href="/tr/casino/games/aleaplay:dark-mystic-51000/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Dark Mystic !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3940,7 +3940,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Light Dance" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Light Dance !" href="/tr/casino/games/aleaplay:light-dance-51001/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Light Dance !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3955,7 +3955,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Planet Rocks" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Planet Rocks !" href="/tr/casino/games/aleaplay:planet-rocks-51002/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Planet Rocks !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3970,7 +3970,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Monaco Fever" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Monaco Fever !" href="/tr/casino/games/aleaplay:monaco-fever-51003/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Monaco Fever !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -3985,7 +3985,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="It's a Joker" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna It's a Joker !" href="/tr/casino/games/aleaplay:it-s-a-joker-51004/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna It's a Joker !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -4000,7 +4000,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Red Lion" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Red Lion !" href="/tr/casino/games/aleaplay:red-lion-51005/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Red Lion !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -4015,7 +4015,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Juicy Wilds" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Juicy Wilds !" href="/tr/casino/games/aleaplay:juicy-wilds-51006/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Juicy Wilds !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -4030,7 +4030,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="The Wild Beast of Crete" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">AleaPlay</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna The Wild Beast of Crete !" href="/tr/casino/games/aleaplay:the-wild-beast-of-crete-51007/?prevRoute=%2Fcasino">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna The Wild Beast of Crete !" href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -4041,7 +4041,7 @@
                      </div>
                   </li>
                </ul>
-               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-AleaPlay" href="/tr/casino/cat/aleaplay">
+               <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-AleaPlay" href="javascript:;" onclick="loginorpay()">
                   <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-AleaPlay-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-AleaPlay-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-AleaPlay-Total">28</span><span class="NoOfGames Difference" id="ViewAllGames-AleaPlay-Diff">16</span></div>
                   <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-AleaPlay-IconWrapper">
                      <span class="SvgIcon MainIcon" id="ViewAllGames-AleaPlay-Icon">
@@ -4063,7 +4063,7 @@
                <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 70px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-3247.86px, 0px, 0px); width: auto; transition: all;">
                   <div class="slider-slide" aria-label="slide 1 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-casino:lightning-rulet-40892081196/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/378130AEB726DE810D3B4DE827BB3BD2.optimized.png"></figure>
@@ -4081,7 +4081,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 2 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 231.99px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/mitolojik-oyunlar:gates-of-olympus™-39095/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png"></figure>
@@ -4099,7 +4099,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 3 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 463.98px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:fruit-party-2™-42126/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Fruit Party 2™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/FC201CF7850317E938A36B52E1A99314.jpg"></figure>
@@ -4117,7 +4117,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 4 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 695.97px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Hot Dog Heist" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg"></figure>
@@ -4135,7 +4135,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 5 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 927.96px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:wild-west-gold-megaways-47903/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild West Gold Megaways" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/898AB79CFE0F7A7308FF56BEA7CA6E6B.jpg"></figure>
@@ -4153,7 +4153,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 6 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1159.95px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/spribe:aviator-32430/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif"></figure>
@@ -4171,7 +4171,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 7 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1391.94px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:auto-roulette-8345001034/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/27DC9A0748750DEFE82889DB8760BF26.optimized.png"></figure>
@@ -4189,7 +4189,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 8 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1623.93px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/drops&amp;wins:gates-of-olympus-1000™-61019/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg"></figure>
@@ -4207,7 +4207,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 9 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1855.92px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-casino:lightning-rulet-40892081196/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/378130AEB726DE810D3B4DE827BB3BD2.optimized.png"></figure>
@@ -4225,7 +4225,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 10 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 2087.91px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/mitolojik-oyunlar:gates-of-olympus™-39095/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png"></figure>
@@ -4243,7 +4243,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 11 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 2319.9px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:fruit-party-2™-42126/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Fruit Party 2™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/FC201CF7850317E938A36B52E1A99314.jpg"></figure>
@@ -4261,7 +4261,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 12 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 2551.89px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Hot Dog Heist" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg"></figure>
@@ -4279,7 +4279,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 13 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 2783.88px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:wild-west-gold-megaways-47903/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild West Gold Megaways" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/898AB79CFE0F7A7308FF56BEA7CA6E6B.jpg"></figure>
@@ -4297,7 +4297,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 14 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3015.87px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/spribe:aviator-32430/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif"></figure>
@@ -4315,7 +4315,7 @@
                   </div>
                   <div class="slider-slide slide-visible slide-current" aria-label="slide 15 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3247.86px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:auto-roulette-8345001034/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/27DC9A0748750DEFE82889DB8760BF26.optimized.png"></figure>
@@ -4333,7 +4333,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 16 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3479.85px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/drops&amp;wins:gates-of-olympus-1000™-61019/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg"></figure>
@@ -4351,7 +4351,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 17 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3711.84px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-casino:lightning-rulet-40892081196/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/378130AEB726DE810D3B4DE827BB3BD2.optimized.png"></figure>
@@ -4369,7 +4369,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 18 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3943.83px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/mitolojik-oyunlar:gates-of-olympus™-39095/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4387,7 +4387,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 19 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 4175.82px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:fruit-party-2™-42126/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Fruit Party 2™" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FC201CF7850317E938A36B52E1A99314.jpg" class="PictureImg LazyImage"></figure>
@@ -4405,7 +4405,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 20 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 4407.81px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Hot Dog Heist" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg" class="PictureImg LazyImage"></figure>
@@ -4423,7 +4423,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 21 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 4639.8px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:wild-west-gold-megaways-47903/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild West Gold Megaways" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/8/898AB79CFE0F7A7308FF56BEA7CA6E6B.jpg" class="PictureImg LazyImage"></figure>
@@ -4441,7 +4441,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 22 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 4871.79px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/spribe:aviator-32430/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
@@ -4459,7 +4459,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 23 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 5103.78px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:auto-roulette-8345001034/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/27DC9A0748750DEFE82889DB8760BF26.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4477,7 +4477,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 24 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 5335.77px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/drops&amp;wins:gates-of-olympus-1000™-61019/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -4495,7 +4495,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 25 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 5567.76px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-casino:lightning-rulet-40892081196/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/378130AEB726DE810D3B4DE827BB3BD2.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4513,7 +4513,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 26 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 5799.75px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/mitolojik-oyunlar:gates-of-olympus™-39095/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4531,7 +4531,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 27 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 6031.74px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:fruit-party-2™-42126/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Fruit Party 2™" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FC201CF7850317E938A36B52E1A99314.jpg" class="PictureImg LazyImage"></figure>
@@ -4549,7 +4549,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 28 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 6263.73px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Hot Dog Heist" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg" class="PictureImg LazyImage"></figure>
@@ -4567,7 +4567,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 29 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 6495.72px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:wild-west-gold-megaways-47903/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild West Gold Megaways" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/8/898AB79CFE0F7A7308FF56BEA7CA6E6B.jpg" class="PictureImg LazyImage"></figure>
@@ -4585,7 +4585,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 30 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 6727.71px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/spribe:aviator-32430/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
@@ -4603,7 +4603,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 31 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 6959.7px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:auto-roulette-8345001034/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/27DC9A0748750DEFE82889DB8760BF26.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4621,7 +4621,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 32 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 7191.69px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/drops&amp;wins:gates-of-olympus-1000™-61019/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -4639,7 +4639,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 33 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 7423.68px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-casino:lightning-rulet-40892081196/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/378130AEB726DE810D3B4DE827BB3BD2.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4657,7 +4657,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 34 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 7655.67px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/mitolojik-oyunlar:gates-of-olympus™-39095/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4675,7 +4675,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 35 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 7887.66px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:fruit-party-2™-42126/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Fruit Party 2™" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FC201CF7850317E938A36B52E1A99314.jpg" class="PictureImg LazyImage"></figure>
@@ -4693,7 +4693,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 36 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 8119.65px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Hot Dog Heist" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg" class="PictureImg LazyImage"></figure>
@@ -4711,7 +4711,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 37 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 8351.64px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:wild-west-gold-megaways-47903/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild West Gold Megaways" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/8/898AB79CFE0F7A7308FF56BEA7CA6E6B.jpg" class="PictureImg LazyImage"></figure>
@@ -4729,7 +4729,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 38 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 8583.63px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/spribe:aviator-32430/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
@@ -4747,7 +4747,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 39 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 8815.62px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:auto-roulette-8345001034/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/27DC9A0748750DEFE82889DB8760BF26.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4765,7 +4765,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 40 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 9047.61px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/drops&amp;wins:gates-of-olympus-1000™-61019/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -4783,7 +4783,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 41 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 9279.6px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-casino:lightning-rulet-40892081196/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/378130AEB726DE810D3B4DE827BB3BD2.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4801,7 +4801,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 42 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 9511.59px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/mitolojik-oyunlar:gates-of-olympus™-39095/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4819,7 +4819,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 43 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 9743.58px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:fruit-party-2™-42126/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Fruit Party 2™" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FC201CF7850317E938A36B52E1A99314.jpg" class="PictureImg LazyImage"></figure>
@@ -4837,7 +4837,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 44 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 9975.57px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Hot Dog Heist" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg" class="PictureImg LazyImage"></figure>
@@ -4855,7 +4855,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 45 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 10207.6px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:wild-west-gold-megaways-47903/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild West Gold Megaways" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/8/898AB79CFE0F7A7308FF56BEA7CA6E6B.jpg" class="PictureImg LazyImage"></figure>
@@ -4873,7 +4873,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 46 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 10439.5px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/spribe:aviator-32430/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
@@ -4891,7 +4891,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 47 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 10671.5px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:auto-roulette-8345001034/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/27DC9A0748750DEFE82889DB8760BF26.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4909,7 +4909,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 48 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3943.83px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/drops&amp;wins:gates-of-olympus-1000™-61019/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -4927,7 +4927,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 49 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3711.84px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-casino:lightning-rulet-40892081196/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/378130AEB726DE810D3B4DE827BB3BD2.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4945,7 +4945,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 50 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3479.85px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/mitolojik-oyunlar:gates-of-olympus™-39095/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png" class="PictureImg LazyImage"></figure>
@@ -4963,7 +4963,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 51 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3247.86px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:fruit-party-2™-42126/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Fruit Party 2™" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FC201CF7850317E938A36B52E1A99314.jpg" class="PictureImg LazyImage"></figure>
@@ -4981,7 +4981,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 52 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3015.87px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Hot Dog Heist" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg" class="PictureImg LazyImage"></figure>
@@ -4999,7 +4999,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 53 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -2783.88px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:wild-west-gold-megaways-47903/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild West Gold Megaways" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/8/898AB79CFE0F7A7308FF56BEA7CA6E6B.jpg" class="PictureImg LazyImage"></figure>
@@ -5017,7 +5017,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 54 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -2551.89px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/spribe:aviator-32430/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
@@ -5035,7 +5035,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 55 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -2319.9px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:auto-roulette-8345001034/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/27DC9A0748750DEFE82889DB8760BF26.optimized.png" class="PictureImg LazyImage"></figure>
@@ -5053,7 +5053,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 56 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -2087.91px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/drops&amp;wins:gates-of-olympus-1000™-61019/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -5071,7 +5071,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 57 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -1855.92px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-casino:lightning-rulet-40892081196/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/378130AEB726DE810D3B4DE827BB3BD2.optimized.png" class="PictureImg LazyImage"></figure>
@@ -5089,7 +5089,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 58 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -1623.93px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/mitolojik-oyunlar:gates-of-olympus™-39095/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C34C5D9715E7346776AE90B976A526FC.optimized.png" class="PictureImg LazyImage"></figure>
@@ -5107,7 +5107,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 59 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -1391.94px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:fruit-party-2™-42126/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Fruit Party 2™" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FC201CF7850317E938A36B52E1A99314.jpg" class="PictureImg LazyImage"></figure>
@@ -5125,7 +5125,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 60 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -1159.95px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/play'n-go:hot-dog-heist-70748/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Hot Dog Heist" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/0/015405F34361706334A72968B0958C8B.jpg" class="PictureImg LazyImage"></figure>
@@ -5143,7 +5143,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 61 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -927.96px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic-casino:wild-west-gold-megaways-47903/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild West Gold Megaways" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/8/898AB79CFE0F7A7308FF56BEA7CA6E6B.jpg" class="PictureImg LazyImage"></figure>
@@ -5161,7 +5161,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 62 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -695.97px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/spribe:aviator-32430/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
@@ -5179,7 +5179,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 63 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -463.98px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-30-canli-casino:auto-roulette-8345001034/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/27DC9A0748750DEFE82889DB8760BF26.optimized.png" class="PictureImg LazyImage"></figure>
@@ -5197,7 +5197,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 64 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -231.99px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 231.99px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/drops&amp;wins:gates-of-olympus-1000™-61019/?prevRoute=/casino">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
