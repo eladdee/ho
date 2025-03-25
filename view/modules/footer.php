@@ -132,7 +132,6 @@
                   </div>
                </span>
                <span>
-                  <script id="er_588298135" src="//cdn.livechatinc.com/qb/qb-12771750-light-200.js"></script>
                </span>
             </li>
          </ul>

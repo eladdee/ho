@@ -8,7 +8,7 @@
       <style data-styles="">casino-play-random-game{visibility:hidden}.hydrated{visibility:inherit}</style>
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       
-      <meta name="Application-Name" content="jojoBET">
+      <meta name="Application-Name" content="holiganBET">
       <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
       <link rel="preload" href="/static/css/common-d84be9782d9443a05473.css" as="style">
       <link rel="preload" href="/static/css/bundle-8e36151425c49c5c9bfb.css" as="style">
@@ -589,17 +589,17 @@
                            </span>
                         </button>
                         <ul class="Menu Vertical List ListUnordered">
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon" href="/"><span class="AnchorText" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon-Text">Özel Oranlar</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon" href="#/"><span class="AnchorText" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon-Text">Özel Oranlar</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino/games/mobil-oyunlar:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fmobil-oyunlar" href="/aviator"><span class="AnchorText" id="DesktopNavButton-/casino/games/mobil-oyunlar:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fmobil-oyunlar-Text">Aviator</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas" href="/poker"><span class="AnchorText" id="DesktopNavButton-/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas-Text">Poker Klas</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/sports/i" href="/"><span class="AnchorText" id="DesktopNavButton-/sports/i-Text">Bahis</span></a></li>
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-sports/i" href="/"><span class="AnchorText" id="DesktopNavButton-/live-sports/i-Text">Canlı Bahis</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-sports/i" href="/#"><span class="AnchorText" id="DesktopNavButton-/live-sports/i-Text">Canlı Bahis</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/cat/canlı-oyunlar" href="/canlioyun"><span class="AnchorText" id="DesktopNavButton-/live-casino/cat/canlı-oyunlar-Text">Canlı Oyunlar</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino" href="livecasino"><span class="AnchorText" id="DesktopNavButton-/live-casino-Text">Canlı Casino</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino" href="/casino"><span class="AnchorText" id="DesktopNavButton-/casino-Text">Casino</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/games/loto:canlı-loto-49160/?prevRoute=%2Flive-casino%2Fcat%2Floto" href="/loto"><span class="AnchorText" id="DesktopNavButton-/live-casino/games/loto:canlı-loto-49160/?prevRoute=%2Flive-casino%2Fcat%2Floto-Text">Canlı Loto</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/promotions" href="/promotions"><span class="AnchorText" id="DesktopNavButton-/promotions-Text">Promosyonlar</span></a></li>
-                           <li class="MenuItem ListItem"><a target="_blank" class="ComponentAnchor  Anchor" href="/" id="DesktopNavButton-https://dub.is/jojodiscount"><span class="AnchorText" id="DesktopNavButton-https://dub.is/jojodiscount-Text">Discount Talep Et</span></a></li>
+                           <li class="MenuItem ListItem"><a target="_blank" class="ComponentAnchor  Anchor" href="#" id="DesktopNavButton-https://dub.is/jojodiscount"><span class="AnchorText" id="DesktopNavButton-https://dub.is/jojodiscount-Text">Discount Talep Et</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/tournaments/all" href="/tournaments"><span class="AnchorText" id="DesktopNavButton-/tournaments/all-Text">Turnuvalar</span></a></li>
                         </ul>
                         <button type="button" class="MainNavScrollBtn RightNavScrollBtn">
