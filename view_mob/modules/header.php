@@ -8,7 +8,7 @@
       <style data-styles="">casino-play-random-game{visibility:hidden}.hydrated{visibility:inherit}</style>
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       
-      <meta name="Application-Name" content="jojoBET">
+      <meta name="Application-Name" content="Holiganbet">
       <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
       <link rel="preload" href="/static/css/common-d84be9782d9443a05473.css" as="style">
       <link rel="preload" href="/static/css/bundle-8e36151425c49c5c9bfb.css" as="style">
@@ -17,7 +17,7 @@
       <link rel="stylesheet" type="text/css" href="/static/css/bundle-8e36151425c49c5c9bfb.css">
       
     
-      <meta name="author" content="jojoBET">
+      <meta name="author" content="Holiganbet">
       <meta name="apple-mobile-web-app-title" content="<?=$title?>">
       <meta name="HandheldFriendly" content="true">
       <meta name="Robots" content="index, follow">
@@ -251,7 +251,7 @@
         </style>
       <style data-styles="">casino-play-random-game{visibility:hidden}.hydrated{visibility:inherit}</style>
       <title><?=$title?></title>
-      <meta name="description" content="<?=$title?>Jojobet Türkiye'nin en iyi spor bahisleri ve casino sitesidir.">
+      <meta name="description" content="<?=$title?>Holiganbet Türkiye'nin en iyi spor bahisleri ve casino sitesidir.">
       <meta name="keywords" content="jojobet, <?=$guncel?>, Yüksek Bahis Oranları, Canlı Bahisler, Casino Oyunları">
       <link rel="shortcut icon" sizes="32x32" href="/static/img/favicon-32x32.png" type="image/png">
       <link rel="icon" sizes="16x16" href="/static/img/favicon-16x16.png" type="image/png">
@@ -265,7 +265,7 @@
       <link rel="manifest" href="/static/xml/site.webmanifest">
       <style data-emotion=""></style>
       <link rel="stylesheet" href="/static.glastcoper.com/omfe-widgets/p/widgets/1.29.16/widgets.min.css">
-      <meta name="applicationName" content="jojoBET">
+      <meta name="applicationName" content="Holiganbet">
       <meta name="msApplicationTileColor" content="#294c0b">
       <script src="/assets/js/script.js"></script>
       <script src="/assets/js/app.js"></script>

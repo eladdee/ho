@@ -51,8 +51,8 @@
       <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css">
       <link rel="stylesheet" type="text/css" href="/static/css/bundle-8e36151425c49c5c9bfb.css">
       
-      <meta name="author" content="jojoBET">
-      <meta name="apple-mobile-web-app-title" content="Jojobet: Türkiye'nin En Güvenilir Bahis ve Casino Sitesi - Jojobet Giriş">
+      <meta name="author" content="Holiganbet">
+      <meta name="apple-mobile-web-app-title" content="Holiganbet: Türkiye'nin En Güvenilir Bahis ve Casino Sitesi - Holiganbet Giriş">
       <meta name="HandheldFriendly" content="true">
       <meta name="Robots" content="index, follow">
       <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
@@ -70,8 +70,8 @@
 }
 </style>
       
-<title>Holiganbet Casino: Yüzlerce Casino Oyunu ve Holiganbet güvencesi ile sizlerle</title>
-    <meta name="description" content="Holiganbet casino oyunlarına giriş yaparak yüzlerce casino oyunu arasından dilediğinizi seçip eğlenirken Holiganbet güvencesi ile kazanmaya başlayabilirsiniz." />
+<title><?=$title?></title>
+    <meta name="description" content="<?=$title?>Holiganbet casino oyunlarına giriş yaparak yüzlerce casino oyunu arasından dilediğinizi seçip eğlenirken Holiganbet güvencesi ile kazanmaya başlayabilirsiniz." />
     <meta name="keywords" content="Casino, Casino Oyunları" />
       <link rel="shortcut icon" sizes="32x32" href="/static/img/favicon-32x32.png" type="image/png">
       <link rel="icon" sizes="16x16" href="/static/img/favicon-16x16.png" type="image/png">
