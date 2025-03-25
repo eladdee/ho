@@ -170,7 +170,7 @@
                                     border-radius: 5px 5px 0 0;
                                     transition: 0.25s ease;
                                     width: 100%;
-                                    background: #151516;
+                                    background: #171c2c;
                                 }
 
                                 .NavigationWindow.NavigationWindowOpened {
@@ -250,7 +250,7 @@
                                     height: 52px;
                                     border-radius: 5px;
                                     position: relative;
-                                    background: #151516;
+                                    background: #171c2c;
                                 }
 
                                 .NavigationBar.NavigationBarSimple {
@@ -297,7 +297,7 @@
                                 }
 
                                 .NavigationButton {
-                                    background: #151516;
+                                    background: #171c2c;
                                     border: none;
                                     width: 20%;
                                     height: 100%;
@@ -348,7 +348,7 @@
                                 }
 
                                 .NavigationWrapper mobile-bottom-navigation::part(NavigationBar),.NavigationWrapper mobile-bottom-navigation::part(NavigationButton) {
-                                    background: #151516
+                                    background: #171c2c
                                 }
 
                                 .NavigationWrapper mobile-bottom-navigation::part(NavigationPrimaryItemImgWrapper),.NavigationWrapper mobile-bottom-navigation::part(NavigationSecondaryItemImgWrapper) {
@@ -450,19 +450,19 @@
       </div>
    </div>
    <div class="NavigationBar  " part="NavigationBar  ">
-      <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor ">
+      <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = 'https://direct.lc.chat/16139457/'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-holiganbet-one/2023/01/1670f240-canli-destek-copy-01-01.svg" alt="Canlı Destek"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Destek</p>
       </div>
-      <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor ">
+      <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/casino'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-holiganbet-one/2024/09/dda39ec3-casino.svg" alt="Casino"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Casino</p>
       </div>
-      <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor ">
+      <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/livecasino'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-holiganbet-one/2024/09/8a852d4e-canli-oyunlar.svg" alt="Canlı Casino"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Casino</p>
       </div>
-      <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor ">
+      <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/tournaments'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-holiganbet-one/2024/10/2bc3c4b9-turnuva3.svg" alt="50.000.000"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">50.000.000</p>
       </div>
